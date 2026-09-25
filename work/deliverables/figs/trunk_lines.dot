@@ -1,0 +1,83 @@
+digraph T {
+graph [rankdir=TB, nodesep=0.25, ranksep=0.45, fontname="Arial", label="The eight trunk lines (top = oldest, bottom = today)", labelloc=t, fontsize=18];
+node [shape=box, style="rounded,filled", fontname="Arial", fontsize=10];
+edge [color="#444444", penwidth=1.4, arrowsize=0.7];
+subgraph cluster_0 { label="1 Crazy Horse\nguitar"; fontsize=12; fontname="Arial Bold"; color="#bbbbbb"; style=rounded;
+"t0_V20" [label="V20\nNeil Young and the\nCrazy Horse universe", fillcolor="#8FB8DE"];
+"t0_V1" [label="V1\nMolina and the\nMagnolia circle", fillcolor="#8FB8DE"];
+"t0_C1" [label="C1\nIndie twang /\nyallternative", fillcolor="#F4A261"];
+"t0_ex" [shape=plaintext, style="", fontsize=9, label="Neil Young → Magnolia\nElectric Co. → MJ\nLenderman"];
+"t0_V20" -> "t0_V1";
+"t0_V1" -> "t0_C1";
+"t0_C1" -> "t0_ex" [style=invis];
+}
+subgraph cluster_1 { label="2 Country by punk\nkids"; fontsize=12; fontname="Arial Bold"; color="#bbbbbb"; style=rounded;
+"t1_V14" [label="V14\nCowpunk and LA roots\npunk", fillcolor="#8FB8DE"];
+"t1_V9" [label="V9\nNo Depression and\ninsurgent country", fillcolor="#8FB8DE"];
+"t1_V6" [label="V6\n2000s–2010s\nalt-country", fillcolor="#8FB8DE"];
+"t1_C3" [label="C3\nNew alt-country and\nhonky-tonk bands", fillcolor="#F4A261"];
+"t1_ex" [shape=plaintext, style="", fontsize=9, label="X, Jason & the Scorchers\n→ Uncle Tupelo → Neko\nCase → Fust, Tobacco City"];
+"t1_V14" -> "t1_V9";
+"t1_V9" -> "t1_V6";
+"t1_V6" -> "t1_C3";
+"t1_C3" -> "t1_ex" [style=invis];
+}
+subgraph cluster_2 { label="3 Deadpan funny-sad"; fontsize=12; fontname="Arial Bold"; color="#bbbbbb"; style=rounded;
+"t2_V25" [label="V25\nCountry-folk\nstorytellers", fillcolor="#8FB8DE"];
+"t2_V2" [label="V2\nDrag City deadpan\nschool", fillcolor="#8FB8DE"];
+"t2_C2" [label="C2\nBarroom storytellers\nand deadpan\nsongwriters", fillcolor="#F4A261"];
+"t2_ex" [shape=plaintext, style="", fontsize=9, label="Prine, Tom T. Hall →\nSilver Jews → Ryan Davis\n& the Roadhouse Band"];
+"t2_V25" -> "t2_V2";
+"t2_V2" -> "t2_C2";
+"t2_C2" -> "t2_ex" [style=invis];
+}
+subgraph cluster_3 { label="4 Southern\nstorytelling"; fontsize=12; fontname="Arial Bold"; color="#bbbbbb"; style=rounded;
+"t3_V28" [label="V28\nSouthern rock and\ncountry soul", fillcolor="#8FB8DE"];
+"t3_V3" [label="V3\nSouthern storytelling\nrock", fillcolor="#8FB8DE"];
+"t3_C4" [label="C4\nCountrygaze and loud\ntwang", fillcolor="#F4A261"];
+"t3_ex" [shape=plaintext, style="", fontsize=9, label="Lynyrd Skynyrd → Drive-By\nTruckers → Wednesday"];
+"t3_V28" -> "t3_V3";
+"t3_V3" -> "t3_C4";
+"t3_C4" -> "t3_ex" [style=invis];
+}
+subgraph cluster_4 { label="5 Slow, sad, noisy"; fontsize=12; fontname="Arial Bold"; color="#bbbbbb"; style=rounded;
+"t4_V29" [label="V29\nVelvet Underground\nand proto-indie", fillcolor="#8FB8DE"];
+"t4_V12" [label="V12\nSlowcore and sadcore", fillcolor="#8FB8DE"];
+"t4_C8" [label="C8\nModern slowcore and\nhushed twang", fillcolor="#F4A261"];
+"t4_ex" [shape=plaintext, style="", fontsize=9, label="Velvet Underground → Low,\nCodeine → Friendship,\nSluice"];
+"t4_V29" -> "t4_V12";
+"t4_V12" -> "t4_C8";
+"t4_C8" -> "t4_ex" [style=invis];
+}
+subgraph cluster_5 { label="6 The DIY network"; fontsize=12; fontname="Arial Bold"; color="#bbbbbb"; style=rounded;
+"t5_V16" [label="V16\nAmerican underground\nand college rock", fillcolor="#8FB8DE"];
+"t5_V11" [label="V11\nLo-fi and home taping", fillcolor="#8FB8DE"];
+"t5_V10" [label="V10\nSlacker and '90s\nindie rock", fillcolor="#8FB8DE"];
+"t5_C7" [label="C7\nSlacker, jangle, and\npower-pop revival", fillcolor="#F4A261"];
+"t5_ex" [shape=plaintext, style="", fontsize=9, label="SST, R.E.M. → Guided by\nVoices → Pavement → Alex\nG, Horsegirl"];
+"t5_V16" -> "t5_V11";
+"t5_V11" -> "t5_V10";
+"t5_V10" -> "t5_C7";
+"t5_C7" -> "t5_ex" [style=invis];
+}
+subgraph cluster_6 { label="7 Cosmic American\nMusic"; fontsize=12; fontname="Arial Bold"; color="#bbbbbb"; style=rounded;
+"t6_V21" [label="V21\nCountry rock and\nCosmic American Music", fillcolor="#8FB8DE"];
+"t6_V27" [label="V27\nThe Grateful Dead and\nCalifornia\ncountry-psych", fillcolor="#8FB8DE"];
+"t6_C6" [label="C6\nCosmic country and\nthe '70s revival", fillcolor="#F4A261"];
+"t6_ex" [shape=plaintext, style="", fontsize=9, label="Gram Parsons → Grateful\nDead → Woods, Rose City\nBand"];
+"t6_V21" -> "t6_V27";
+"t6_V27" -> "t6_C6";
+"t6_C6" -> "t6_ex" [style=invis];
+}
+subgraph cluster_7 { label="8 Folk songwriting"; fontsize=12; fontname="Arial Bold"; color="#bbbbbb"; style=rounded;
+"t7_R1" [label="R1\nRoots", fillcolor="#8FB8DE"];
+"t7_V24" [label="V24\nTexas songwriters and\nprogressive country", fillcolor="#8FB8DE"];
+"t7_V5" [label="V5\nRootsy indie folk", fillcolor="#8FB8DE"];
+"t7_C5" [label="C5\nTwangy indie folk", fillcolor="#F4A261"];
+"t7_ex" [shape=plaintext, style="", fontsize=9, label="Carter Family, Guthrie →\nTownes → Gillian Welch →\nBig Thief"];
+"t7_R1" -> "t7_V24";
+"t7_V24" -> "t7_V5";
+"t7_V5" -> "t7_C5";
+"t7_C5" -> "t7_ex" [style=invis];
+}
+}

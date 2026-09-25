@@ -76,3 +76,8 @@ no V6 gaps to log this session
 - [C7a] https://en.wikipedia.org/wiki/Dick_Diver_(band) | 404, no Wikipedia article exists | needed for: Dick Diver discography (used Bandcamp instead)
 - [C7a] https://en.wikipedia.org/wiki/Dazy_(musician) | 404, no Wikipedia article exists | needed for: Dazy discography (used Bandcamp instead)
 - [C7a] https://goodflyingbirds.bandcamp.com/music, https://golomb.bandcamp.com/music | pages loaded but grid view has no visible year/label text | needed for: multi-album year confirmation (used individual album pages instead)
+- [DEEP] https://aquariumdrunkard.com/2025/06/30/aquarium-drunkard-2025-midyear-review/ | query extractor returned no usable list (JS-rendered content) | needed for: 2025 midyear indie-twang/Americana candidates
+- [DEEP] https://tommyprine.bandcamp.com/album/this-far-south | 404, no artist Bandcamp album page found | needed for: Tommy Prine - This Far South second source (used Wikipedia only, Medium confidence)
+- [DEEP] https://colinmillermusic.bandcamp.com/music | 404, wrong subdomain (correct: colinmiller.bandcamp.com) | needed for: Colin Miller discography (recovered via colinmiller.bandcamp.com/album/losin)
+- [DEEP] https://noahkesey.bandcamp.com/music | page loaded but had no year/label text; Guitar Music year (2023) recovered from Seven Days / Spotify / RYM search snippets only, not a full scrape | needed for: Noah Kesey - Guitar Music second verification source
+- [DEEP] https://jobimusic.bandcamp.com/music | index page had no year/label text (recovered via direct album URL /album/whiplash instead) | needed for: Jobi Riccio discography index

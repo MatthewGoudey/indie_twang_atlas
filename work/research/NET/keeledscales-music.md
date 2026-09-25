@@ -1,0 +1,103 @@
+---
+url: https://keeledscales.bandcamp.com/music
+title: Music | Keeled Scales
+fetched: 2026-09-25
+lane: NET
+why: label catalog for Keeled Scales (Austin, TX) — Core network pass
+mode: query
+---
+- Hiding Places, The Secret To Good Living
+- Living Hour, Magnet EP
+- Hrishikesh Hirway, In the Last Hour of Light
+- Common Holly, They will draw halos around our heads EP
+- Hiding Places, Holy Roller
+- moriah bailey (fka sun riah), Live at Factory Obscura
+- Living Hour, Internal Drone Infinity
+- Magnolia & Johnson Electric Co., Magnolia & Johnson Electric Co.
+- Emily Hines, These Days
+- Common Holly, Anything glass
+- Good Looks, Lived Here For A While (Deluxe Edition)
+- Jo Schornikow, Quiet Excerpts
+- Joni, Things I Left Behind
+- Will Johnson, Diamond City
+- Lunar Vacation, Lights Off
+- Emily Hines, Cowgirl Suit
+- Will Johnson, Sleuthed/Full Cuts
+- Joni, Avalanches
+- Renée Reed, On A Good Day
+- Good Looks, Damage Control
+- Lunar Vacation, Everything Matters, Everything's Fire
+- sinai vessel, I SING
+- Good Looks, Lived Here For A While
+- Tenci, Bubblegum
+- Bridget Kearney, Comeback Kid
+- Hiding Places, Lesson
+- sinai vessel, How
+- Meernaa, So Far So Good
+- Will Johnson, No Ordinary Crown
+- Rae Fitzgerald, Say I Look Happy
+- Jordan Moser, PERIL
+- RF Shannon, Red Swan in Palmetto
+- Meernaa, I Believe In You
+- Hiding Places, Refrigerator
+- Why Bonnie, Apple Tree
+- moriah bailey (fka sun riah), i tried words
+- Hiding Places, Hiding Places
+- Tenci, A Swollen River, A Well Overflowing
+- twain, Noon
+- THE DƎER, The Beautiful Undead
+- Why Bonnie, 90 In November
+- Hiding Places, The Fly (EP)
+- Jo Schornikow, ALTAR
+- Good Looks, Bummer Year
+- RF Shannon, Wildegeeses / Dublin, Texas
+- twain, King of Fools
+- moriah bailey (fka sun riah), So You Say...
+- Future Museums, Heart Pulp
+- Why Bonnie, Galveston
+- Renée Reed, J'ai rêvé
+- Adam Ostrar, The Worried Coat
+- Hiding Places, Heartbreak Skatepark
+- Hiding Places, Homework
+- RF Shannon, Dublin, Texas
+- Renée Reed, Renée Reed
+- Katy Kirby, Cool Dry Place (Expanded)
+- Buck Meek, Two Saviors
+- TRÈS OUI, Sad Boys / Oh Guitar
+- Rae Fitzgerald, Lonely Listener
+- Will Johnson, El Capitán
+- Buck Meek, Roll Back Your Clocks
+- Jordan Moser, Saturn's Child: A Live Recording
+- Rae Fitzgerald, Smileland
+- Renée Reed, Until Tomorrow
+- Tenci, My Heart Is An Open Field
+- THE DƎER, Acid Wash l Superstition Mountains
+- Katy Kirby, Tap Twice
+- Renée Reed, Out Loud
+- twain, Adventure
+- THE DƎER, Do No Harm
+- twain, Inner Beauty
+- Hiding Places, crown of tin
+- Will Johnson, Wire Mountain
+- RF Shannon, Rain On Dust
+- Jordan Moser, Long Night
+- Erin Durant, Islands
+- Jo Schornikow, Secret Weapon
+- Sun June, Younger EP
+- Buck Meek, Halo Light
+- twain, 2 E.P.s
+- Lake Mary, River Ceremony
+- Sun June, Years
+- Buck Meek, Buck Meek
+- twain, Rare Feeling
+- moriah bailey (fka sun riah), Sitting with Sounds and Listening for Ghosts
+- LRN GRN, No Water/Only Light
+- Julia Lucille, Chthonic
+- Future Museums, Visible Nest
+- Julia Lucille, Bedroom Tapes, Vol. One
+- RF Shannon, Other Trails
+- Caitlin Kraus, Waiting for the World/Dead Man
+- Dana Falconberry & Medicine Bow, From The Forest Came The Fire
+- Real Live Tigers, Tomboys/Even Still
+- The Room Outside, The Room Outside
+(no years shown on this page; years verified per-album via Bandcamp album pages/Wikipedia where used below)
