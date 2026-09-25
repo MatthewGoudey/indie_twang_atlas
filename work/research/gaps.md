@@ -142,3 +142,4 @@ no V6 gaps to log this session
 - [SW5] https://rollingblackoutscf.bandcamp.com/music | 404 (wrong subdomain) | needed for: RBCF EP cross-check, resolved via correct subdomain + Wikipedia
 - [SW5] https://sharppins.bandcamp.com/album/balloon-balloon-balloon | 404 (correct slug has -2 suffix) | needed for: Sharp Pins - Balloon Balloon Balloon, resolved
 - [SW5] https://warehouseatl.bandcamp.com/album/tesseract | 404 (delisted/renamed) | needed for: Warehouse - Tesseract direct bandcamp confirmation, resolved via Discogs/BrooklynVegan instead
+- [QA] firecrawl_search "Emmylou Harris discogs Pieces of the Sky Elite Hotel Luxury Liner" | result exceeded max token size, no retry | needed for: Emmylou Harris early Reprise albums; recovered via a narrower re-query instead.

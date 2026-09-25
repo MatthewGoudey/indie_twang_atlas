@@ -38,6 +38,10 @@ nv = jl(f"{W}/needs_verification.jsonl")
 scenes = js(f"{S}/scenes.json", [])
 labels_x = js(f"{S}/labels.json", [])
 artists_x = js(f"{S}/artists.json", {})
+import glob as _g
+for _f in sorted(_g.glob(f"{S}/artists_part_*.json")):
+    try: artists_x.update(json.load(open(_f, encoding="utf-8")))
+    except Exception as e: print("bad", _f, e)
 paths = js(f"{S}/paths.json", [])
 blog = jl(f"{W}/borderline_log.jsonl")
 qalog = jl(f"{W}/qa_log.jsonl")

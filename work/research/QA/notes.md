@@ -53,3 +53,7 @@ Notes on accepted regional-label variance (marked ok, not fix):
 - Neko Case "Blacklisted"/"Fox Confessor Brings the Flood": Discogs artist-page summary lists Mint Records (Canada) but Bloodshot/Anti- (US) confirmed independently (Austin Chronicle review site for the era, Wikipedia/thecurrent.org for Fox Confessor) - left as ok.
 - Neko Case "Neon Grey Midnight Green" (2025): Discogs lists Epitaph; Anti- is an Epitaph imprint - left as ok.
 All Deer Tick, Hiss Golden Messenger, Cass McCombs, Calexico, Lambchop, Old 97's, Justin Townes Earle, Hurray for the Riff Raff, Lydia Loveless, Caitlin Rose, M. Ward, Ryan Adams rows matched independent sources exactly.
+QA12 batch_12 summary: 110 rows checked across ~40 artists.
+Verdicts: fix=4 (A2144 Nick Shoulders label, A2154/A2155 Charles Wesley Godwin labels, A2172 Kaitlin Butts label). All others ok.
+Independent sources used: Discogs (primary, 24 artists via search), Wikipedia cross-page (Wand band bio for Cory Hanson, Sol y Sombra album page for Rose City Band), Spotify/press (Kaitlin Butts, savingcountrymusic.com, klofmag/americana-uk for Jaime Wyatt).
+Where no independent source existed within budget (many bandcamp-only DIY acts, several no-Wikipedia-page artists), re-confirmed against the row's own cited source per orchestrator guidance and marked independent:false rather than unchecked.
