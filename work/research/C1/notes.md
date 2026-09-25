@@ -33,3 +33,4 @@ Good Looks | Lived Here For A While | 2024 | Keeled Scales | batch3-bandcamp + t
 Why Bonnie | Wish on the Bone | 2024 | Fire Talk | batch4-bandcamp + terry | 2
 David Nance & Mowed Sound | David Nance & Mowed Sound | 2024 | Third Man Records (per Terry; not stated on Bandcamp) | batch4-bandcamp + terry | 2
 Dialup Ghost | May You Live Forever in Cowboy Heaven | 2024 | Self-released | batch4-bandcamp + terry | 2
+Kevin Copeland | Only Love Songs | 2026 | Self-released | kevincopeland-bandcamp + terry | 2

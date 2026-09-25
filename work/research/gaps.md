@@ -20,3 +20,4 @@
 - [V7] Cole Chaney - Mercy (2022) | not researched | needed for: borderline V7/X2 candidate named in assignment; 0 searches/scrapes remained
 - [V7] Summer Dean - Bad Romantic (2020) | not confirmed via scraped page | needed for: label/year confirmation
 no V6 gaps to log this session
+- [C1] https://wideorbit.bandcamp.com/album/introducing-wide-orbit | 404 Not Found | needed for: Wide Orbit – Introducing... Wide Orbit (year/label verification; budget spent before finding correct handle)
