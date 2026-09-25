@@ -30,3 +30,6 @@ Merce Lemon | Watch Me Drive Them Dogs Wild | 2024 | Self-released | batch3-band
 Wild Pink | Still Coming Down | 2026 | Fire Talk | batch3-bandcamp + terry | 2
 Good Looks | Bummer Year | 2022 | Keeled Scales | batch3-bandcamp + terry | 2
 Good Looks | Lived Here For A While | 2024 | Keeled Scales | batch3-bandcamp + terry | 2
+Why Bonnie | Wish on the Bone | 2024 | Fire Talk | batch4-bandcamp + terry | 2
+David Nance & Mowed Sound | David Nance & Mowed Sound | 2024 | Third Man Records (per Terry; not stated on Bandcamp) | batch4-bandcamp + terry | 2
+Dialup Ghost | May You Live Forever in Cowboy Heaven | 2024 | Self-released | batch4-bandcamp + terry | 2
