@@ -92,3 +92,8 @@ no V6 gaps to log this session
 - [SW2] Bloomsday | ambiguous - multiple unrelated acts share the name | needed for: identifying correct act/album
 - [SW2] Cantuckee | appears to be an EP within villagerrr's discography, not a standalone act | needed for: clarifying assignment brief
 - [SW2] Gia Margaret | rejected - ambient/dream-pop sound (Jagjaguwar), not Core twang; closer to Context X5/X9
+- [SW3] https://ryleywalker.bandcamp.com/album/all-kinds-of-you | 404, wrong slug, budget not spent finding correct one | needed for: Ryley Walker - All Kinds of You (2014 debut) label confirmation; left out
+- [SW3] https://en.wikipedia.org/wiki/Garcia_Peoples | 404, no Wikipedia article | needed for: Garcia Peoples fuller discography beyond Cosmic Cash/Nightcap/100 Years of Solid Dudes (Howl House, Natural Facts, One Step Behind not independently dated/labeled)
+- [SW3] https://www.discogs.com/artist/1085148-Chris-Forsyth | wrong artist ID (resolved to Stereobastard) | needed for: Chris Forsyth full discography beyond Solar Motel/Intensity Ghost; later LPs (The Rarity of Experience, Dreaming in the Non-Dream, All Time Present) not verified within budget
+- [SW3] Circles Around the Sun self-titled LP year shows as 2020 per about-page/Facebook mentions but Bandcamp album page metadata shows "released 03 June 2022" (likely a reissue/digital-listing date); used 2020 as original release, confidence Medium
+- [SW3] Jonathan Wilson - Eat the Worm (2023) not independently verified for label within budget; left out of this batch

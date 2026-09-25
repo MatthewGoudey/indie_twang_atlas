@@ -1,0 +1,6 @@
+- Wild Pink: SW3 filed 5 more albums as C1; prior ruling: only Still Coming Down is C1 by sound. Decide: move the others to C7 (or X7) or drop; log in Borderline Log.
+- Real Companion – Nü-metal Heroes: DEEP put in C2; C1 agent judged heartland (X7). Decide.
+- Cassandra Jenkins (SW2 put in C2) — check fit.
+- Greg Freeman – All Set the Bone: releases 2026-10-02 (after today); keep with note or move to Needs Verification.
+- Beachwood Sparks 2000/2001 filed V4 primary.
+- Canonical artist names: Bonnie 'Prince' Billy quote style; villagerrr vs Villagerrr; Hataałii vs Hataalii.
