@@ -156,3 +156,6 @@ no V6 gaps to log this session
 - [QA09] https://katykirby.bandcamp.com/music | page returned no discography text via query extraction | needed for: Katy Kirby independent check (used Wikipedia instead, which flagged A1712 as fail)
 - [QA09] https://spencerhoffman.bandcamp.com/music | page did not list "Cherry Picker" (listed other releases) | needed for: Spencer Hoffman cross-check (resolved via row's own Spill Magazine review, which matched exactly)
 - [QA14] https://en.wikipedia.org/wiki/Pardoner_(band) | 404 not found | needed for: independent check of Pardoner rows (worked around via Discogs)
+- [QA] https://www.allmusic.com/artist/teenage-fanclub-mn000015694/discography | 404 (bad artist id) | needed for: Teenage Fanclub rows — used Discogs artist page instead
+- [QA] https://www.allmusic.com/search/all/20/20 | 404 (unescaped slash) | needed for: 20/20 row — retried with escaped query then used Discogs instead
+- [QA] https://www.discogs.com/search/?q=The+Grays+Ro+Sham+Bo&type=artist | no artist URL found | needed for: The Grays row — used Wikipedia instead
