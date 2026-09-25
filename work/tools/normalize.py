@@ -2,7 +2,7 @@
 """Post-merge normalization of master.jsonl: artist names, scenes, orchestrator overrides. Writes borderline_log.jsonl entries for overrides."""
 import json,sys,os
 sys.path.insert(0,'/home/claude/work/tools')
-from scenes_def import canon
+from scenes_def import canon, canon_row
 W="/home/claude/work"; os.chdir(W)
 ov=json.load(open("overrides.json")); lanes={l['id']:l for l in json.load(open("skeleton/lanes.json"))}
 rows=[json.loads(l) for l in open("master.jsonl")]
@@ -12,7 +12,7 @@ def layer(y,lane):
     return "L1" if y>=2014 else "L2" if y>=1998 else "L3" if y>=1987 else "L4" if y>=1978 else "L5" if y>=1965 else "L6"
 for r in rows:
     r['artist']=ov['artist_names'].get(r['artist'],r['artist'])
-    c=canon(r.get('scene',''))
+    c=canon_row(r.get('scene',''), r['year'], r['primary_lane'])
     r['scene']=c if c else ""
     drop=False
     for o in ov['rows']:

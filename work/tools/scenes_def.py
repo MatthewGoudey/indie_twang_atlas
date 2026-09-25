@@ -7,6 +7,7 @@ SCENES = [
  ("Louisville and Sophomore Lounge", "Louisville, KY / Jeffersonville, IN", "2006–", "Sophomore Lounge, Drag City, No Quarter", "Ryan Davis & the Roadhouse Band, State Champion, Styrofoam Winos, Grace Rogers, Joan Shelley, Palace, Slint", "From the Palace/Slint generation to Ryan Davis's Sophomore Lounge label and its barfly songwriters."),
  ("Chicago insurgent country", "Chicago, IL", "1993–2005", "Bloodshot", "Waco Brothers, Robbie Fulks, Neko Case, Kelly Hogan, Freakwater, The Handsome Family", "Bloodshot's 'insurgent country': punks playing honky-tonk and Bakersfield in Chicago bars."),
  ("Chicago twang and DIY", "Chicago, IL", "2015–", "Sooper, Fire Talk, Run for Cover, Merge", "Tobacco City, Red PK, National Photo Committee, Case Oats, Horsegirl, Friko, Ratboys, Twin Peaks", "The current Chicago scene: a DIY alt-country cluster sharing pedal-steel players, beside a jangle and emo-twang circuit."),
+ ("Chicago folk revival", "Chicago, IL", "1965–1980", "Atlantic, Asylum, Flying Fish", "John Prine, Steve Goodman, Bonnie Koloc", "The Old Town School of Folk Music and North Side folk clubs that launched Prine and Goodman."),
  ("Chicago Drag City", "Chicago, IL", "1990–", "Drag City, Thrill Jockey", "Silver Jews, Smog, Palace, Royal Trux, Red Red Meat, Califone", "Drag City's deadpan, lo-fi songwriting culture and the Thrill Jockey post-rock scene next door."),
  ("Philadelphia DIY", "Philadelphia, PA", "2010–", "Lame-O, Salinas, Father/Daughter", "Waxahatchee, Swearin', Radiator Hospital, Hurry, Alex G, Golden Apples, 2nd Grade, Friendship, Sunday Mourners", "House-show power pop and indie rock; one of the field guide's regions."),
  ("Philly Free Folk", "Philadelphia, PA", "2000–2010", "Drag City, Language of Stone", "Espers, Meg Baird, Fern Knight", "Psych-folk revival that fed the 2010s cosmic and folk revivals."),
@@ -84,3 +85,17 @@ def canon(s):
     for sub,c in RULES:
         if sub.lower() in s.lower(): return c
     return None  # unmapped -> keep blank but report
+
+def canon_row(raw, year, lane):
+    c = canon(raw)
+    if c is None: return None
+    r = (raw or "").lower()
+    if c in ("Chicago twang and DIY", "Chicago folk revival"):
+        if year < 1985: return "Chicago folk revival"
+        if not lane.startswith("C"): return ""
+        return "Chicago twang and DIY"
+    if c == "LA cowpunk" and not (lane in ("V14","V15","V9","V16","X14") and 1976 <= year <= 1995):
+        return ""
+    if c == "Nashville" and "hillbilly" not in r and year < 2008 and lane not in ("V23","V26","V19","X1"):
+        return ""
+    return c
