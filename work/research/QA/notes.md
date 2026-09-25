@@ -31,3 +31,18 @@ Kevin Morby | City Music | 2017 | Dead Oceans | wikipedia-citymusic | 1
 - Graham Hunt - American Pyramid (2026): Run For Cover Records, not self-released.
 - The War on Drugs - Live Drugs, Again (2024): Super High Quality Records (Granduciel's own imprint), not Atlantic.
 - Dagmar Zuniga: AD 93 is a reissue label; original was a January 2026 self-upload via People's Coalition of Tandy.
+
+## QA31 batch (batch_31.jsonl / result_31.jsonl), 2026-09-25
+120 rows checked. ok=90, fix=30, fail=0, unchecked=0. Error rate (fix+fail)/checked = 30/120 = 25%.
+Common pattern confirmed: several "key tracks" are real songs by the same artist but from a DIFFERENT album by that artist
+(e.g. Mountain Goats: "The Best Ever Death Metal Band in Denton" attributed to Zopilote Machine but actually on All Hail West Texas;
+Townes Van Zandt tracks shuffled across Delta Momma Blues / Townes Van Zandt / At My Window / No Deeper Blue;
+Victoria Williams tracks shuffled between Happy Come Home / Loose / Musings of a Creek Dipper; Rank and File / Long Ryders similarly).
+A few rows had invented-looking tracks not found anywhere (Vic Chesnutt "West of Rome": Bug/Withering/DVD; Tobin Sprout "Moonflower Plastic": all 3 wrong,
+likely confused with his other album Carnival Boy).
+One label correction: Dave Alvin "Romeo's Escape" cited label Columbia Records but Wikipedia infobox says Demon.
+One year correction: Townes Van Zandt "Delta Momma Blues" cited as 1971, Wikipedia says 1970.
+One scrape failure logged to gaps.md (Letting_Off_the_Happiness, ERR_TUNNEL_CONNECTION_FAILED) - resolved via existing cached V11/bright-eyes-wiki.md instead.
+Sources used: mostly Wikipedia album-specific pages (many not among the row's own 2 cited sources, so independent=true in several cases;
+where the row's own cited Wikipedia page was reused, independent=false); Discogs used directly for 3 rows (Carter Family, Lefty Frizzell, Bob Wills compilations, plus Vic Chesnutt "Little" cross-check).
+Budget used: ~2 searches, ~95 scrapes (well within 25 search / 150 scrape budget). No 429s encountered.

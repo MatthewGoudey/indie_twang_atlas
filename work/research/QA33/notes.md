@@ -39,3 +39,17 @@ A0971 Cosmic Cowboy Souvenir ok 1973 A&M.
 A0972 B.W.Stevenson My Maria (Discogs cited) ok 1973 RCA Victor.
 A0974 Terry Allen Juarez - Discogs (release 2438063) + Wikipedia both indicate original label was FATE Records (Terry Allen's own imprint, same label used for Lubbock On Everything); Wikipedia says Sugar Hill was the CD REISSUE label only. Row's label "Landfall" appears WRONG -> FIX label to "Fate". Year 1975 matches, tracks match (Cortez Sail, Border Palace, Dogwood present).
 A0975 Lubbock (On Everything) ok 1979 Fate (Sugar Hill = reissue). tracks match.
+A0977 Kinky Friedman Sold American (Discogs cited) ok 1973 Vanguard.
+A0978 Kinky Friedman self-titled - ebay source 404 (logged to gaps); Wikipedia (cited) gives real tracklist: Lady Day, Autograph, Miss Kitty, Ballad of the Hebrew Baby, Mama Loved the Roses, Col Tom Parker, Western Union Wire, Nashville Casualty, Get Your Biscuits.., Ride 'Em Jewboy. Row key_tracks (Wild Man from Borneo/Rapid City SD/Somebody's Been Sleeping in My Bed) are NOT on this album -> FIX to Lady Day, Ride 'Em Jewboy, Get Your Biscuits in the Oven and Your Buns in the Bed. Year/label 1974 ABC confirmed by both ebay meta + wiki.
+A0979 RWH & Cowboy Twinkies (Discogs cited) ok 1975 Reprise.
+A0980 Off The Wall (Discogs cited) ok 1978 Lone Star Records.
+A0982 No Kinda Dancer ok 1984 Workshop Records.
+A0983 West Textures ok 1989 Sugar Hill.
+JohnPrine block: A0984 ok(1971 Atlantic); A0985 ok(1972 Atlantic); A0986 ok(1973 Atlantic); A0988 ok(1978 Asylum); A0989 ok(1980 Asylum, Discogs); A0991 ok(1991 OhBoy); A0993 ok(2005 OhBoy); A0994 ok(2018 OhBoy).
+A0999 TomTHall Storyteller ok(1972 Mercury, Discogs).
+A1000 SongsOfFoxHollow ok(1974 Mercury, Discogs).
+MickeyNewbury: A1001 LooksLikeRain ok(1969 Mercury); A1002 FriscoMabelJoy ok(1971 Elektra); A1003 HeavenHelpTheChild ok(1973 Elektra).
+SteveGoodman: A1004 ok(1971 Buddah); A1006 JessiesJig ok(1975 Asylum).
+BobbieGentry: A1008 DeltaSweete ok(1968 Capitol); A1009 Fancy ok(1970 Capitol); A1010 Patchwork ok(1971 Capitol).
+LeeHazlewood: A1012 CowboyInSweden ok(1970 LHI); A1014 "13" - master page confirms original 1972 release on VIKING label (row correct); a later Discogs release edition showed Swedish "Grammofon AB Electra" but that's not original. OK 1972 Viking.
+A1016 Karen Dalton In My Own Time - Discogs release+Wikipedia confirm 1971, labels "Paramount Records, Just Sunshine Records" jointly -> row's "Just Sunshine Records" correct. OK.
