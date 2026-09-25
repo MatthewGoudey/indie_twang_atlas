@@ -1,10 +1,92 @@
-{"artist_names": {"The Scud Mountain Boys": "Scud Mountain Boys", "Teddy and The Rough Riders": "Teddy and the Rough Riders"},
+{
+ "artist_names": {
+  "The Scud Mountain Boys": "Scud Mountain Boys",
+  "Teddy and The Rough Riders": "Teddy and the Rough Riders"
+ },
  "rows": [
-  {"artist": "Wild Pink", "except_album": "Still Coming Down", "set": {"primary_lane": "C6", "secondary_lanes": ["C1"]}, "reason": "Wild Pink's earlier records are heartland-leaning indie rock closer to The War on Drugs (C6) than to indie twang; only Still Coming Down is C1 by sound (prior ruling)."},
-  {"artist": "Real Companion", "set": {"primary_lane": "C1", "secondary_lanes": ["C2"]}, "reason": "Terry frames it as heartland rock, but it sits in the Asheville/Drop of Sun indie-twang network; kept Core (C1) rather than Context X7."},
-  {"artist": "Cassandra Jenkins", "drop": true, "reason": "Ambient art-pop without roots or twang texture; fails the Core sound test (two agents concurred)."},
-  {"artist": "Gia Margaret", "drop": true, "reason": "Ambient/instrumental songwriting without roots texture; fails the Core sound test."}
+  {
+   "artist": "Wild Pink",
+   "except_album": "Still Coming Down",
+   "set": {
+    "primary_lane": "C6",
+    "secondary_lanes": [
+     "C1"
+    ]
+   },
+   "reason": "Wild Pink's earlier records are heartland-leaning indie rock closer to The War on Drugs (C6) than to indie twang; only Still Coming Down is C1 by sound (prior ruling)."
+  },
+  {
+   "artist": "Real Companion",
+   "set": {
+    "primary_lane": "C1",
+    "secondary_lanes": [
+     "C2"
+    ]
+   },
+   "reason": "Terry frames it as heartland rock, but it sits in the Asheville/Drop of Sun indie-twang network; kept Core (C1) rather than Context X7."
+  },
+  {
+   "artist": "Cassandra Jenkins",
+   "drop": true,
+   "reason": "Ambient art-pop without roots or twang texture; fails the Core sound test (two agents concurred)."
+  },
+  {
+   "artist": "Gia Margaret",
+   "drop": true,
+   "reason": "Ambient/instrumental songwriting without roots texture; fails the Core sound test."
+  }
  ],
  "notes": [
-  {"item": "Greg Freeman – All Set the Bone (2026)", "decision": "Kept in Albums (C1)", "reason": "Announced with confirmed tracklist and label on the artist's Bandcamp; release date 2 October 2026, one week after this build. Terry covered it in his 2026 midyear list."}
- ]}
+  {
+   "item": "Greg Freeman – All Set the Bone (2026)",
+   "decision": "Kept in Albums (C1)",
+   "reason": "Announced with confirmed tracklist and label on the artist's Bandcamp; release date 2 October 2026, one week after this build. Terry covered it in his 2026 midyear list."
+  }
+ ],
+ "start_here": {
+  "C1": [
+   "Manning Fireworks",
+   "The Holey Bible"
+  ],
+  "C5": [
+   "Dragon New Warm Mountain I Believe in You",
+   "Tear Your Heart Out"
+  ],
+  "C6": [
+   "Lost in the Dream",
+   "Lateness of Dancers"
+  ],
+  "C7": [
+   "Teens of Denial",
+   "Sometimes I Sit and Think, and Sometimes I Just Sit"
+  ],
+  "C8": [
+   "Love the Stranger",
+   "Hannah"
+  ],
+  "C9": [
+   "Cardinal",
+   "the whaler"
+  ],
+  "V6": [
+   "Heartbreaker",
+   "Fox Confessor Brings the Flood"
+  ],
+  "V9": [
+   "Anodyne",
+   "Hollywood Town Hall"
+  ],
+  "V18": [
+   "Boodle Boodle Boodle",
+   "16 Lovers Lane"
+  ],
+  "V19": [
+   "Guitar Town",
+   "Guitars, Cadillacs, Etc., Etc."
+  ],
+  "V30": [
+   "Liege & Lief",
+   "Pink Moon"
+  ]
+ }
+}

@@ -1,0 +1,7 @@
+YOUR ASSIGNMENT — write the Artists-sheet text for part 5 of the V Album Atlas. No web access needed; do not use any web tools.
+Input: /home/claude/work/sheets/artist_input_5.json — {artist: [album rows with id, album, year, primary_lane, base, description, lineage]}.
+For EVERY artist write:
+- "summary": ONE sentence, 12–28 words, in your own words, saying what the artist sounds like and where they sit in the story (e.g. 'Asheville band whose loud, pedal-steel-laced songs made them the template for countrygaze.'). Base it ONLY on the facts in that artist's rows. Do not add biographical facts, dates, members, chart claims or quotes that are not in the rows.
+- "related": up to 5 related artists (members' other bands, side projects, frequent collaborators, direct mentors/descendants) — ONLY names that the rows' description/lineage text explicitly connect to this artist. Separate with '; '. Empty string if none are stated.
+Output: write /home/claude/work/sheets/artists_part_5.json as one JSON object {artist: {"summary": "...", "related": "..."}} with exactly the same artist keys as the input (write it in chunks if needed, then verify with python that it parses and that every input key is present).
+Reply with a SHORT summary: artists written, any you could not summarise.

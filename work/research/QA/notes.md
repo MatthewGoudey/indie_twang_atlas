@@ -33,3 +33,23 @@ Shearwater | 2006/2008 | Misra/Matador | discogs artist/539866 | 1
 My Morning Jacket | 1999-2015 | Darla/ATO | discogs artist/100346 + wiki album pages Circuital, The_Waterfall | 1 (FIX: Tennessee Fire label)
 Band of Horses | 2007/2010 | Sub Pop/Columbia+Fat Possum+Brown | discogs artist/424476 | 1
 Phosphorescent | 2003-2018 | Warm/Misra/Dead Oceans | discogs artist/769729 | 1
+John Fahey | 1959-1997 | Takoma/Vanguard/Tim-Kerr | discogs artist/65712 + wiki John_Fahey_discography | 1
+Robbie Basho | 1965/1970/1978 | Takoma/Blue Thumb/Windham Hill | discogs artist/304770 | 1
+Leo Kottke | 1969 | Takoma | discogs artist/191662 | 1
+Sandy Bull | 1963 | Vanguard | discogs artist/509278 | 1
+Jack Rose | 2004/2005/2010 | Eclipse/VHF/Thrill Jockey | discogs artist/247379 + wiki Jack_Rose_(guitarist) | mixed
+Glenn Jones | 2004/2009/2011 | Strange Attractors/Thrill Jockey | discogs artist/565009-Glenn-Jones-2 | 1
+
+## QA10 batch_10.jsonl independent verification (2026-09-25)
+Sources used: Discogs artist/master pages, AllMusic discography pages (via allmusic.com/search/artists/<name> -> artist page, both independent of Wikipedia rows cited).
+Fixes found:
+- A1910 Giant Sand "Chore of Enchantment" (2000): label should be Thrill Jockey, not Loose Music (Discogs master 145506: Thrill Jockey THRILL079, US, 2000).
+- A1912 Giant Sand "proVISIONS" (2008): label should be Yep Roc Records, not Thrill Jockey (Discogs release 1454296: Yep Roc Records YEP 2188).
+- A1948 Clem Snide "Your Favorite Music": year should be 2000, not 1999 (Discogs artist page + release: Sire, 2000).
+- A1975 Richmond Fontaine "Post to Wire" (2003): label should be El Cortez Records, not Decor Records (Discogs master 434289: El Cortez Records ECR 133, US 2003; Decor Records co-release not found for this title, unlike The Fitzgerald/Thirteen Cities/The High Country which do have confirmed Decor Records UK/Europe editions).
+Notes on accepted regional-label variance (marked ok, not fix):
+- Richmond Fontaine "The Fitzgerald"/"Thirteen Cities"/"The High Country" and The Delines "The Sea Drift": Decor Records (UK/Europe) confirmed as genuine co-release label alongside El Cortez Records (US) - both real, treated as ok.
+- Willard Grant Conspiracy "Regard the End": AllMusic lists Kimchee Records, row says Loose Music - both are real WGC labels (US vs UK), left as ok.
+- Neko Case "Blacklisted"/"Fox Confessor Brings the Flood": Discogs artist-page summary lists Mint Records (Canada) but Bloodshot/Anti- (US) confirmed independently (Austin Chronicle review site for the era, Wikipedia/thecurrent.org for Fox Confessor) - left as ok.
+- Neko Case "Neon Grey Midnight Green" (2025): Discogs lists Epitaph; Anti- is an Epitaph imprint - left as ok.
+All Deer Tick, Hiss Golden Messenger, Cass McCombs, Calexico, Lambchop, Old 97's, Justin Townes Earle, Hurray for the Riff Raff, Lydia Loveless, Caitlin Rose, M. Ward, Ryan Adams rows matched independent sources exactly.

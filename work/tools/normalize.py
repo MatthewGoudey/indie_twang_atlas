@@ -24,6 +24,8 @@ for r in rows:
         r['secondary_lanes']=[s for s in r.get('secondary_lanes',[]) if s!=r['primary_lane']][:2]
         log.append({"item":f"{r['artist']} – {r['album']} ({r['year']})","id":r['id'],"decision":f"Primary lane set to {r['primary_lane']}","reason":o['reason']})
     if drop: continue
+    sk=ov.get('start_here',{}).get(r['primary_lane'])
+    if sk is not None: r['start_here']='Y' if r['album'] in sk else ''
     r['layer']=layer(r['year'],r['primary_lane']); r['zone']=lanes[r['primary_lane']]['zone']
     out.append(r)
 for n in ov.get('notes',[]): log.append({"item":n['item'],"id":"","decision":n['decision'],"reason":n['reason']})
