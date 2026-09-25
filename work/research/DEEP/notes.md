@@ -22,3 +22,10 @@ Rejected / not fitting C1-C3 (checked seeds):
 - Palehound — indie rock, no meaningful twang/country signifiers; not V/Core fit.
 - Sun Seeker — jangle-pop/folk (Nashville, Misra Records); closer to C7 (slacker/jangle) than C1-C3; not included here.
 - Noah Kesey — Guitar Music (2023) is Burlington-scene indie rock; borderline C1 but only one weak source found (Bandcamp page had no year/label text); left as a gap, not staged.
+
+Additional tracklist verification sources:
+- treburtmusic.bandcamp.com/album/caught-it-from-the-rye (2020-01-31, 9 tracks)
+- treburtmusic.bandcamp.com/album/you-yeah-you (2021-08-27, 12 tracks)
+- florencedore.bandcamp.com/album/highways-rocketships (2022-06-10, 10 tracks; session players: Son Volt's Mark Spencer, dB's Will Rigby/Peter Holsapple, Don Dixon/Mitch Easter)
+- lightningrodrecords.com/music/countin-the-miles/ (11 tracks, year per label artist page: 2024)
+- genius.com/albums/Tommy-prine/This-far-south (11 tracks)

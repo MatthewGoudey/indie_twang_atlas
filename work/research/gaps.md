@@ -81,3 +81,5 @@ no V6 gaps to log this session
 - [DEEP] https://colinmillermusic.bandcamp.com/music | 404, wrong subdomain (correct: colinmiller.bandcamp.com) | needed for: Colin Miller discography (recovered via colinmiller.bandcamp.com/album/losin)
 - [DEEP] https://noahkesey.bandcamp.com/music | page loaded but had no year/label text; Guitar Music year (2023) recovered from Seven Days / Spotify / RYM search snippets only, not a full scrape | needed for: Noah Kesey - Guitar Music second verification source
 - [DEEP] https://jobimusic.bandcamp.com/music | index page had no year/label text (recovered via direct album URL /album/whiplash instead) | needed for: Jobi Riccio discography index
+- [NET] https://thosprettywrongs.bandcamp.com | 404/wrong domain redirect | needed for: Those Pretty Wrongs - self-titled year/label
+- [NET] https://triptidesmusic.bandcamp.com/album/alter | 404 not found | needed for: Triptides - Alter year/label
