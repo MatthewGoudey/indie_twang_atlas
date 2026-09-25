@@ -115,6 +115,7 @@ for t in readme: ws.append([t])
 for r in ws.iter_rows(min_row=2):
     for c in r: c.font = F; c.alignment = Alignment(wrap_text=True, vertical="top")
 
+ws.auto_filter.ref = f"A1:A{ws.max_row}"
 # ================= Albums
 AH = ["ID", "Artist", "Album", "Year", "Type", "Label", "Layer", "Zone", "Primary lane", "Secondary lanes", "Style", "Region",
       "Base", "Scene", "Descriptors", "Description", "Lineage", "Lineage basis", "Key tracks", "Priority", "Start here",

@@ -113,7 +113,8 @@ body.push(new Paragraph({ alignment: AlignmentType.CENTER, spacing: { after: 400
 body.push(new Paragraph({ alignment: AlignmentType.CENTER, children: [new TextRun({ text: `Companion to V_Album_Atlas.xlsx · ${rows.length.toLocaleString()} albums · 54 lanes · September 2026`, size: 20, font: FONT, color: "777777" })] }));
 body.push(new Paragraph({ children: [new PageBreak()] }));
 body.push(new Paragraph({ children: [new TextRun({ text: "Contents", bold: true, size: 32, font: FONT })], spacing: { after: 200 } }));
-body.push(new TableOfContents("Contents", { hyperlink: true, headingStyleRange: "1-2" }));
+for (const [t, d] of [["1. How to read this", "layers, zones, how to use the map with the spreadsheet"], ["2. The V diagram", "every lane, and the eight trunk lines"], ["3. The bottom of the V", "the nine Core lanes, C1–C9"], ["4. Climbing the V", "the V lanes, layer by layer, and the roots lane R1"], ["5. Off the edges", "the fourteen Context lanes, X1–X14"], ["6. Scenes and labels", "gazetteer"], ["7. Listening paths", "nine routes from the anchors to the top of the V"], ["8. Appendix", "the borderline decisions that shaped the map"]])
+  body.push(new Paragraph({ spacing: { after: 100 }, children: [new TextRun({ text: t, bold: true, font: FONT }), new TextRun({ text: ` — ${d}`, font: FONT, color: "666666" })] }));
 
 // 1. How to read this
 body.push(H1("1. How to read this"));

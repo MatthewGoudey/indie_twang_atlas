@@ -1,0 +1,48 @@
+{"id": "A0005", "verdict": "ok", "applied_to_staging": true, "corrections": {}}
+{"id": "A0006", "verdict": "ok", "applied_to_staging": true, "corrections": {}}
+{"id": "A0009", "verdict": "fix", "applied_to_staging": true, "corrections": {"key_tracks": ["I Ate Too Much At The Fair", "Another Place", "Catholic Priest"]}}
+{"id": "A0010", "verdict": "ok", "applied_to_staging": true, "corrections": {}}
+{"id": "A0014", "verdict": "ok", "applied_to_staging": true, "corrections": {}}
+{"id": "A0015", "verdict": "ok", "applied_to_staging": true, "corrections": {}}
+{"id": "A0020", "verdict": "ok", "applied_to_staging": true, "corrections": {}}
+{"id": "A0029", "verdict": "ok", "applied_to_staging": true, "corrections": {}}
+{"id": "A0036", "verdict": "ok", "applied_to_staging": true, "corrections": {}}
+{"id": "A0038", "verdict": "fix", "applied_to_staging": true, "corrections": {"key_tracks": ["Coast", "Heathcliff", "Wasteland"]}}
+{"id": "A0043", "verdict": "ok", "applied_to_staging": true, "corrections": {}}
+{"id": "A0057", "verdict": "fix", "applied_to_staging": true, "corrections": {"key_tracks": ["Cult", "Detox Island"]}}
+{"id": "A0090", "verdict": "fix", "applied_to_staging": true, "corrections": {"key_tracks": ["Ruby", "Joe By The Book"]}}
+{"id": "A0095", "verdict": "ok", "applied_to_staging": true, "corrections": {}}
+{"id": "A0102", "verdict": "ok", "applied_to_staging": true, "corrections": {}}
+{"id": "A0119", "verdict": "ok", "applied_to_staging": true, "corrections": {}}
+{"id": "A0125", "verdict": "ok", "applied_to_staging": true, "corrections": {}}
+{"id": "A0126", "verdict": "fix", "applied_to_staging": true, "corrections": {"key_tracks": ["Dollywood", "Winn-Dixie"]}}
+{"id": "A0127", "verdict": "fix", "applied_to_staging": true, "corrections": {"key_tracks": ["Photobooth", "Poison Ivy"]}}
+{"id": "A0128", "verdict": "fix", "applied_to_staging": true, "corrections": {"key_tracks": ["Billboard", "Fate Is..."]}}
+{"id": "A0132", "verdict": "fix", "applied_to_staging": true, "corrections": {"key_tracks": ["Big Money", "Terminex"]}}
+{"id": "A0133", "verdict": "ok", "applied_to_staging": true, "corrections": {}}
+{"id": "A0134", "verdict": "unchecked", "applied_to_staging": true, "corrections": {}}
+{"id": "A0136", "verdict": "fix", "applied_to_staging": true, "corrections": {"key_tracks": ["I Am the Cosmos", "Women Without Whiskey"]}}
+{"id": "A0141", "verdict": "fix", "applied_to_staging": true, "corrections": {"key_tracks": ["Bull Believer", "Chosen To Deserve", "Turkey Vultures"]}}
+{"id": "A0144", "verdict": "ok", "applied_to_staging": true, "corrections": {}}
+{"id": "A0146", "verdict": "ok", "applied_to_staging": true, "corrections": {}}
+{"id": "A0147", "verdict": "fix", "applied_to_staging": true, "corrections": {"key_tracks": ["Lighthouse", "Indiana"]}}
+{"id": "A0148", "verdict": "fix", "applied_to_staging": true, "corrections": {"key_tracks": ["Jonathan", "Money"]}}
+{"id": "A0149", "verdict": "fix", "applied_to_staging": true, "corrections": {"key_tracks": ["Carolina", "New York City"]}}
+{"id": "A0158", "verdict": "ok", "applied_to_staging": true, "corrections": {}}
+{"id": "A0162", "verdict": "ok", "applied_to_staging": true, "corrections": {}}
+{"id": "A0169", "verdict": "ok", "applied_to_staging": true, "corrections": {}}
+{"id": "A0175", "verdict": "ok", "applied_to_staging": true, "corrections": {}}
+{"id": "A0176", "verdict": "ok", "applied_to_staging": true, "corrections": {}}
+{"id": "A0187", "verdict": "ok", "applied_to_staging": true, "corrections": {}}
+{"id": "A0188", "verdict": "ok", "applied_to_staging": true, "corrections": {}}
+{"id": "A0207", "verdict": "ok", "applied_to_staging": true, "corrections": {}}
+{"id": "A0210", "verdict": "ok", "applied_to_staging": true, "corrections": {}}
+{"id": "A0224", "verdict": "ok", "applied_to_staging": true, "corrections": {}}
+{"id": "A0225", "verdict": "ok", "applied_to_staging": true, "corrections": {}}
+{"id": "A0226", "verdict": "ok", "applied_to_staging": true, "corrections": {}}
+{"id": "A0227", "verdict": "ok", "applied_to_staging": true, "corrections": {}}
+{"id": "A0250", "verdict": "ok", "applied_to_staging": true, "corrections": {}}
+{"id": "A0251", "verdict": "ok", "applied_to_staging": true, "corrections": {}}
+{"id": "A0272", "verdict": "ok", "applied_to_staging": true, "corrections": {}}
+{"id": "A0275", "verdict": "ok", "applied_to_staging": true, "corrections": {}}
+{"id": "A0321", "verdict": "ok", "applied_to_staging": true, "corrections": {}}
