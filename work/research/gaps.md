@@ -33,3 +33,6 @@ no V6 gaps to log this session
 - [C4C9] https://cusptheband.bandcamp.com/music | 404 Not Found (wrong slug; correct is cusptunes.bandcamp.com) | needed for: Cusp discography
 - [C4C9] https://homeiswhereband.bandcamp.com/music | 404 Not Found (wrong slug; correct is homeiswhere.bandcamp.com) | needed for: Home Is Where discography
 - [C4C9] midwest, post death - "post recovery" | no scrapable Bandcamp/Wikipedia discography page found within budget (only secondhand collection listings and one blog mention) | needed for: field-guide artist year/label/tracks -> sent to needs_verification
+- [C8] https://sluicemusic.bandcamp.com/music | 404 Not Found | needed for: Sluice discography (resolved via sluice.bandcamp.com instead)
+- [C8] https://ottobenson.bandcamp.com/music | 404 Not Found | needed for: Otto Benson discography (resolved via wnoadiarwb.bandcamp.com instead)
+- [C8] https://joyerband.bandcamp.com/music | 404 Not Found | needed for: Joyer discography (resolved via joyer.bandcamp.com instead)
