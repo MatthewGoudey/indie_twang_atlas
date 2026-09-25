@@ -10,12 +10,30 @@ master=[json.loads(l) for l in open("master.jsonl")]; byid={r['id']:r for r in m
 done=set()
 if os.path.exists("qa/desc_applied.jsonl"): done={json.loads(l)['id'] for l in open("qa/desc_applied.jsonl")}
 res={}
-for f in ["qa/desc_result.jsonl"]+sorted(glob.glob("qa/descf_result_*.jsonl")):
-    if not os.path.exists(f): continue
+home={}
+for f in glob.glob("qa/desc_batch_*.jsonl"):
+    n=re.search(r"desc_batch_(\d+)",f).group(1)
+    for l in open(f): home[json.loads(l)['id']]=f"qa/descf_result_{n}.jsonl"
+for l in open("qa/desc_sample.jsonl"): home[json.loads(l)['id']]="qa/desc_result.jsonl"
+def load(f):
+    out={}
+    if not os.path.exists(f): return out
     for l in open(f):
         try: q=json.loads(l)
         except: continue
-        if q.get('id') in byid and q['id'] not in done: res[q['id']]=q
+        if isinstance(q,dict) and q.get('id') and q.get('verdict') in ('ok','rewrite','flag'): out.setdefault(q['id'],q)
+    return out
+files={f:load(f) for f in ["qa/desc_result.jsonl"]+sorted(glob.glob("qa/descf_result_*.jsonl"))}
+missing=0
+for i,hf in home.items():
+    if i in done or i not in byid: continue
+    q=files.get(hf,{}).get(i)
+    if q is None:
+        for f,d in files.items():
+            if i in d: q=d[i]; break
+    if q is None: missing+=1; continue
+    res[i]=q
+print("reviews missing:",missing)
 def ok_desc(d):
     return d and len(d)>=110 and len(re.findall(r"[.!?](\s|$)",d))<=5 and not re.search(r'"[^"]{60,}"',d)
 patch={}; flags=[]; cnt=collections.Counter(); bad=0
