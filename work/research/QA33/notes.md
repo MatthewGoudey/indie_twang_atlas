@@ -16,3 +16,9 @@ Band block: A0875 BigPink ok(1968 Cap); A0876 TheBand ok(1969 Cap); A0877 StageF
 Waylon block: A0889 HonkyTonkHeroes ok(1973 RCA); A0891 DreamingMyDreams ok(1975 RCA); A0893 OlWaylon ok(1977 RCA); A0894 Waylon&Willie ok(1978 RCA); A0937 Wanted!TheOutlaws ok(1976 RCA).
 Willie block: A0897 ShotgunWillie ok(1973 Atlantic); A0898 PhasesAndStages ok(1974 Atlantic); A0901 SoundInYourMind ok(1976 Columbia); A0902 ToLeftyFromWillie ok(1977 Columbia); A0903 Stardust ok(1978 Columbia).
 Billy Joe Shaver (Discogs, cited src): A0904 Old5&Dimers ok(1973 Monument); A0905 WhenIGetMyWings ok(1976 Capricorn); A0906 GypsyBoy ok(1977 Capricorn).
+Kristofferson block: A0907 ok(1970 Monument); A0908 ok(1971 Monument); A0909 ok(1972 Monument); A0910 ok(1974 Monument).
+A0912 Tompall Glaser Great Tompall ok(1976 MGM, AllMusic).
+Jessi Colter: A0913 ok(1975 Capitol); A0914 ok(1976 Capitol); A0915 Mirriam ok(1977 Capitol).
+DavidAllanCoe: A0916 ok(1970 SSS Intl); A0919 ok(1976 Columbia); A0920 ok(1977 Columbia).
+JohnnyPaycheck: A0922 ok(1976 Epic); A0923 ok(1977 Epic).
+BobbyBare: A0925 ok(1973 RCA, Discogs); A0926 ok(1975 RCA).
