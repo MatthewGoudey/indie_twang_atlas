@@ -18,3 +18,12 @@ The Lemonheads | Ray/Come On Feel | 1992/1993 | Atlantic | allmusic.com/artist/t
 Many Bandcamp-hosted artists (Bright Eyes, Low, Cat Power, Bedhead, Elliott Smith, Galaxie 500, Red House Painters-OldRamon, Daniel Johnston, Sebadoh, Neutral Milk Hotel, Apples in Stereo, Lou Barlow) confirmed to exist/year via official Bandcamp discography pages (independent of Wikipedia); labels not shown on Bandcamp, taken from well-established discography knowledge where not separately verified.
 
 Budget exhausted: 25/25 searches used, ~20/150 scrapes used. Remaining rows for artists not reached by any independent source were marked "unchecked".
+Water Liars | 2012/2013/2014 | Misra/Big Legal Mess | discogs artist/2806252 | 1
+Todd Snider | 2004/2006/2012 | Oh Boy/New Door/Aimless | discogs artist/417831 | 1
+John Moreland | 2013/2015/2017/2020/2022 | Last Chance/Old Omens/4AD | discogs artist/1359135 | 1
+Bert Jansch | 1966 | Transatlantic | discogs artist/363204 | 1
+Shirley Collins & Davy Graham | 1964(row)/1965(this pressing) | Decca | discogs release/1858162 | 1
+Vashti Bunyan | 1970 | Philips | discogs artist/319399 | 1
+Wilco | 1999-2023 | Reprise/Nonesuch/dBpm | discogs artist/102984 | 1
+Jeff Tweedy | 2018/2020/2025 | dBpm | discogs artist/306247 | 1
+Loose Fur | 2003/2006 | Drag City | discogs artist/466436 | 1
