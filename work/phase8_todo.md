@@ -7,3 +7,4 @@
 - Gia Margaret: NET added (Orindal); SW1/SW2 rejected as ambient. Decide (likely drop to Borderline Log exclusion).
 - QA batch 11 (V6/V7 sample) error rate 6.3% (>5%): per spec §8.2, re-verify entire batch → covered by key-track+fact sweep batches 31–37 which re-check year/label/title on all non-sampled rows; log in QA Log.
 - Rows with verdict fix but empty corrections (e.g. A2801 Trailer Bride key track 'Jesco' wrong): collect after all QA and resolve key tracks manually.
+- WEB CHECK list: Townes Van Zandt – High, Low and In Between year (1971 vs 1972); Horse Jumper of Love – Heartbreak Rules (2023) existence; anchor flags A1518 Lucky EP, A1523 Wednesday 2019 EP (Manic Static), A1525 Guttering label (Super Enema), A1531 Diva Sweetly, A1550 i won't let go of your hand; sample flags A0706, A1041, A0675, A2226, A2760, A0503, A0624, A1899; Trailer Bride debut key tracks.
