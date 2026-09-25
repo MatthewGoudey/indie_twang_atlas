@@ -9,3 +9,4 @@
 - Rows with verdict fix but empty corrections (e.g. A2801 Trailer Bride key track 'Jesco' wrong): collect after all QA and resolve key tracks manually.
 - WEB CHECK list: Townes Van Zandt – High, Low and In Between year (1971 vs 1972); Horse Jumper of Love – Heartbreak Rules (2023) existence; anchor flags A1518 Lucky EP, A1523 Wednesday 2019 EP (Manic Static), A1525 Guttering label (Super Enema), A1531 Diva Sweetly, A1550 i won't let go of your hand; sample flags A0706, A1041, A0675, A2226, A2760, A0503, A0624, A1899; Trailer Bride debut key tracks.
 - After desc review: grep descf_result problems for key_tracks/key track notes (e.g. A0672 Red Apple Falls, A0688 Arise Therefore) and A0741 artist credit (Tonight's the Night) → add to web-check.
+- WEB CHECK add: Sarah Shook – Revelations (2024) existence/label; Two Cow Garage – Speaking in Cursive year (2008 vs 2010); Cass McCombs – Wit's End key track 'County Line'.
