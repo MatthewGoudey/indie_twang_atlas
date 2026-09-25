@@ -1,0 +1,758 @@
+{
+  "The Flying Burrito Brothers": {
+    "summary": "Los Angeles band whose Gram Parsons/Chris Hillman lineup, fresh out of the Byrds, pioneered woozy pedal-steel-driven Cosmic American Music.",
+    "related": "Byrds; Eagles; Souther-Hillman-Furay; Country Gazette"
+  },
+  "The Folk Implosion": {
+    "summary": "Lou Barlow's drum-machine-driven duo turned raw four-track home recording into starker, rhythm-focused songs before an unlikely radio crossover.",
+    "related": "Sebadoh; Sentridoh"
+  },
+  "The For Carnation": {
+    "summary": "Former Slint guitarist's project slowing post-rock precision into droning, half-spoken sadcore built from repetition and hushed dread.",
+    "related": "Slint"
+  },
+  "The Frogs": {
+    "summary": "Milwaukee brothers' unedited, shock-comedy home tapes became a cult DIY touchstone for raw, unfiltered lo-fi recording.",
+    "related": ""
+  },
+  "The Geraldine Fibbers": {
+    "summary": "Carla Bozulich's Los Angeles band fused old-time fiddle and country songcraft with noise-rock volume, the noisiest fringe of insurgent country.",
+    "related": "Ethyl Meatplow"
+  },
+  "The Go-Betweens": {
+    "summary": "Brisbane duo Forster and McLennan built literate, string-touched jangle-pop across three decades, from post-punk austerity to a widely cited pop peak.",
+    "related": "Sleater-Kinney"
+  },
+  "The Goon Sax": {
+    "summary": "Brisbane trio, including a Go-Betweens founder's son, add synths to plainspoken, bittersweet jangle-pop descended from that band's tradition.",
+    "related": "The Go-Betweens"
+  },
+  "The Gourds": {
+    "summary": "Austin band mixing bluegrass picking, Cajun accordion and rowdy bar-band energy into a shaggier, genre-agnostic corner of insurgent country.",
+    "related": ""
+  },
+  "The Grays": {
+    "summary": "Short-lived LA power-pop supergroup built around Jason Falkner and Jon Brion pairing dense Beatles/Big Star arrangements with rotating songwriters.",
+    "related": ""
+  },
+  "The Grifters": {
+    "summary": "Memphis band balancing grimy tape-hiss production with catchy, blues-inflected garage-pop songwriting, closer to Pavement's fractured pop than Southern roots rock.",
+    "related": "Pavement; Guided by Voices"
+  },
+  "The Gun Club": {
+    "summary": "Jeffrey Lee Pierce ran Delta blues through punk volume and swampy slide guitar, the rawest, most gothic end of LA's roots-punk turn.",
+    "related": "X; The Blasters"
+  },
+  "The Halo Benders": {
+    "summary": "Side project pairing Built to Spill's Doug Martsch with K Records' Calvin Johnson, trading deadpan baritone against melodic tenor over homemade arrangements.",
+    "related": "Built to Spill; Beat Happening"
+  },
+  "The Handsome Family": {
+    "summary": "Chicago duo Brett and Rennie Sparks built deadpan gothic-folk murder ballads and rural tragedies over homemade drum-machine arrangements.",
+    "related": ""
+  },
+  "The Head and the Heart": {
+    "summary": "Seattle band pairing three-part harmonies and festival-ready percussion for a warmer, more communal indie-rock take on the stomp-clap-folk boom.",
+    "related": "The Lumineers; Mumford & Sons"
+  },
+  "The Hotelier": {
+    "summary": "Massachusetts emo-revival landmark pairing post-hardcore intensity with raw, therapy-session lyricism about grief and mental illness.",
+    "related": "Sunny Day Real Estate"
+  },
+  "The Innocence Mission": {
+    "summary": "Karen Peris's high, quiet voice moves at a hushed, devotional pace over sparse guitar and piano, far from the band's earlier jangle-pop.",
+    "related": ""
+  },
+  "The Jayhawks": {
+    "summary": "Minneapolis band whose Olson-Louris harmonies defined a foundational alt-country sound, later splintering into darker, more experimental post-Olson records.",
+    "related": ""
+  },
+  "The Karl Hendricks Trio": {
+    "summary": "Pittsburgh trio's wordy, self-lacerating bar-band rock brought confessional, sarcastic songwriting into the 1990s Merge Records indie-rock conversation.",
+    "related": "Superchunk; Butterglory"
+  },
+  "The Knack": {
+    "summary": "LA power-pop band whose \"My Sharona\"-driven debut became a genuine chart phenomenon before a backlash pushed the genre underground.",
+    "related": ""
+  },
+  "The Knitters": {
+    "summary": "X and Blasters side-project supergroup stripping cowpunk to acoustic honky-tonk-and-folk bones, playing punk musicians' favorite country records straight.",
+    "related": "X; The Blasters"
+  },
+  "The Leaving Trains": {
+    "summary": "Falling James's chaotic LA band played scrappier garage-punk than its Paisley Underground peers, thickened by guest musicians from that scene.",
+    "related": "The Gun Club; Green on Red; Rain Parade"
+  },
+  "The Lemonheads": {
+    "summary": "Evan Dando's band evolved from teenage Boston hardcore-pop into sun-warmed, concise slacker-pop that defined mid-1990s college-radio guitar rock.",
+    "related": ""
+  },
+  "The Long Ryders": {
+    "summary": "LA band fusing Byrds jangle and Flying Burrito Brothers twang with punk urgency, a direct bridge from Paisley Underground to alt-country.",
+    "related": "The Flying Burrito Brothers"
+  },
+  "The Loud Family": {
+    "summary": "Scott Miller's post-Game Theory project pushed dense, referential jangle-pop into home-studio synth experimentation, bridging 1980s college rock and 1990s indie.",
+    "related": "Game Theory"
+  },
+  "The Louvin Brothers": {
+    "summary": "Alabama gospel-and-tragedy duo whose tight, keening close harmony directly modeled the Everly Brothers and shaped country's sacred-and-profane storytelling.",
+    "related": ""
+  },
+  "The Low Anthem": {
+    "summary": "Rhode Island band pairing hushed, hymn-like arrangements of pump organ and musical saw with plainspoken, historically-minded lyrics.",
+    "related": "Fleet Foxes; Bon Iver"
+  },
+  "The Lumineers": {
+    "summary": "Denver band whose singalong-stomp debut distilled the Mumford & Sons formula into a leaner, radio-dominant stomp-clap-folk phenomenon.",
+    "related": "Mumford & Sons; The Avett Brothers"
+  },
+  "The Marshall Tucker Band": {
+    "summary": "Spartanburg band blending Southern rock guitar with jazz and country textures via flute and saxophone, looser and more atmospheric than its Capricorn peers.",
+    "related": ""
+  },
+  "The Mekons": {
+    "summary": "British post-punk survivors reinvented themselves as a ramshackle country-punk band, a direct influence on the American alt-country movement that followed.",
+    "related": ""
+  },
+  "The Microphones": {
+    "summary": "Phil Elverum's homemade Anacortes project swung between hushed acoustic passages and eruptions of fuzzed noise, defining K Records' extreme lo-fi lineage.",
+    "related": "Beat Happening; Old Time Relijun; Mount Eerie"
+  },
+  "The Minders": {
+    "summary": "Denver/Elephant 6 band making chiming, homemade lo-fi guitar pop from the collective's sunnier, less psychedelic wing.",
+    "related": "Apples in Stereo; Neutral Milk Hotel; Guided by Voices; The Olivia Tremor Control"
+  },
+  "The Modern Lovers": {
+    "summary": "Jonathan Richman's band channeled Velvet Underground drone into deadpan, amateurish songs about driving and loving your parents, a foundational punk and indie text.",
+    "related": "The Velvet Underground"
+  },
+  "The Mountain Goats": {
+    "summary": "John Darnielle's boombox-recorded project turned compressed, image-dense narratives into a defining lo-fi songwriting catalog before moving to full-band studio records.",
+    "related": ""
+  },
+  "The Music Tapes": {
+    "summary": "Julian Koster's Elephant 6 side project builds homemade sound-collage albums from singing saw, antique organs and warped tape texture.",
+    "related": "Neutral Milk Hotel"
+  },
+  "The Namby Pamby": {
+    "summary": "Fort Wayne trio's sparse, pretty slow-burn indie rock favors patient builds and understated melody over hooks.",
+    "related": ""
+  },
+  "The New Lost City Ramblers": {
+    "summary": "Scholarly revivalists who recreated 1920s-30s old-time string-band music note-for-note off 78s, feeding the postwar folk revival's roots consciousness.",
+    "related": ""
+  },
+  "The New Year": {
+    "summary": "Bedhead brothers' post-breakup project extends that band's slow-building, interlocking-guitar slowcore with a fuller, more amplified sound.",
+    "related": "Bedhead"
+  },
+  "The O'Kanes": {
+    "summary": "Nashville duo Jamie O'Hara and Kieran Kane stripped down to guitars, mandolin and tight harmony, a Louvin-style throwback that hit country radio.",
+    "related": "The Louvin Brothers"
+  },
+  "The Olivia Tremor Control": {
+    "summary": "Elephant 6 band splicing Beach Boys harmonies and British Invasion pop with tape-loop collage into the collective's most psychedelic wing.",
+    "related": "Neutral Milk Hotel; Apples in Stereo"
+  },
+  "The Outlaws": {
+    "summary": "Tampa band leaning on Byrds/Eagles-style vocal harmony and triple-guitar interplay, a country-rock counterpart within the Southern rock circuit.",
+    "related": ""
+  },
+  "The Pine Valley Cosmonauts": {
+    "summary": "Jon Langford's revolving-door tribute band gathered Bloodshot Records artists to honor Western swing bandleader Bob Wills, a mission statement for insurgent country's roots reverence.",
+    "related": "Neko Case; Alejandro Escovedo; Robbie Fulks; Kelly Hogan"
+  },
+  "The Plimsouls": {
+    "summary": "Peter Case's post-Nerves band played a rawer, garage-rock-indebted power pop, a key LA link between 1960s jangle and 1980s club-rock energy.",
+    "related": ""
+  },
+  "The Pooh Sticks": {
+    "summary": "Welsh fanzine-culture band paired trashy, self-aware pop-culture lyrics with genuinely infectious Beatles/Byrds-descended melodies at indie-pop's winking end.",
+    "related": ""
+  },
+  "The Posies": {
+    "summary": "Bellingham duo Jon Auer and Ken Stringfellow wrapped dense harmonies around ringing guitars, a Pacific Northwest update of the Big Star/Byrds formula.",
+    "related": "Big Star; Teenage Fanclub"
+  },
+  "The Promise Ring": {
+    "summary": "Milwaukee band's shift from post-hardcore into jangly, hooky pop-emo bridged hardcore-rooted emo and early-2000s pop-punk-adjacent emo.",
+    "related": ""
+  },
+  "The Records": {
+    "summary": "British power-pop band built on ringing twelve-string guitar and effortless melody, a UK counterpart to the American Big Star/dB's jangle lineage.",
+    "related": ""
+  },
+  "The Replacements": {
+    "summary": "Paul Westerberg's Minneapolis band grew from blown-out, funny-sad punk into wrecked, literate songwriting that alt-country and slacker rock claimed as ancestor.",
+    "related": "Hüsker Dü; Soul Asylum"
+  },
+  "The Sadies": {
+    "summary": "Toronto brothers Dallas and Travis Good's reverb-heavy, spaghetti-western twang extended Bloodshot's insurgent-country roster north, also serving as its go-to backing band.",
+    "related": "Neko Case; Jon Langford; Gary Louris"
+  },
+  "The Salvation Army": {
+    "summary": "Michael Quercio's jangly, keyboard-dappled LA band, later renamed the Three O'Clock, cut a scarce foundational document of Paisley Underground jangle-pop.",
+    "related": "The Three O'Clock; The Long Ryders; Thin White Rope"
+  },
+  "The Shins": {
+    "summary": "Albuquerque band setting James Mercer's high, melodic vocals over warm, chiming guitar pop, more polished than the slacker-rock scene it grew from.",
+    "related": "Flake Music; Modest Mouse"
+  },
+  "The Silos": {
+    "summary": "New York band mixing plainspoken country-rock with downtown-scene toughness, an early marker of alt-country cut before the term existed.",
+    "related": "Jason and the Scorchers; The dB's"
+  },
+  "The Smithereens": {
+    "summary": "New Jersey band built around Pat DiNizio's dark baritone and British Invasion-schooled jangle, turning power pop toward moodier, adult subject matter.",
+    "related": "The dB's; Tommy Keene"
+  },
+  "The Spinanes": {
+    "summary": "Portland two-piece with no bassist gave Rebecca Gates's murmured vocals and open-tuned guitar an airy sound apart from Sub Pop's grunge reputation.",
+    "related": ""
+  },
+  "The Stanley Brothers": {
+    "summary": "Carter and Ralph Stanley's high, hard mountain harmonies and clawhammer-descended banjo sat closer to old ballad tradition than Bill Monroe's smoother bluegrass.",
+    "related": ""
+  },
+  "The Steel Woods": {
+    "summary": "Nashville band fusing heavy Skynyrd/Zeppelin riffing with outlaw-country songwriting, a harder-rocking branch of Southern rock cut short by a guitarist's death.",
+    "related": ""
+  },
+  "The Stills-Young Band": {
+    "summary": "A Stephen Stills/Neil Young duo record born from a collapsed CSNY reunion, a warm country-rock footnote tracing back to Buffalo Springfield.",
+    "related": ""
+  },
+  "The Stooges": {
+    "summary": "Ann Arbor band, produced by John Cale, stripped rock to primitive riffs and yowled vocals, a foundational text for punk out of Velvet Underground drone.",
+    "related": "The Velvet Underground"
+  },
+  "The Three O'Clock": {
+    "summary": "Michael Quercio's band, renamed from the Salvation Army, played the brightest, most bubblegum corner of Paisley Underground jangle-pop and coined the scene's name.",
+    "related": "The Salvation Army"
+  },
+  "The Triffids": {
+    "summary": "Perth band whose David McComb widened post-punk restlessness into cinematic, outback-scaled Americana, often named the definitive Australian rock album of the 1980s.",
+    "related": ""
+  },
+  "The Tubs": {
+    "summary": "Welsh band applying ringing Byrds/Feelies-style jangle guitar to raw, personal songwriting about grief and family, a sharp post-2020s jangle revival.",
+    "related": "The Feelies"
+  },
+  "The Van Pelt": {
+    "summary": "Jersey City band pairing spoken-sung, novelistic vocals with interlocking clean guitar lines at the talk-singing, literate end of 1990s indie rock.",
+    "related": "Silkworm"
+  },
+  "The Velvet Underground": {
+    "summary": "Lou Reed and John Cale's New York band ran deadpan songwriting through drone, noise and quiet intimacy across records that root punk, glam and indie songwriting.",
+    "related": ""
+  },
+  "The Verlaines": {
+    "summary": "Graeme Downes's classically trained Dunedin band pushed the Flying Nun scene's DIY jangle toward literate, structurally restless art-rock complexity.",
+    "related": "The Chills; The Clean; Straitjacket Fits"
+  },
+  "The Walkabouts": {
+    "summary": "Seattle band pairing Chris Eckman and Carla Torgerson's dual vocals with Townes Van Zandt- and Neil Young-indebted songwriting, Sub Pop's first non-grunge signing.",
+    "related": ""
+  },
+  "The War and Treaty": {
+    "summary": "Husband-and-wife duo mixing soul and gospel vocal power with Americana songwriting, widening the country-award mainstream's commercial reach.",
+    "related": "Zach Bryan; Brandi Carlile"
+  },
+  "The War on Drugs": {
+    "summary": "Adam Granduciel's Philadelphia band grew from ragged Crazy Horse-and-Dylan sprawl into widescreen, synth-lined cosmic Americana that revived heartland rock for indie audiences.",
+    "related": "Kurt Vile; Wild Pink"
+  },
+  "The Weather Station": {
+    "summary": "Tamara Lindeman's long-running Toronto project moved from plainspoken singer-songwriter records toward expansive, band-driven indie folk touched by Americana and climate anxiety.",
+    "related": ""
+  },
+  "The Windbreakers": {
+    "summary": "Mississippi duo Bobby Sutliff and Tim Lee played bright, Byrds-descended jangle-pop, the South's own strand of 1980s American college rock.",
+    "related": "R.E.M.; Let's Active"
+  },
+  "The Wrens": {
+    "summary": "New Jersey band's scrappy, shoestring guitar-pop turned into wearier, more emotionally direct songwriting on a long-delayed, widely acclaimed follow-up.",
+    "related": ""
+  },
+  "The dB's": {
+    "summary": "Chris Stamey and Peter Holsapple's New York band mixed chiming jangle with quirky new-wave touches, a foundational text for American power pop.",
+    "related": ""
+  },
+  "Thin White Rope": {
+    "summary": "Guy Kyser's Davis, California band took Paisley Underground's Velvets worship into darker, feedback-choked gothic desert-noise territory.",
+    "related": "True West; The Dream Syndicate"
+  },
+  "Thinking Fellers Union Local 282": {
+    "summary": "San Francisco collective mixed tightly constructed pop songs with ambient noise collages and sudden left turns on their Matador debut.",
+    "related": "Pavement; Yo La Tengo"
+  },
+  "This Is Lorelei": {
+    "summary": "Nate Amos's solo project delivers warped, hooky pop songs mixing drum machines with genuine Big Star-descended power-pop songwriting.",
+    "related": "Water From Your Eyes"
+  },
+  "Thomas Dollbaum": {
+    "summary": "Tampa-born, New Orleans-based songwriter's dark rural storytelling in a rangy baritone extends the Townes Van Zandt/Jason Molina alt-country lineage.",
+    "related": "Florry; Greg Freeman"
+  },
+  "Tift Merritt": {
+    "summary": "Raleigh songwriter's warm, restrained country-soul records established her as one of Lost Highway's defining voices alongside its rockier acts.",
+    "related": "Whiskeytown; Lucinda Williams; Ryan Adams"
+  },
+  "Tim Hardin": {
+    "summary": "Greenwich Village folk singer whose frail, aching voice and confessional songwriting produced widely covered standards that seeded the singer-songwriter movement.",
+    "related": ""
+  },
+  "Tiny Ruins": {
+    "summary": "Hollie Fullbrook's Auckland project widened hushed, literate solo folk into warmer full-band arrangements and New Zealand chart success.",
+    "related": "Fleet Foxes; Beach House"
+  },
+  "Tobacco City": {
+    "summary": "Chicago band mixing cosmic country and psychedelic choogle with straight honky-tonk, split between two co-lead singers over pedal steel and reverb.",
+    "related": ""
+  },
+  "Tobin Sprout": {
+    "summary": "Guided by Voices co-founder's home-recorded solo work is gentler and more melodic than Robert Pollard's fragments, a quiet counterpart to Dayton's noisy lo-fi scene.",
+    "related": "Guided by Voices"
+  },
+  "Todd Snider": {
+    "summary": "East Nashville songwriter's deadpan, talking-blues storytelling turns jokes into grief in the same funny-sad tradition as John Prine.",
+    "related": "John Prine; Drive-By Truckers"
+  },
+  "Tom Petty and the Heartbreakers": {
+    "summary": "Gainesville band's chiming Rickenbacker and Telecaster hooks defined jangly, guitar-forward heartland rock built for classic-rock radio.",
+    "related": ""
+  },
+  "Tom T. Hall": {
+    "summary": "Nashville storyteller whose plain, conversational baritone narrated first-person character sketches of ordinary rural life, a central figure alongside Prine.",
+    "related": ""
+  },
+  "Tommy Goodroad": {
+    "summary": "Chicago-by-way-of-Minnesota songwriter mixing Midwestern folksy roots music with rollicking classic honky-tonk over fiddle and pedal steel.",
+    "related": ""
+  },
+  "Tommy Keene": {
+    "summary": "Washington DC songwriter's big, ringing power-pop songs built for arena-scale choruses that radio mostly ignored, continuing the Big Star lineage.",
+    "related": ""
+  },
+  "Tommy Prine": {
+    "summary": "John Prine's son makes unhurried, plainspoken singer-songwriter records about grief and inheritance without leaning on his father's shadow.",
+    "related": "John Prine"
+  },
+  "Tompall Glaser": {
+    "summary": "Nashville studio owner whose Hillbilly Central became the outlaw movement's clubhouse, recording gruff, unhurried songwriting between novelty and heartbreak.",
+    "related": "Waylon Jennings; Willie Nelson"
+  },
+  "Tony Joe White": {
+    "summary": "Louisiana bayou songwriter whose deep baritone drawl and wah-inflected guitar coined swamp rock, a direct reference point for Southern soul and rock.",
+    "related": ""
+  },
+  "Tony Molina": {
+    "summary": "Bay Area hardcore lifer distilling decades of Bee Gees- and Byrds-indebted pop songcraft into brief, melodic fragments.",
+    "related": ""
+  },
+  "Townes Van Zandt": {
+    "summary": "Houston songwriter whose flat, unhurried baritone and plainspoken dread founded the Texas songwriter tradition, echoed by generations of alt-country and indie-folk artists.",
+    "related": "Guy Clark"
+  },
+  "Trace Mountains": {
+    "summary": "Dave Benton's former-LVL UP project leans into pedal-steel-flecked, warmly recorded country-pop mixing jangling guitars with synths.",
+    "related": "LVL UP; Slaughter Beach, Dog"
+  },
+  "Trailer Bride": {
+    "summary": "Melissa Swingle's Chapel Hill band debuted with spare, spooky Southern gothic songs of local characters given slide-guitar, minor-key hush.",
+    "related": "The Handsome Family"
+  },
+  "Tre Burt": {
+    "summary": "Sacramento songwriter's talky, literary verses over lo-fi fingerpicked guitar earned him a personal signing to John Prine's own label.",
+    "related": "John Prine"
+  },
+  "Trinity Ace": {
+    "summary": "Bay Area folk EP with a wry, self-deprecating title-track sequence and sparse acoustic, plainspoken storytelling.",
+    "related": ""
+  },
+  "Trip Shakespeare": {
+    "summary": "Minneapolis quartet favoring intricate vocal harmonies and interlocking guitars over the punk energy of their more famous scene neighbors.",
+    "related": ""
+  },
+  "True Believers": {
+    "summary": "Alejandro and Javier Escovedo's Austin band played hard-riffing roots rock with a country undertow, a direct sequel to Rank and File's cowpunk.",
+    "related": "Rank and File"
+  },
+  "True West": {
+    "summary": "Davis, California band mixing jangling guitars with heavier, psychedelic Crazy Horse-indebted excursions from the same scene as the Dream Syndicate.",
+    "related": "The Dream Syndicate; Thin White Rope"
+  },
+  "Trumans Water": {
+    "summary": "San Diego band crammed careening noise-rock riffing and tape-warped skronk into blown-out, abrasive songs on Homestead Records.",
+    "related": "Pavement; Sebadoh"
+  },
+  "Truth Club": {
+    "summary": "Raleigh band pairing conversational, self-lacerating lyrics with tense, angular guitar interplay that grew up on Pavement and Cap'n Jazz.",
+    "related": ""
+  },
+  "Tsunami": {
+    "summary": "Jenny Toomey and Kristin Thomson's DC band paired loud-soft guitar dynamics with melodic dual-vocal songwriting on their own Simple Machines label.",
+    "related": "Unrest"
+  },
+  "Turnpike Troubadours": {
+    "summary": "Oklahoma band whose literary, fiddle-and-guitar character songs made them the defining act of the 2010s Red Dirt scene.",
+    "related": ""
+  },
+  "Tweedy": {
+    "summary": "Jeff Tweedy's double album with teenage son Spencer on drums, looser and poppier than a singer-songwriter statement, made during his wife's cancer treatment.",
+    "related": ""
+  },
+  "Twerps": {
+    "summary": "Melbourne band playing hazy, unhurried ramshackle jangle-pop indebted to the Flying Nun and Feelies sound.",
+    "related": "The Go-Betweens; The Clean; Rolling Blackouts Coastal Fever; The Goon Sax"
+  },
+  "Twin Peaks": {
+    "summary": "Chicago teenage DIY band's ragged garage-jangle riffs grew into tighter, craft-oriented songwriting across a run of scrappy guitar-pop records.",
+    "related": ""
+  },
+  "Twine": {
+    "summary": "Adelaide band tagging its own music countrygaze and noise country, heartland twang and Dirty Three-style violin inside post-hardcore dynamics.",
+    "related": ""
+  },
+  "Twisted Teens": {
+    "summary": "New Orleans band's Gulf Coast-steeped, road-worn twang carries loose, rowdy cowpunk energy across a 13-song debut.",
+    "related": "Thomas Dollbaum; Kurt Vile"
+  },
+  "Two Cow Garage": {
+    "summary": "Columbus, Ohio band built on Micah Schnabel's shouted, urgent vocals and forceful punk-and-country arrangements about dead-end Midwestern towns.",
+    "related": ""
+  },
+  "Tyler Ballgame": {
+    "summary": "Los Angeles-based Rhode Island native's debut sets warm, '70s-inflected songwriting inside theatrical vocal performances and tasteful arrangements.",
+    "related": ""
+  },
+  "Tyler Childers": {
+    "summary": "Eastern-Kentucky songwriter whose plainspoken, live-in-the-room storytelling made him the decade's most credible new outlaw, later stretching into gospel and psychedelia.",
+    "related": "Sturgill Simpson"
+  },
+  "Uncle Tupelo": {
+    "summary": "Belleville, Illinois band spliced punk tempos and buzzsaw guitars onto Carter Family and Bakersfield country, the founding document of 1990s insurgent country.",
+    "related": ""
+  },
+  "Unrest": {
+    "summary": "Washington DC band moved from noisy, chaotic post-punk toward lean, hook-filled minimalist pop that bridged the DC punk and indie-pop underground.",
+    "related": ""
+  },
+  "Uwade": {
+    "summary": "Uwade Akhere's choir-trained voice moves through folk, soul and singer-songwriter modes after years singing on Fleet Foxes' Shore.",
+    "related": "Fleet Foxes"
+  },
+  "Various Artists": {
+    "summary": "Two landmark compilations: Harry Smith's Anthology of American Folk Music, the folk revival's shared songbook, and Dunedin Double, the record that named the Dunedin sound.",
+    "related": ""
+  },
+  "Vashti Bunyan": {
+    "summary": "London songwriter's hushed, lullaby-like Just Another Diamond Day, written on a horse-and-wagon journey, was rediscovered decades later as a foundational freak-folk text.",
+    "related": ""
+  },
+  "Velvet Crush": {
+    "summary": "Rhode Island trio Paul Chastain and Ric Menck made an almost scholarly distillation of Byrds twelve-string jangle and Big Star hooks.",
+    "related": "Big Star; Teenage Fanclub; Matthew Sweet"
+  },
+  "Vern Gosdin": {
+    "summary": "Nashville singer nicknamed \"The Voice,\" whose rich, weathered baritone over traditional steel-and-fiddle arrangements led 1970s traditionalist honky-tonk.",
+    "related": ""
+  },
+  "Versus": {
+    "summary": "New York band pairing Richard Baluyut and Fontaine Toups's dual vocals with disciplined loud-soft dynamics, a New York answer to Superchunk.",
+    "related": "Superchunk"
+  },
+  "Vetiver": {
+    "summary": "Andy Cabic's soft, unhurried West Coast-indebted folk-rock positioned him within San Francisco's freak-folk circle while staying gentler than his peers.",
+    "related": "Devendra Banhart; Joanna Newsom"
+  },
+  "Vic Chesnutt": {
+    "summary": "Athens, Georgia songwriter's shaky, unadorned voice and pitch-black humor over sparse arrangements set the template for lo-fi Southern gothic confession.",
+    "related": ""
+  },
+  "Victoria Williams": {
+    "summary": "Los Angeles songwriter's helium-light, quavering voice and childlike, image-driven songwriting fed directly into alt-country and indie-folk artists that followed.",
+    "related": "Mark Olson"
+  },
+  "Video Age": {
+    "summary": "New Orleans duo moving away from disco nostalgia toward more personal, unselfconscious songwriting with effortless pop craft.",
+    "related": ""
+  },
+  "Vincent Neil Emerson": {
+    "summary": "East Texas songwriter of Choctaw-Apache heritage whose spare, plainspoken Texas country-folk continues the Guy Clark and Townes Van Zandt lineage.",
+    "related": ""
+  },
+  "Violent Femmes": {
+    "summary": "Milwaukee band's second album swapped jittery pop for hellfire gospel and apocalyptic Americana, an unusually strange early entry in country-punk.",
+    "related": "X; The Blasters"
+  },
+  "Volcano Suns": {
+    "summary": "Peter Prescott's post-Mission of Burma band carried that group's angular, drum-forward Boston post-punk attack into scrappier Homestead-scene noise-rock.",
+    "related": "Mission of Burma"
+  },
+  "Waco Brothers": {
+    "summary": "Jon Langford's post-Mekons band brought punk politics directly into Chicago's country scene, a founding act of Bloodshot Records' insurgent-country identity.",
+    "related": "The Mekons"
+  },
+  "Warehouse": {
+    "summary": "Atlanta band fronted by Elaine Edenfield's commanding vocals plays kinetic, interlocking-guitar post-punk closer to Sonic Youth's angularity than jangle-pop.",
+    "related": ""
+  },
+  "Water Liars": {
+    "summary": "Mississippi duo built quiet, spare records around close, weathered harmonies and plainspoken songs of loss, sharing Drive-By Truckers' subject matter at low volume.",
+    "related": ""
+  },
+  "Waxahatchee": {
+    "summary": "Katie Crutchfield's project moved from raw bedroom indie-rock DIY roots into a twangier, pedal-steel-laced country sound that popularized \"indie twang.\"",
+    "related": "Plains; MJ Lenderman"
+  },
+  "Way Dynamic": {
+    "summary": "Dylan Young's Melbourne project studies mellow '70s songwriting in the Carole King/Jackson Browne mode, dressed in baroque-pop string arrangements.",
+    "related": ""
+  },
+  "Waylon Jennings": {
+    "summary": "Nashville insider whose self-produced, songwriter-first records with his own touring band founded outlaw country's core sound and commercial breakthrough.",
+    "related": ""
+  },
+  "Waylon Jennings and Willie Nelson": {
+    "summary": "The first full studio pairing of the two outlaw stars, anchored by their biggest crossover hit and interlocking drawls.",
+    "related": "Waylon Jennings; Willie Nelson"
+  },
+  "Waylon Jennings, Willie Nelson, Jessi Colter and Tompall Glaser": {
+    "summary": "RCA's compilation of four Hillbilly Central artists coined \"outlaw\" as a genre label and became the first platinum country album.",
+    "related": "Waylon Jennings; Willie Nelson; Jessi Colter; Tompall Glaser"
+  },
+  "Wayne Hancock": {
+    "summary": "Austin traditionalist's lean, upright-bass-and-steel records built squarely on Hank Williams and Bob Wills gave Bloodshot's roster a direct link to prewar country.",
+    "related": ""
+  },
+  "Wednesday": {
+    "summary": "Karly Hartzman's Asheville band grew from lo-fi duo into a shoegaze-thick, pedal-steel-laced countrygaze outfit blending noise rock with Southern storytelling.",
+    "related": "MJ Lenderman"
+  },
+  "Ween": {
+    "summary": "Gene and Dean Ween's New Hope duo recorded absurdist, genre-lurching home tapes on cheap four-track gear before major labels licensed the lo-fi aesthetic.",
+    "related": ""
+  },
+  "Weirs": {
+    "summary": "Shifting North Carolina old-time/DIY-noise collective recording traditional ballads and hymns with tape manipulation, cut live at a family dairy farm.",
+    "related": "Sluice; Magic Tuber Stringband"
+  },
+  "Wet Willie": {
+    "summary": "Mobile, Alabama-born, Macon-based band represented Capricorn Records' horn-and-soul wing of Southern rock, closer to Stax than guitar-jam bands.",
+    "related": ""
+  },
+  "Whiskey Myers": {
+    "summary": "East Texas band mixing Skynyrd-style twin-guitar riffing with outlaw-country grit, a leading voice of the 2010s Southern-rock revival.",
+    "related": ""
+  },
+  "Whiskeytown": {
+    "summary": "Ryan Adams and Caitlin Cary's Raleigh band worshipped Gram Parsons through pedal steel and fiddle, North Carolina's answer to Uncle Tupelo.",
+    "related": ""
+  },
+  "Whitey Morgan and the 78's": {
+    "summary": "Michigan-bred Waylon Jennings disciple leads a hard-touring honky-tonk band through unpolished, whiskey-soaked outlaw country for a Rust Belt audience.",
+    "related": ""
+  },
+  "Whitney": {
+    "summary": "Chicago band formed from Smith Westerns' collapse pairs Julien Ehrlich's falsetto with warm horn charts and loose, country-tinged guitar picking.",
+    "related": ""
+  },
+  "Whitney Rose": {
+    "summary": "Canadian-born artist's lean, hook-driven honky-tonk with a vintage early-1960s Nashville sound works within Austin's traditional-country revival scene.",
+    "related": ""
+  },
+  "Why Bonnie": {
+    "summary": "Blair Howerton's Texas band moved from bedroom dream-pop toward raw-edged, twangy indie rock citing Townes Van Zandt and Blaze Foley as touchstones.",
+    "related": ""
+  },
+  "Widowspeak": {
+    "summary": "Molly Hamilton's New York dream-pop band gradually leaned into a warmer, more overtly country-inflected sound across their later Captured Tracks albums.",
+    "related": ""
+  },
+  "Wilco": {
+    "summary": "Jeff Tweedy's post-Uncle Tupelo band moved from straightforward alt-country through art-pop experimentation and Crazy Horse-style guitar sprawl to a late return to pure country.",
+    "related": "Uncle Tupelo"
+  },
+  "Wild Pink": {
+    "summary": "John Ross's New York band grew from quiet, synth-tinged indie rock into a widescreen, pedal-steel-dressed heartland sound crossing into indie twang.",
+    "related": "The War on Drugs"
+  },
+  "Wilder Maker": {
+    "summary": "Gabe Birnbaum's New York project ceded lead vocals to a guest cast over extended, guitar-forward jams built for a full band stretching out live.",
+    "related": ""
+  },
+  "Wildflower": {
+    "summary": "Adrian O'Barr's project makes lush, adventurous folk with pedal steel, saxophone and violin woven into ample twang about coastlines and long drives.",
+    "related": ""
+  },
+  "Will Johnson": {
+    "summary": "Centro-matic frontman's solo catalog strips his songwriting down to weathered, plainspoken voice and acoustic guitar, running parallel to his main bands for decades.",
+    "related": "Centro-matic; South San Gabriel"
+  },
+  "Will Lawrence": {
+    "summary": "Upstate New York songwriter's understated, masterful record of dusky, nostalgic folk-rock mines a tasteful, unhurried palette about love and loss.",
+    "related": ""
+  },
+  "Will Oldham": {
+    "summary": "The one album released simply under his own name bridges the Palace era and the Bonnie 'Prince' Billy identity with quiet, spacious songwriting.",
+    "related": ""
+  },
+  "Will Stratton": {
+    "summary": "Upstate New York fingerpicker pairs Nick Drake-indebted guitar work with chamber-folk strings across a decade-plus run of patient, literate records.",
+    "related": ""
+  },
+  "Willard Grant Conspiracy": {
+    "summary": "Robert Fisher's revolving-membership Boston band paired his cavernous baritone with somber strings and gothic-country arrangements steeped in death and religious imagery.",
+    "related": ""
+  },
+  "Willi Carlisle": {
+    "summary": "Fayetteville songwriter blending old-time and cowboy-poet traditions into warm, generous storytelling about found family and rural queerness.",
+    "related": ""
+  },
+  "William Elliott Whitmore": {
+    "summary": "Iowa farm-raised songwriter's stark solo banjo-and-guitar records steeped in gospel and old-time Southern folk found an unlikely audience through punk touring circuits.",
+    "related": ""
+  },
+  "William Tyler": {
+    "summary": "Nashville sideman-turned-solo-guitarist pushed American Primitive fingerstyle toward warmer, pastoral, Cosmic American Music tones, later adding full-band Grateful Dead-style arrangements.",
+    "related": ""
+  },
+  "Willie Nelson": {
+    "summary": "Austin-based songwriter whose self-directed concept albums and stripped-down production proved outlaw country's bare-bones aesthetic could top the charts.",
+    "related": ""
+  },
+  "Willis Alan Ramsey": {
+    "summary": "The only album Willis Alan Ramsey ever released delivered warm, character-driven Austin songwriting including widely covered standards, a cult classic of silence since.",
+    "related": ""
+  },
+  "Willow Avalon": {
+    "summary": "Georgia singer's atmospheric, hypnotic mainstream country about economic anxiety and small-town life sits closer to Kacey Musgraves's mood than bro-country's party mode.",
+    "related": ""
+  },
+  "Windsor for the Derby": {
+    "summary": "Tampa band pairing slow, minimal guitar and bass with programmed drums built a krautrock-influenced, motorik variant of slowcore.",
+    "related": ""
+  },
+  "Wipers": {
+    "summary": "Greg Sage's Portland trio built stark, claustrophobic punk that predates post-punk, later cited by Kurt Cobain as a foundational grunge influence.",
+    "related": ""
+  },
+  "Wire": {
+    "summary": "London band stripped punk to blunt, angular fragments across a foundational post-punk trilogy that influenced Minor Threat, R.E.M. and Elastica alike.",
+    "related": ""
+  },
+  "Wishy": {
+    "summary": "Indiana songwriters Kevin Krauter and Nina Pitchkites blend shoegaze haze, grunge fuzz and power-pop hooks across pillowy atmospherics and scathing distortion.",
+    "related": ""
+  },
+  "Woods": {
+    "summary": "Jeremy Earl's Brooklyn band moved from bedroom-folk tape-hiss into sun-soaked, Crazy Horse-style jams that defined the Woodsist label's cosmic-country scene.",
+    "related": "Real Estate; White Fence; Kurt Vile"
+  },
+  "Woody Guthrie": {
+    "summary": "Oklahoma songwriter whose flat, conversational talking-blues about Dust Bowl poverty founded the topical singer-songwriter tradition running through Dylan to Big Thief.",
+    "related": ""
+  },
+  "Wyatt Flores": {
+    "summary": "Oklahoma State-scene songwriter whose plainspoken acoustic heartbreak songs follow directly in Zach Bryan's commercial and stylistic wake.",
+    "related": "Zach Bryan"
+  },
+  "Wynn Stewart": {
+    "summary": "Bakersfield honky-tonk innovator whose sunny, treble-forward shuffle sound directly shaped both Buck Owens's guitar attack and Merle Haggard's phrasing.",
+    "related": ""
+  },
+  "X": {
+    "summary": "Los Angeles punk band fusing Billy Zoom's rockabilly guitar with Exene Cervenka and John Doe's off-kilter harmonies, the template LA cowpunk worked from.",
+    "related": "The Blasters; The Knitters; Rank and File"
+  },
+  "Yasmin Williams": {
+    "summary": "Virginia guitarist's percussive lap-tapping technique enters the Fahey-descended fingerstyle tradition from an unusual technical angle, later widened with African instrumentation.",
+    "related": ""
+  },
+  "Yo La Tengo": {
+    "summary": "Hoboken band Ira Kaplan and Georgia Hubley moved from Velvet Underground-indebted jangle into hushed-to-feedback dynamics across a constantly shape-shifting decades-long catalog.",
+    "related": "The Feelies"
+  },
+  "ZZ Top": {
+    "summary": "Houston trio distilled blues-boogie into tight, riff-driven songs, a leaner, more compact regional counterpart to Georgia and Florida Southern rock.",
+    "related": ""
+  },
+  "Zach Bryan": {
+    "summary": "Oklahoma songwriter's sprawling, self-recorded, diaristic songwriting became a streaming-era phenomenon without going through Nashville's studio machinery.",
+    "related": ""
+  },
+  "Zach Top": {
+    "summary": "Washington state singer's debut is a near-perfect recreation of late-1980s neo-traditional country, extending the Randy Travis/Keith Whitley revival into the 2020s.",
+    "related": ""
+  },
+  "Zephaniah OHora": {
+    "summary": "Brooklyn-based traditionalist makes note-perfect 1960s countrypolitan music, an uncannily authentic homage to Ray Price and the Nashville Sound made far from Nashville.",
+    "related": ""
+  },
+  "Zook": {
+    "summary": "Nashville project mixing jangly guitar with drum machines and synths in an off-kilter, homemade DIY/Bandcamp pop style.",
+    "related": ""
+  },
+  "fIREHOSE": {
+    "summary": "Mike Watt and George Hurley reunited after the Minutemen's end with new guitarist Ed Crawford, extending that band's funk-punk economy into the late 1980s.",
+    "related": "Minutemen"
+  },
+  "h. pruz": {
+    "summary": "Hannah Pruzinsky's quiet folk threads Wurlitzer, saxophone and synth through an explorative meditation on love, control and domesticity.",
+    "related": ""
+  },
+  "hemlock": {
+    "summary": "Carolina Chauffe's raw, introspective phone-fi bedroom folk stitches together voicemails from loved ones into an intimate, homey song-a-day archive.",
+    "related": "Lomelda"
+  },
+  "i26connector": {
+    "summary": "Asheville project self-tagged \"Emo Southern Rock,\" pairing wailing pedal steel and booming riffs under conversational, apocalyptic-brooding lyrics.",
+    "related": "MJ Lenderman; Wednesday"
+  },
+  "k.d. lang": {
+    "summary": "Alberta singer's detour into Patsy Cline-style countrypolitan torch balladry, produced by Nashville Sound architect Owen Bradley, spelled out her classic-country lineage.",
+    "related": ""
+  },
+  "k.d. lang and the Reclines": {
+    "summary": "lang's Alberta cowpunk beginnings fused with torch-song polish across records that won a Grammy before her 1990s pop crossover.",
+    "related": ""
+  },
+  "kitship": {
+    "summary": "Chicago project's low-key acoustic singer-songwriter fare and understated lo-fi indie rock ties into the city's current DIY guitar-pop scene.",
+    "related": ""
+  },
+  "klark sound": {
+    "summary": "Stripped-back, conversational solo record recorded in three days, a pristine croon over spare acoustic arrangements.",
+    "related": ""
+  },
+  "lake j": {
+    "summary": "Twin Peaks guitarist Cadien Lake James's solo project trades his main band's raw garage-pop for glimmering, tastefully electronic jangle-pop.",
+    "related": "Twin Peaks"
+  },
+  "lots of hands": {
+    "summary": "Newcastle duo's Fire Talk debut is a winsome, ramshackle collage of reworked bedroom demos, flickering electronics and processed vocals about grief and growing up.",
+    "related": ""
+  },
+  "midwest, post death": {
+    "summary": "Band that formed online and cut its album in eight days swings hard between hushed folk moments and punk blowouts on the emo-twang side of the map.",
+    "related": ""
+  },
+  "proun": {
+    "summary": "Austin trio led by Jamie Weed mixes '90s alternative dynamics, 2010s emo phrasing and pedal-tinged bedroom folk into cathartic, building songs.",
+    "related": ""
+  },
+  "twain": {
+    "summary": "Mat Davidson's project sets a high, keening voice against loose, fingerpicked country-folk drawing on Gram Parsons-style cosmic country.",
+    "related": ""
+  },
+  "vega": {
+    "summary": "Molly Meehan's gentle, adventurous Burlington indie rock pairs soft, openhearted songs with woozy twang and waltz-like arrangements.",
+    "related": ""
+  },
+  "villagerrr": {
+    "summary": "Mark Allen Scott's prolific, home-recorded Columbus project moved from quiet Bandcamp uploads to tasteful, subdued indie rock about specific Midwestern life.",
+    "related": "Merce Lemon; Greg Freeman"
+  }
+}
