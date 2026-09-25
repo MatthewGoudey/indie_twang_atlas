@@ -1,0 +1,16 @@
+FIRST: read /home/claude/work/agent_web_override.md — web access is ONLY via the Firecrawl connector tools (mcp__Firecrawl__firecrawl_scrape / mcp__Firecrawl__firecrawl_search; load them with ToolSearch if needed). Do not load the firecrawl-research skill, do not use the CLI, WebSearch or WebFetch. You are lane agent "XB". Budget: 10 searches, 45 scrapes. Stop when spent. Save sources to /home/claude/work/research/XB/, facts to /home/claude/work/research/XB/notes.md, failures to /home/claude/work/research/gaps.md prefixed [XB]. Check /home/claude/work/research/ for an existing file before every scrape. Do not retry errors.
+
+SECOND: read /home/claude/work/agent_brief.md and follow it exactly EXCEPT its §6 (replaced by the override).
+
+YOUR ASSIGNMENT — Context lanes X5, X6, X7, X8 (zone: Context). Output file: /home/claude/work/staging/lane_XB.jsonl.
+Context lanes are landmarks and hits only: 8–20 albums per lane (aim ~14), across all eras the lane spans. Each row's `lineage` MUST say where the branch split off from the V (which V lane/artist it descends from and where its main line leads instead). `priority`: Essential for the 3–5 landmarks per lane, Recommended otherwise; no Deep cuts. One start_here per lane.
+Lanes:
+- X5 Chamber, baroque, and freak folk: Sufjan Stevens, Joanna Newsom, Devendra Banhart, Beirut, the Decemberists: ornate indie folk that leads elsewhere. Parents: V5, V30, V11. Terry leads: /home/claude/work/sources/terry_by_lane/X5.txt (if the file exists). 
+- X6 Emo and Midwest emo: Cap'n Jazz, American Football, Modern Baseball: the emo line from which C9 borrows. Parents: V16, X14. Terry leads: /home/claude/work/sources/terry_by_lane/X6.txt (if the file exists). Cap'n Jazz, American Football, Mineral, Sunny Day Real Estate, The Promise Ring, Modern Baseball, The Hotelier, Into It. Over It. — landmarks only.
+- X7 Heartland rock: Springsteen, Petty, Mellencamp, Seger: arena-scale American rock that occasionally feeds the V (Nebraska). Parents: V22, V28. Terry leads: /home/claude/work/sources/terry_by_lane/X7.txt (if the file exists). Flag Springsteen's Nebraska as a V influence in its lineage field.
+- X8 Grunge and '90s alt radio: Nirvana, Pearl Jam, Soundgarden, Mudhoney, Screaming Trees: the Seattle line and its radio aftermath. Parents: V16, V20. Terry leads: /home/claude/work/sources/terry_by_lane/X8.txt (if the file exists). 
+Terry lead files: include an album from them only if it is a landmark of the lane or the lane needs a modern example (fill `terry`). Many Terry X10/X5/X9 items are modern indie records — take at most 3–4 per lane.
+Verification: Wikipedia album pages/artist discography pages in query mode are enough for canon albums (two sources = Wikipedia + AllMusic/Discogs where cheap; otherwise Medium).
+Before writing, grep /home/claude/work/master.jsonl for each artist to avoid duplicating albums already in V lanes (e.g. Crosby, Stills, Nash & Young's Déjà Vu is V20; Springsteen may already appear nowhere).
+Append rows incrementally, then run python3 /home/claude/work/tools/validate_staging.py /home/claude/work/staging/lane_XB.jsonl until OK.
+Reply with a SHORT summary: rows per lane, needs_verification lines, judgment calls, scrapes used, gaps, 429s.

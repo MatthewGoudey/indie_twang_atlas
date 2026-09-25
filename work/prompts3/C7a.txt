@@ -1,0 +1,24 @@
+FIRST: read /home/claude/work/agent_web_override.md — web access is ONLY via the Firecrawl connector tools (mcp__Firecrawl__firecrawl_scrape / mcp__Firecrawl__firecrawl_search; load them with ToolSearch if needed). Do not load the firecrawl-research skill, do not use the CLI, WebSearch or WebFetch. You are lane agent "C7a". Budget: 12 searches, 60 scrapes. Stop when spent. Save sources to /home/claude/work/research/C7a/, facts to /home/claude/work/research/C7a/notes.md, failures to /home/claude/work/research/gaps.md prefixed [C7a]. Check /home/claude/work/research/ for an existing file before every scrape. Do not retry errors.
+
+SECOND: read /home/claude/work/agent_brief.md and follow it exactly EXCEPT its §6 (replaced by the override).
+
+YOUR ASSIGNMENT — Core lane C7: Slacker, jangle, and power-pop revival (zone: Core; era: 2008–).
+Definition: 2010s–2020s guitar pop descended from Pavement, GBV, Flying Nun and Big Star: jangle, fuzz, conversational lyrics, short songs, DIY release culture.
+Parent lanes: V10, V11, V17, V18, V16. 
+Layers: L2 tail (2008–2013) and L1. Target: about 60 verified albums for your share (a floor, not a cap — Core is completionist: every album that fits and has credible critical, blog or Bandcamp attention; stop when new searches mostly return albums you already have or when your budget is spent).
+
+SPLIT: this lane is shared by two agents. You handle ONLY artists whose sort name (ignoring a leading 'The') starts with letters A–K. The other agent covers the rest and writes to a different file. Apply this rule to the Terry file, the field-guide list and the seeds.
+
+Core rules (in addition to the brief):
+(a) CHECKLIST: work through /home/claude/work/sources/terry_by_lane/C7.txt — every album there is a must-consider candidate. Verify it, include it if it fits (any Core lane — if it better fits another lane set that primary_lane and add a borderline_note), and put the first No Expectations URL from that line in the `terry` field. In your reply list any you rejected and why (one line each). Terry's post counts as a second source for year when it states it.
+(b) FIELD GUIDE: every field-guide artist mapped to C7 in /home/claude/work/fieldguide_mapping.csv (your share of them) must end up with at least one album row. Read that CSV (columns artist, region, base, era, style, start_with, draft_lane, note) — reuse its region/base/style.
+(c) COMPLETION: for each artist you cover, include every album of theirs that fits the Core (LPs, notable EPs), not only the one Terry mentioned. Albums by the same artist that clearly belong to another lane: note them in your reply instead.
+(d) VERIFY with Bandcamp artist pages (https://<artist>.bandcamp.com/music, query mode: "list every release with year and label") and label pages; Wikipedia where it exists. Year and label must come from a scraped page. Self-released Bandcamp albums: label = "Self-released".
+(e) Key tracks must be real titles from the album (a Bandcamp album page or tracklist confirms them; if you cannot confirm a track, use a track the Terry post names, or send the row to needs_verification).
+
+Seeds (not verified facts): Field-guide artists: Truth Club, Kurt Vile, Alex G, 2nd Grade, Hurry, Golden Apples, Horsegirl, Joe Glass, Golomb, Wishy, Good Flying Birds, Bonny Doon, Neu Blume, Hovvdy, Hotline TNT, Liz Cooper, Cash Langdon, Lawn, The Convenience, Car Seat Headrest, Sunday Mourners, Courtney Barnett, Rolling Blackouts Coastal Fever, The Goon Sax, Mac DeMarco, Kiwi Jr., Nap Eyes, The Bug Club. Plus Terry's C7 list (150 albums) and: Waxahatchee's pre-2020 records (American Weekend, Cerulean Salt, Ivy Tripp, Out in the Storm) — C7 with C3 secondary, Snail Mail, Soccer Mommy (borderline), Pom Pom Squad no, Beach Fossils no, Real Estate (early), Speedy Ortiz, Swearin', Radiator Hospital, Dazy, Pardoner, Tony Molina, The Beths (borderline), Parquet Courts (early; borderline), Fazerdaze no, Sweet Spirit no, Twerps, Dick Diver, Chook Race, Terry (the band), Small Black no, Friendly Fires no.
+Notes: Slacker/jangle/power-pop is the test; twang is not required here but the lane must trace to Pavement/GBV/Flying Nun/Big Star. Honour the prior ruling list: Weezer, Vampire Weekend, King Gizzard are OUT. Courtney Barnett is in the field guide twice (early and recent) — cover both eras.
+
+Output file: /home/claude/work/staging/lane_C7a.jsonl. Append verified rows incrementally in batches of ~10. primary_lane "C7" unless an album clearly belongs elsewhere. Mark at most 1–2 start_here="Y". Then run: python3 /home/claude/work/tools/validate_staging.py /home/claude/work/staging/lane_C7a.jsonl and fix every problem until it prints OK.
+
+Reply with a SHORT summary only (no rows): row count, needs_verification count, artists covered, Terry-list items rejected (with reason), judgment calls, up to 10 artists that belong in OTHER lanes (with lane id), scene/label facts worth recording, scrapes used, gaps logged, any 429s.

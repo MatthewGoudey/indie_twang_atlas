@@ -1,0 +1,20 @@
+FIRST: read /home/claude/work/agent_web_override.md — web access is ONLY via the Firecrawl connector tools (mcp__Firecrawl__firecrawl_scrape / mcp__Firecrawl__firecrawl_search; load them with ToolSearch if needed). Do not load the firecrawl-research skill, do not use the CLI, WebSearch or WebFetch. You are lane agent "ANCH". Budget: 12 searches, 70 scrapes. Stop when spent. Save sources to /home/claude/work/research/ANCH/, facts to /home/claude/work/research/ANCH/notes.md, failures to /home/claude/work/research/gaps.md prefixed [ANCH]. Check /home/claude/work/research/ for an existing file before every scrape. Do not retry errors.
+
+SECOND: read /home/claude/work/agent_brief.md and follow it exactly EXCEPT its §6 (replaced by the override).
+
+YOUR ASSIGNMENT — anchor-artist completion (Core zone). Output file: /home/claude/work/staging/lane_ANCH.jsonl.
+
+The user's anchors need FULL coverage: every studio album, notable EP, live album, collaboration and side project. Artists:
+1. MJ Lenderman — solo albums (self-titled/early Bandcamp releases, Ghost of Your Guitar Solo, Boat Songs, Manning Fireworks), EPs (e.g. Knockin' EP 2023), live album And the Wind (Live and Loose!), collaborations/side projects (e.g. Snocaps with Katie & Allison Crutchfield and Brad Cook — check; his work in Wednesday is covered under Wednesday).
+2. Wednesday — every album (Yep Roc, Mom + Pop, Twin Plagues, Rat Saw God, Bleeds, early self-released records), the covers record Mowing the Leaves Instead of Leaving Them Alone (2022), EPs.
+3. Karly Hartzman — solo record(s) (e.g. Karly Hartzman / Hartzman solo EPs — find what exists), plus her earlier project Diamond Grove? (check) — primary lane C2.
+4. Villagerrr — every album/EP on Bandcamp (Like Leaves, Tear Your Heart Out, and earlier) — primary lane C5.
+5. Big Thief (Masterpiece, Capacity, U.F.O.F., Two Hands, Dragon New Warm Mountain I Believe in You, Double Infinity) — C5; Adrianne Lenker solo (Hours Were the Birds, abysskiss, songs, instrumentals, Bright Future; early teenage records only if verifiable, mark Deep cut), Adrianne Lenker & Buck Meek duo records (a-sides/b-sides, Stages of the Sun?) — Collab; Buck Meek solo (Buck Meek, Two Saviors, Haunted Mountain, and any 2025/2026 record) — C3; James Krivchenia solo only if twang-adjacent (else note).
+6. Greg Freeman — I Looked Out (2022), Burnover (2025), All Set the Bone (2026, per Terry) and any EPs — C1.
+Lane rules: Lenderman solo → C1; Wednesday → C4; Hartzman → C2; Villagerrr, Big Thief, Lenker → C5; Buck Meek → C3; Greg Freeman → C1. Live albums type "Live". Collabs type "Collab".
+Verification: Bandcamp artist pages (https://<name>.bandcamp.com/music) in query mode ("list every release with year and label"), Wikipedia artist + discography pages, label pages (Dear Life, Anti-, Dead Oceans, 4AD, Saddle Creek, Keeled Scales, Run for Cover). Terry leads for these artists are in /home/claude/work/sources/terry_by_lane/C1.txt, C4.txt, C5.txt, C3.txt, C2.txt — fill `terry` with the first URL.
+Check /home/claude/work/master.jsonl first — none of these artists have rows yet, but grep anyway. Other Core agents are told NOT to write these artists, so you own them.
+Neil Young is already complete — skip.
+Descriptions matter extra here (these are the user's favourite artists): concrete, accurate, own words; no invented facts. start_here="Y" on Manning Fireworks and Rat Saw God only.
+Append rows incrementally, then run python3 /home/claude/work/tools/validate_staging.py /home/claude/work/staging/lane_ANCH.jsonl until OK.
+Reply with a SHORT summary: rows per artist, needs_verification lines, anything you could not confirm, scrapes used, gaps, any 429s.

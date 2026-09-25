@@ -1,0 +1,22 @@
+FIRST: read /home/claude/work/agent_web_override.md — web access is ONLY via the Firecrawl connector tools (mcp__Firecrawl__firecrawl_scrape / mcp__Firecrawl__firecrawl_search; load them with ToolSearch if needed). Do not load the firecrawl-research skill, do not use the CLI, WebSearch or WebFetch. You are lane agent "C8". Budget: 12 searches, 60 scrapes. Stop when spent. Save sources to /home/claude/work/research/C8/, facts to /home/claude/work/research/C8/notes.md, failures to /home/claude/work/research/gaps.md prefixed [C8]. Check /home/claude/work/research/ for an existing file before every scrape. Do not retry errors.
+
+SECOND: read /home/claude/work/agent_brief.md and follow it exactly EXCEPT its §6 (replaced by the override).
+
+YOUR ASSIGNMENT — Core lane C8: Modern slowcore and hushed twang (zone: Core; era: 2014–).
+Definition: Slow tempos, quiet dynamics, sparse arrangements and country-tinged melodies; the 2010s–2020s descendants of Low, Red House Painters, Duster and Bedhead, often with pedal steel.
+Parent lanes: V12, V5, V1, V2. 
+Layers: L1 (2014–2026). Target: about 35 verified albums for your share (a floor, not a cap — Core is completionist: every album that fits and has credible critical, blog or Bandcamp attention; stop when new searches mostly return albums you already have or when your budget is spent).
+
+Core rules (in addition to the brief):
+(a) CHECKLIST: work through /home/claude/work/sources/terry_by_lane/C8.txt — every album there is a must-consider candidate. Verify it, include it if it fits (any Core lane — if it better fits another lane set that primary_lane and add a borderline_note), and put the first No Expectations URL from that line in the `terry` field. In your reply list any you rejected and why (one line each). Terry's post counts as a second source for year when it states it.
+(b) FIELD GUIDE: every field-guide artist mapped to C8 in /home/claude/work/fieldguide_mapping.csv (your share of them) must end up with at least one album row. Read that CSV (columns artist, region, base, era, style, start_with, draft_lane, note) — reuse its region/base/style.
+(c) COMPLETION: for each artist you cover, include every album of theirs that fits the Core (LPs, notable EPs), not only the one Terry mentioned. Albums by the same artist that clearly belong to another lane: note them in your reply instead.
+(d) VERIFY with Bandcamp artist pages (https://<artist>.bandcamp.com/music, query mode: "list every release with year and label") and label pages; Wikipedia where it exists. Year and label must come from a scraped page. Self-released Bandcamp albums: label = "Self-released".
+(e) Key tracks must be real titles from the album (a Bandcamp album page or tracklist confirms them; if you cannot confirm a track, use a track the Terry post names, or send the row to needs_verification).
+
+Seeds (not verified facts): Friendship (Shock Out of Season, Dreamin', Love the Stranger, Caveman Wakes Up), Horse Jumper of Love (Horse Jumper of Love, So Divine, Natural Part, Disaster Trick), Lomelda (Thx, M for Empathy, Hannah, Irish Goodbye), Sluice (Radial Gate, Companion), Otto Benson (Peanut), Hana Stretton, Hataałii, hemlock, Sleeper's Bell (check C5 split), Babehoven, Bnny, Little Mazarn, Clifford, 22º Halo, Joyer, Fog Lake, Teethe, Widowspeak (later records: Plum, The Jacket, Expect the Best), Duster is V12, Carissa's Wierd is V12, Hovvdy (C7), Bedroom slowcore: Florist (Emily Alone, Florist), Cassandra Jenkins no, Advance Base (Nephew in the Wild, Animal Companionship, Answering Machine Music — Owen Ashworth) borderline C2, Grouper no, Emily Reo no, Lala Lala no.
+Notes: Slow tempos + country-tinged melody is the test; pure ambient or sad-bedroom-pop without twang is out. Start here: Friendship – Love the Stranger.
+
+Output file: /home/claude/work/staging/lane_C8.jsonl. Append verified rows incrementally in batches of ~10. primary_lane "C8" unless an album clearly belongs elsewhere. Mark at most 1–2 start_here="Y". Then run: python3 /home/claude/work/tools/validate_staging.py /home/claude/work/staging/lane_C8.jsonl and fix every problem until it prints OK.
+
+Reply with a SHORT summary only (no rows): row count, needs_verification count, artists covered, Terry-list items rejected (with reason), judgment calls, up to 10 artists that belong in OTHER lanes (with lane id), scene/label facts worth recording, scrapes used, gaps logged, any 429s.
