@@ -21,3 +21,12 @@
 - [V7] Summer Dean - Bad Romantic (2020) | not confirmed via scraped page | needed for: label/year confirmation
 no V6 gaps to log this session
 - [C1] https://wideorbit.bandcamp.com/album/introducing-wide-orbit | 404 Not Found | needed for: Wide Orbit – Introducing... Wide Orbit (year/label verification; budget spent before finding correct handle)
+- [C3] https://desireecannon.bandcamp.com/music | 404 Not Found | needed for: Desiree Cannon – Radio Heat (2024)
+- [C3] https://maddykirgo.bandcamp.com/music | 404 Not Found | needed for: Maddy Kirgo – Shadow on My Light (2024)
+- [C3] https://kenpomeroymusic.bandcamp.com/music | 404 Not Found (wrong slug; correct is kenpomeroy.bandcamp.com) | needed for: Ken Pomeroy – Cruel Joke
+- [C3] https://gracerogersmusic.bandcamp.com/music | 404 Not Found (wrong slug; correct is sophomorelounge.bandcamp.com/album/grace-rogers-mad-dogs) | needed for: Grace Rogers – Mad Dogs
+- [C3] https://tobaccocityband.bandcamp.com/music | 404 Not Found (wrong slug; correct is tobaccocity.bandcamp.com) | needed for: Tobacco City
+- [C3] https://en.wikipedia.org/wiki/National_Photo_Committee | 404 Not Found (no Wikipedia page; used Bandcamp/label instead) | needed for: National Photo Committee
+- [C3] https://en.wikipedia.org/wiki/Emily_Nenni | 404 Not Found (no Wikipedia page; used Bandcamp instead) | needed for: Emily Nenni
+- [C3] https://en.wikipedia.org/wiki/Joshua_Ray_Walker | 404 Not Found (no Wikipedia page; used Bandcamp instead) | needed for: Joshua Ray Walker
+- [C3] Kiely Connell "My Own Company" (2024) named by Terry | could not locate on Bandcamp (only Calumet Queen, 2026, listed as her debut) | needed for: terry checklist item
