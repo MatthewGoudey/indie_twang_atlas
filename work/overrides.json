@@ -40,6 +40,14 @@
    "album": "Blue Stars",
    "drop": true,
    "reason": "Listed as a 2026 album but its Bandcamp page is empty and QA found no confirming page; moved to Needs Verification until it is out."
+  },
+  {
+   "artist": "Mount Eerie",
+   "album": "Mount Eerie",
+   "set": {
+    "artist": "The Microphones"
+   },
+   "reason": "The 2003 album Mount Eerie is credited to The Microphones on Discogs and Wikipedia; Phil Elverum adopted the Mount Eerie name afterward (QA re-check)."
   }
  ],
  "notes": [

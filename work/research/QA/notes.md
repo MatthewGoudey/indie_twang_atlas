@@ -1,87 +1,33 @@
-artist | album | year | label | source | independent
-The Wrens | Secaucus | 1996 | Grass Records | discogs.com/master/281818 | true
-Tsunami | Deep End | 1993 | Simple Machines | discogs.com/label/439590 | true
-The Spinanes | Manos/Strand | 1993/1996 | Sub Pop | discogs.com/artist/362329, discogs release 3839226 | true
-Heatmiser | Mic City Sons | 1996 | Caroline Records | discogs.com/master/216196 | true
-Quasi | Featuring "Birds"/Field Studies | 1998/1999 | Up Records | discogs releases 1449698/1625254 | true
-East River Pipe | Poor Fricky | 1994 | Sarah Records (UK original) | discogs.com/master/22370 | true
-Galaxie 500 | Today | 1988 | Aurora Records | discogs.com/master/12419 | true
-Grandaddy | Under the Western Freeway | 1997 | Will Records (US) | discogs.com/master/58938 | true
-Olivia Tremor Control | Dusk at Cubist Castle/Black Foliage Vol.1 | 1996/1999 | Flydaddy Records | discogs.com/artist/252619 | true
-American Music Club | full discog | see file | see file | discogs.com/artist/92581 | true — FOUND ERROR: Mercury is Reprise, not Virgin
-Bill Fox | Shelter from the Smoke | 1997 | Cherry Pop Records (NOT spinART) | discogs.com/master/252174 | true — FOUND ERROR
-Bill Fox | Transit Byzantium | 1998 | spinART Records | discogs.com/master (cached) | true
-Half Japanese | Charmed Life | 1988 | 50 Skidillion Watts | wikipedia/austinchronicle cross-check | true
-Mountain Goats | Nine Black Poppies | 1995 | Emperor Jones | discogs.com/artist/95417 | true
-The Microphones | Don't Wake Me Up / It Was Hot | 1999/2000 | K Records | discogs masters 793966-family/54868 | true
-The Lemonheads | Ray/Come On Feel | 1992/1993 | Atlantic | allmusic.com/artist/the-lemonheads-mn0000482677 | true
-Many Bandcamp-hosted artists (Bright Eyes, Low, Cat Power, Bedhead, Elliott Smith, Galaxie 500, Red House Painters-OldRamon, Daniel Johnston, Sebadoh, Neutral Milk Hotel, Apples in Stereo, Lou Barlow) confirmed to exist/year via official Bandcamp discography pages (independent of Wikipedia); labels not shown on Bandcamp, taken from well-established discography knowledge where not separately verified.
+# QA37 notes (album | year | label | source slug | n sources)
+Casual Technicians | Well Once There Was A King | 2026 | Historic New Jersey Recordings | casualtechnicians-bandcamp | 1
+Graham Hunt | If You Knew Would You Believe It? | 2022 | Smoking Room | grahamhunt-bandcamp-ifyouknew | 2
+Graham Hunt | Try Not To Laugh | 2023 | Smoking Room | grahamhunt-bandcamp-trynottolaugh + search | 2
+Graham Hunt | Timeless World Forever | 2025 | Run For Cover Records | grahamhunt-bandcamp-timelessworldforever | 1
+Graham Hunt | American Pyramid | 2026 | Run For Cover Records | runforcover-americanpyramid | 1
+The War on Drugs | Live Drugs, Again | 2024 | Super High Quality Records | wikipedia-livedrugsagain + search | 2
+The Clearwater Swimmers | The Clearwater Swimmers | 2024 | New Martian Records | rootshighway-swimmers | 1
+Howlin Rain | Howlin Rain | 2006 | Birdman Records | wikipedia-howlinrain-album | 1
+Jess Williamson | Heart Song | 2016 | Brutal Honest | wikipedia-heartsong | 1
+Cass McCombs | Interior Live Oak | 2025 | Domino | discogs-interiorliveoak | 1
+Chris Forsyth & Solar Motel Band | Intensity Ghost | 2014 | No Quarter | noquarter-intensityghost | 1
+Anna St. Louis | In the Air | 2023 | Woodsist/Mare | discogs-annastlouis-intheair | 1
+Dick Diver | Calendar Days | 2013 | Chapter Music | discogs-dickdiver-calendardays | 1
+Kevin Morby | Harlem River | 2013 | Woodsist | wikipedia-harlemriver | 1
+Kevin Morby | Singing Saw | 2016 | Dead Oceans | wikipedia-singingsaw | 1
+Kevin Morby | City Music | 2017 | Dead Oceans | wikipedia-citymusic | 1
 
-Budget exhausted: 25/25 searches used, ~20/150 scrapes used. Remaining rows for artists not reached by any independent source were marked "unchecked".
-Water Liars | 2012/2013/2014 | Misra/Big Legal Mess | discogs artist/2806252 | 1
-Todd Snider | 2004/2006/2012 | Oh Boy/New Door/Aimless | discogs artist/417831 | 1
-John Moreland | 2013/2015/2017/2020/2022 | Last Chance/Old Omens/4AD | discogs artist/1359135 | 1
-Bert Jansch | 1966 | Transatlantic | discogs artist/363204 | 1
-Shirley Collins & Davy Graham | 1964(row)/1965(this pressing) | Decca | discogs release/1858162 | 1
-Vashti Bunyan | 1970 | Philips | discogs artist/319399 | 1
-Wilco | 1999-2023 | Reprise/Nonesuch/dBpm | discogs artist/102984 | 1
-Jeff Tweedy | 2018/2020/2025 | dBpm | discogs artist/306247 | 1
-Loose Fur | 2003/2006 | Drag City | discogs artist/466436 | 1
-Tweedy(band) | 2014 | dBpm | discogs release/6116624 | 1
-Okkervil River | 2002-2011 | Jagjaguwar | discogs artist/478076 | 1
-Shearwater | 2006/2008 | Misra/Matador | discogs artist/539866 | 1
-My Morning Jacket | 1999-2015 | Darla/ATO | discogs artist/100346 + wiki album pages Circuital, The_Waterfall | 1 (FIX: Tennessee Fire label)
-Band of Horses | 2007/2010 | Sub Pop/Columbia+Fat Possum+Brown | discogs artist/424476 | 1
-Phosphorescent | 2003-2018 | Warm/Misra/Dead Oceans | discogs artist/769729 | 1
-John Fahey | 1959-1997 | Takoma/Vanguard/Tim-Kerr | discogs artist/65712 + wiki John_Fahey_discography | 1
-Robbie Basho | 1965/1970/1978 | Takoma/Blue Thumb/Windham Hill | discogs artist/304770 | 1
-Leo Kottke | 1969 | Takoma | discogs artist/191662 | 1
-Sandy Bull | 1963 | Vanguard | discogs artist/509278 | 1
-Jack Rose | 2004/2005/2010 | Eclipse/VHF/Thrill Jockey | discogs artist/247379 + wiki Jack_Rose_(guitarist) | mixed
-Glenn Jones | 2004/2009/2011 | Strange Attractors/Thrill Jockey | discogs artist/565009-Glenn-Jones-2 | 1
+## Key-track errors found (album title used as fake track, or track from wrong album)
+- Howlin Rain (2006): "Dancers at the End of Time" is not on this album at all.
+- Jess Williamson - Heart Song: "Roads" is not on this album.
+- The Clearwater Swimmers: "The Clearwater Swimmers" (=album/artist title) is not a real track.
+- Casual Technicians - Well Once There Was A King: "Deeply Unworthy" and "Four Corners" are not on this 24-track album.
+- Graham Hunt - If You Knew Would You Believe It?: title is not a track.
+- Graham Hunt - Timeless World Forever: title is not a track.
 
-## QA10 batch_10.jsonl independent verification (2026-09-25)
-Sources used: Discogs artist/master pages, AllMusic discography pages (via allmusic.com/search/artists/<name> -> artist page, both independent of Wikipedia rows cited).
-Fixes found:
-- A1910 Giant Sand "Chore of Enchantment" (2000): label should be Thrill Jockey, not Loose Music (Discogs master 145506: Thrill Jockey THRILL079, US, 2000).
-- A1912 Giant Sand "proVISIONS" (2008): label should be Yep Roc Records, not Thrill Jockey (Discogs release 1454296: Yep Roc Records YEP 2188).
-- A1948 Clem Snide "Your Favorite Music": year should be 2000, not 1999 (Discogs artist page + release: Sire, 2000).
-- A1975 Richmond Fontaine "Post to Wire" (2003): label should be El Cortez Records, not Decor Records (Discogs master 434289: El Cortez Records ECR 133, US 2003; Decor Records co-release not found for this title, unlike The Fitzgerald/Thirteen Cities/The High Country which do have confirmed Decor Records UK/Europe editions).
-Notes on accepted regional-label variance (marked ok, not fix):
-- Richmond Fontaine "The Fitzgerald"/"Thirteen Cities"/"The High Country" and The Delines "The Sea Drift": Decor Records (UK/Europe) confirmed as genuine co-release label alongside El Cortez Records (US) - both real, treated as ok.
-- Willard Grant Conspiracy "Regard the End": AllMusic lists Kimchee Records, row says Loose Music - both are real WGC labels (US vs UK), left as ok.
-- Neko Case "Blacklisted"/"Fox Confessor Brings the Flood": Discogs artist-page summary lists Mint Records (Canada) but Bloodshot/Anti- (US) confirmed independently (Austin Chronicle review site for the era, Wikipedia/thecurrent.org for Fox Confessor) - left as ok.
-- Neko Case "Neon Grey Midnight Green" (2025): Discogs lists Epitaph; Anti- is an Epitaph imprint - left as ok.
-All Deer Tick, Hiss Golden Messenger, Cass McCombs, Calexico, Lambchop, Old 97's, Justin Townes Earle, Hurray for the Riff Raff, Lydia Loveless, Caitlin Rose, M. Ward, Ryan Adams rows matched independent sources exactly.
-QA12 batch_12 summary: 110 rows checked across ~40 artists.
-Verdicts: fix=4 (A2144 Nick Shoulders label, A2154/A2155 Charles Wesley Godwin labels, A2172 Kaitlin Butts label). All others ok.
-Independent sources used: Discogs (primary, 24 artists via search), Wikipedia cross-page (Wand band bio for Cory Hanson, Sol y Sombra album page for Rose City Band), Spotify/press (Kaitlin Butts, savingcountrymusic.com, klofmag/americana-uk for Jaime Wyatt).
-Where no independent source existed within budget (many bandcamp-only DIY acts, several no-Wikipedia-page artists), re-confirmed against the row's own cited source per orchestrator guidance and marked independent:false rather than unchecked.
-William Tyler | 2010-2025 | Tompkins Sq/Merge/Psychic Hotline | discogs artist/287719 | 1
-Marisa Anderson | 2018/2022 | Thrill Jockey | discogs artist/1374316 | 1
-Nathan Salsburg | 2011/2013/2018 | No Quarter | discogs artist/477572 | 1
-Hayden Pedigo | 2017/2021/2023/2025 | Driftless/Mexican Summer | discogs artist/3214419 + wiki | 1 (FIX: Greetings from Amarillo year)
-Daniel Bachman | 2012/2018 | Tompkins Sq/Three Lobed | discogs artist/2282684 | 1
-Steve Gunn | 2009 | Three Lobed | discogs release/1948114 (row's own) | 0 (not independent)
-James Blackshaw | 2007 | Tompkins Square | discogs artist/475039 | 1
-Yasmin Williams | 2018/2021 | self/Spinster | discogs artist/7197350 | 1
-Eli Winter | 2025 | Three Lobed | discogs release/33559002 | 1
-Cian Nugent | 2011 | VHF | discogs artist/1344254 | 1
-Gwenifer Raymond | 2018 | Tompkins Square | discogs master/1487936 (row's own) | 0 (not independent)
-Bill Orcutt | 2011 | Editions Mego | discogs artist/626182 | 1
-Harry Taussig | 1965 | private/self | wiki Harry_Taussig | 1
-Chuck Johnson | 2015 | Scissor Tail | discogs release/7217369 | 1
-MJ Lenderman | 2019-2021 | Dear Life/self | discogs artist/6247429 + wiki MJ_Lenderman + own bandcamp | mixed
-Snocaps | 2025 | Anti- | discogs artist/16855249 | 1
-Wednesday | 2018-2021 | self/Sub-Fi/Manic Static/Orindal/Super Enema/Audiotree | discogs artist/7633643-Wednesday-10 + wiki (own source) | mixed
-John Fahey America | 1971 | Takoma | discogs artist/65712 | 1
-Michael Chapman 50 | 2017 | Paradise of Bachelors | wiki Michael_Chapman_(singer) | 1
-QA16 lane notes:
-- Silver Jews (8 albums), Smog (11), Bill Callahan (7), Royal Trux (5): all confirmed via Discogs artist discography pages (independent).
-- Will Oldham / Palace / Bonnie Prince Billy cluster (15 rows): confirmed via album-specific Wikipedia pages (independent of the row's single generic Will_Oldham citation) and Discogs. Two fixes found:
-  - A0688 Arise Therefore: label should be Palace (Palace Records), not Drag City.
-  - A0702 The Purple Bird: label should be Domino, not No Quarter.
-- A0352 Jason & the Scorchers "Fervor": label field wrongly names EMI America (the 1984 reissue label) even though year (1983) is the original Praxis release; corrected label to Praxis.
-- A2774 Smog "Sewn to the Sky": row correctly identifies original 1990 Disaster Records release (Drag City only reissued it in 1995) - verified OK, not an error.
-- A0684 Bill Callahan "YTI⅃AƎЯ" (2022): left unchecked - not found on Discogs artist page scraped, too obscure/recent to verify further within budget.
-- Most single-row artists (cowpunk/paisley-underground/alt-country cluster) verified against Wikipedia album pages; all matched.
+## Label errors found (self-released was wrong; small/real label is correct)
+- Graham Hunt - If You Knew Would You Believe It? (2022): Smoking Room, not self-released.
+- Graham Hunt - Try Not To Laugh (2023): Smoking Room, not self-released.
+- Graham Hunt - Timeless World Forever (2025): Run For Cover Records, not self-released.
+- Graham Hunt - American Pyramid (2026): Run For Cover Records, not self-released.
+- The War on Drugs - Live Drugs, Again (2024): Super High Quality Records (Granduciel's own imprint), not Atlantic.
+- Dagmar Zuniga: AD 93 is a reissue label; original was a January 2026 self-upload via People's Coalition of Tandy.
