@@ -161,3 +161,4 @@ no V6 gaps to log this session
 - [QA] https://www.discogs.com/search/?q=The+Grays+Ro+Sham+Bo&type=artist | no artist URL found | needed for: The Grays row — used Wikipedia instead
 - [QA31] https://en.wikipedia.org/wiki/Letting_Off_the_Happiness | ERR_TUNNEL_CONNECTION_FAILED (no retry) | needed for: A0186 year/label/tracklist confirm — used cached V11/bright-eyes-wiki.md instead (confirms 1998, Saddle Creek, Padraic My Prince, June on the West Coast)
 - [QA19] She Returns From War "Ruthless" (row A2649): https://shereturnsfromwar.bandcamp.com/ + /music - album/single not found in catalog | needed for: verifying album exists
+- [QA33] https://www.ebay.com/itm/196386195713 | 404 Not Found | needed for: A0978 Kinky Friedman self-titled tracklist confirmation

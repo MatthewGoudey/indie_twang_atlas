@@ -26,3 +26,16 @@ HankWilliamsJr: A0928 ok(1975 MGM); A0929 ok(1979 Elektra/Curb).
 SammiSmith: A0930 ok(1970 Mega).
 SteveYoung: A0931 ok(1969 A&M); A0932 ok(1972 Reprise).
 LeeClayton: A0936 ok(1979 Capitol, Discogs).
+A0952 Jerry Jeff Walker "Mr Bojangles" - Discogs master 223486 confirms real tracklist: Gypsy Songman, Mr. Bojangles, Little Bird, I Makes Money, Round And Round, I Keep Changin', Maybe Mexico, Broken Toys, Ballad Of The Hulk, My Old Man. 1968 ATCO. Row key_track "Rock 'n' Roll Gypsy" is NOT real -> FIX to Gypsy Songman. Keep Mr. Bojangles + My Old Man.
+A0953 Jerry Jeff Walker self-titled (1972) - Discogs master 266977 tracklist: Hill Country Rain, Charlie Dunn, That Old Time Feeling, Her Good Lovin' Grace, Hairy Ass Hillbillies, David & Me, L.A. Freeway, Curly And Lil, That Old Beat Up Guitar, When I Had You, Moon Child, Continuing Saga... Row key_tracks "Gettin' By" and "Gypsy Songman" NOT on this album -> FIX to Hill Country Rain + Charlie Dunn (keep L.A. Freeway).
+A0955 Flatlanders More a Legend Than a Band - Discogs tracks match (Dallas, Jole Blon, Tonight I'm Gonna Go Downtown present). Year ambiguous on Discogs page (table mixed); row 1990 Rounder is well documented elsewhere -> OK, independent=true but note ambiguity.
+A0961 Butch Hancock Diamond Hill (Discogs, cited) - tracks match; Discogs page TITLE says 1980 (freeform text erroneously said 1984, page title metadata says 1980) -> OK year 1980, label Rainlight matches.
+A0965 Blaze Foley Dawg Years (Discogs master, cited) - tracks match; 2010 Fat Possum matches row. OK.
+A0966 Mendocino (Sir Douglas Quintet) ok 1969 Smash.
+A0967 Doug Sahm and Band ok 1973 Atlantic.
+A0968 Texas Tornado ok 1973 Atlantic.
+A0970 Geronimo's Cadillac ok 1972 A&M.
+A0971 Cosmic Cowboy Souvenir ok 1973 A&M.
+A0972 B.W.Stevenson My Maria (Discogs cited) ok 1973 RCA Victor.
+A0974 Terry Allen Juarez - Discogs (release 2438063) + Wikipedia both indicate original label was FATE Records (Terry Allen's own imprint, same label used for Lubbock On Everything); Wikipedia says Sugar Hill was the CD REISSUE label only. Row's label "Landfall" appears WRONG -> FIX label to "Fate". Year 1975 matches, tracks match (Cortez Sail, Border Palace, Dogwood present).
+A0975 Lubbock (On Everything) ok 1979 Fate (Sugar Hill = reissue). tracks match.
