@@ -1,0 +1,238 @@
+import json
+
+rows = []
+
+def add(**kw):
+    rows.append(kw)
+
+# --- Kurt Vile ---
+add(artist="Kurt Vile", album="Constant Hitmaker", year=2008, type="LP", label="Gulcher Records",
+    primary_lane="C7", secondary_lanes=[], style="Slacker", region="Philadelphia", base="Philadelphia, PA", scene="",
+    descriptors=["lo-fi","drawl","hushed","fingerpicked acoustic","breezy"],
+    description="Vile's debut is a hazy, homespun collection of fingerpicked drones and mumbled melodies recorded largely alone on a four-track. It set the template for his sleepy-eyed guitar style before Matador ever came calling. It's for listeners who want the slacker-rock revival at its most unpolished origin point.",
+    lineage="Grew out of the War on Drugs' Philadelphia scene and the lo-fi Bandcamp/cassette underground; its haze fed directly into the countrygaze and slacker records of the 2010s.",
+    lineage_basis="Documented", key_tracks=["Freeway","Space Forklift"], priority="Deep cut", start_here="", terry="",
+    sources=["https://en.wikipedia.org/wiki/Kurt_Vile"], confidence="Medium", borderline_note="")
+
+add(artist="Kurt Vile", album="God Is Saying This to You...", year=2009, type="Compilation", label="Mexican Summer",
+    primary_lane="C7", secondary_lanes=[], style="Slacker", region="Philadelphia", base="Philadelphia, PA", scene="",
+    descriptors=["lo-fi","drawl","fingerpicked acoustic","breezy","hushed"],
+    description="A compilation of early home-recorded tracks that bridges Constant Hitmaker and his Matador debut, showing the same murmured vocals and unhurried acoustic-electric picking before a full band thickened his sound. It's a stopgap for completists tracing his rise from bedroom tapes to indie stardom.",
+    lineage="Part of the same lo-fi Philadelphia tape underground that produced Constant Hitmaker; a bridge into the more full-band Matador era.",
+    lineage_basis="Documented", key_tracks=["Beach on the Moon","Dead Alive"], priority="Deep cut", start_here="", terry="",
+    sources=["https://en.wikipedia.org/wiki/Kurt_Vile"], confidence="Medium", borderline_note="")
+
+add(artist="Kurt Vile", album="Childish Prodigy", year=2009, type="LP", label="Matador Records",
+    primary_lane="C7", secondary_lanes=[], style="Slacker", region="Philadelphia", base="Philadelphia, PA", scene="",
+    descriptors=["Crazy Horse fuzz","drawl","feedback","breezy","long solos"],
+    description="Vile's Matador debut adds full-band muscle and squalling guitar solos to his stoned drawl, making it the loudest and most rock and roll record of his catalog. Songs like the motorik-driven opener show him leaning into Crazy Horse-style fuzz for the first time. It's the record where the War on Drugs alum became a solo guitar hero in his own right.",
+    lineage="Signing to Matador connected Vile's Philly lo-fi scene to the wider indie-rock world, setting up the 2010s slacker and jangle revival that followed him.",
+    lineage_basis="Documented", key_tracks=["Hunchback","Dead Alive"], priority="Recommended", start_here="", terry="",
+    sources=["https://en.wikipedia.org/wiki/Kurt_Vile"], confidence="Medium", borderline_note="")
+
+add(artist="Kurt Vile", album="Smoke Ring for My Halo", year=2011, type="LP", label="Matador Records",
+    primary_lane="C7", secondary_lanes=[], style="Slacker", region="Philadelphia", base="Philadelphia, PA", scene="",
+    descriptors=["drawl","fingerpicked acoustic","hushed","breezy","deadpan"],
+    description="A quieter, more assured record than its predecessor, built on fingerpicked acoustic figures and Vile's half-asleep drawl, this is often cited as his creative breakthrough. It slows the tempos down and lets the songwriting carry the weight rather than the guitar pyrotechnics. It's the album that turned casual fans into believers ahead of his commercial peak.",
+    lineage="Refines the Crazy Horse-and-folk hybrid of Childish Prodigy into the more meditative style that would define his Wakin on a Pretty Daze and B'lieve I'm Goin Down eras.",
+    lineage_basis="Documented", key_tracks=["Baby's Arms","Jesus Fever"], priority="Essential", start_here="", terry="",
+    sources=["https://en.wikipedia.org/wiki/Kurt_Vile"], confidence="Medium", borderline_note="")
+
+add(artist="Kurt Vile", album="Bottle It In", year=2018, type="LP", label="Matador Records",
+    primary_lane="C7", secondary_lanes=[], style="Slacker", region="Philadelphia", base="Philadelphia, PA", scene="",
+    descriptors=["drawl","long songs (7+ minutes)","fingerpicked acoustic","hushed","breezy"],
+    description="A sprawling, patient record full of long, meandering songs that stretch his laconic style to its most spacious extreme, including several tracks that pass the nine-minute mark. It trades the tighter pop songwriting of Lotta Sea Lice for hypnotic, repetition-based jams. It's for fans who want to sink into Vile's world for a while rather than get a quick hit.",
+    lineage="Extends the loose, hypnotic guitar-drone side of his songwriting that traces back through Crazy Horse to his own Smoke Ring for My Halo.",
+    lineage_basis="Documented", key_tracks=["Bassackwards","Loading Zones"], priority="Recommended", start_here="", terry="",
+    sources=["https://en.wikipedia.org/wiki/Kurt_Vile"], confidence="Medium", borderline_note="")
+
+add(artist="Kurt Vile", album="Watch My Moves", year=2022, type="LP", label="Verve Records",
+    primary_lane="C7", secondary_lanes=[], style="Slacker", region="Philadelphia", base="Philadelphia, PA", scene="",
+    descriptors=["synths","drawl","breezy","hushed","fingerpicked acoustic"],
+    description="Vile's first album after leaving Matador for Verve leans further into home-studio synth textures and drum-machine pulses while keeping his familiar mumbled melodies intact. It's looser and more playful than his 2010s work, closer to a solo bedroom record again. It's for longtime fans curious how his sound evolved once he started producing almost everything himself.",
+    lineage="A return to the DIY, self-produced instincts of his earliest lo-fi tapes, now filtered through two decades of studio experience.",
+    lineage_basis="Documented", key_tracks=["Fair Warning","Hey Like a Child"], priority="Recommended", start_here="", terry="",
+    sources=["https://en.wikipedia.org/wiki/Kurt_Vile"], confidence="Medium", borderline_note="")
+
+add(artist="Kurt Vile & Courtney Barnett", album="Lotta Sea Lice", year=2017, type="Collab", label="Matador Records",
+    primary_lane="C7", secondary_lanes=["C2"], style="Slacker", region="Philadelphia", base="Philadelphia, PA / Melbourne, Australia", scene="",
+    descriptors=["drawl","fingerpicked acoustic","duets","breezy","deadpan"],
+    description="A loose, conversational set of duets and trade-off songs between two of indie rock's most deadpan drawlers, built on unhurried fingerpicked guitar interplay. The two swap verses and harmonize in a way that feels like eavesdropping on old friends. It's for anyone who wants Vile's haze and Barnett's wit in the same room.",
+    lineage="A direct collaboration linking the American slacker-guitar lineage (Vile) with the Australian deadpan-songwriter tradition (Barnett), each feeding the other's fanbase.",
+    lineage_basis="Documented", key_tracks=["Over Everything","Continental Breakfast"], priority="Recommended", start_here="", terry="",
+    sources=["https://en.wikipedia.org/wiki/Kurt_Vile","https://en.wikipedia.org/wiki/Courtney_Barnett"], confidence="High", borderline_note="")
+
+# --- Alex G ---
+add(artist="Alex G", album="Winner", year=2011, type="LP", label="Self-released",
+    primary_lane="C7", secondary_lanes=["C8"], style="Lo-fi", region="Philadelphia", base="Philadelphia, PA", scene="",
+    descriptors=["lo-fi","cracked or yelping","drum machine","hushed","bleak"],
+    description="One of Alex Giannascoli's earliest self-released Bandcamp full-lengths, recorded on GarageBand with warped, pitch-shifted vocals and drum-machine loops. It's rougher and stranger than the records that made him famous but already shows his knack for a warped melodic hook. It's for the deep-catalog listener who wants to hear Alex G before the songcraft got polished.",
+    lineage="Part of the early-2010s Bandcamp lo-fi boom that would later be called out by Frank Ocean's use of his music, feeding directly into DSU and the rest of his catalog.",
+    lineage_basis="Documented", key_tracks=["Salt","Icehead"], priority="Deep cut", start_here="", terry="",
+    sources=["https://en.wikipedia.org/wiki/Alex_G"], confidence="Medium", borderline_note="")
+
+add(artist="Alex G", album="Race", year=2011, type="LP", label="Self-released",
+    primary_lane="C7", secondary_lanes=["C8"], style="Lo-fi", region="Philadelphia", base="Philadelphia, PA", scene="",
+    descriptors=["lo-fi","cracked or yelping","hushed","bleak","drum machine"],
+    description="Another early self-recorded Bandcamp album from Alex G's prolific 2011 run, built from warbling home-studio pop songs and pitched vocal manipulation. The songwriting is skeletal and the fidelity is intentionally rough, but melodic hooks poke through the murk. It's for listeners tracing the earliest roots of his songwriting before Domino signed him.",
+    lineage="Continues the same DIY GarageBand aesthetic as Winner, part of the flood of Bandcamp full-lengths that built his cult following before DSU broke through.",
+    lineage_basis="Documented", key_tracks=["Fanta","Race"], priority="Deep cut", start_here="", terry="",
+    sources=["https://en.wikipedia.org/wiki/Alex_G"], confidence="Medium", borderline_note="")
+
+add(artist="Alex G", album="Rules", year=2012, type="LP", label="Self-released",
+    primary_lane="C7", secondary_lanes=["C8"], style="Lo-fi", region="Philadelphia", base="Philadelphia, PA", scene="",
+    descriptors=["lo-fi","cracked or yelping","hushed","bleak","short songs (under 2 minutes)"],
+    description="A collection of short, murky home recordings that lean further into the pitched-vocal manipulation and tape-hiss atmosphere that became his early trademark. Songs blur together into a woozy, half-remembered whole rather than standing as individual singles. It's a transitional record for fans tracking his path toward DSU's breakout.",
+    lineage="Sits in the same self-released Bandcamp run as Winner and Race, the DIY foundation that eventually caught Orchid Tapes' and then Domino's attention.",
+    lineage_basis="Documented", key_tracks=["Sixteen","For Robin"], priority="Deep cut", start_here="", terry="",
+    sources=["https://en.wikipedia.org/wiki/Alex_G"], confidence="Medium", borderline_note="")
+
+add(artist="Alex G", album="Trick", year=2012, type="LP", label="Self-released",
+    primary_lane="C7", secondary_lanes=["C8"], style="Lo-fi", region="Philadelphia", base="Philadelphia, PA", scene="",
+    descriptors=["lo-fi","cracked or yelping","hushed","drum machine","bleak"],
+    description="The last of Alex G's run of purely self-released Bandcamp full-lengths before signing to Orchid Tapes, still built on lo-fi four-track pop songs with warped, childlike vocals. Melodically it's a bit more confident than Rules, hinting at the songwriting leap DSU would make. It's for listeners who want the full arc of his self-taught bedroom period.",
+    lineage="Closes out the self-released Bandcamp era that set up his signing to Orchid Tapes for DSU and eventually Domino Recording Co.",
+    lineage_basis="Documented", key_tracks=["Memory","Icicles"], priority="Deep cut", start_here="", terry="",
+    sources=["https://en.wikipedia.org/wiki/Alex_G"], confidence="Medium", borderline_note="")
+
+add(artist="Alex G", album="DSU", year=2014, type="LP", label="Orchid Tapes",
+    primary_lane="C7", secondary_lanes=["C8"], style="Lo-fi", region="Philadelphia", base="Philadelphia, PA", scene="",
+    descriptors=["lo-fi","cracked or yelping","fingerpicked acoustic","hushed","breezy"],
+    description="Alex G's breakthrough, a warm and melodic leap from his earlier tapes that caught the attention of Frank Ocean and Orchid Tapes alike, mixing pitch-shifted vocals with genuinely gorgeous pop songwriting. It's still lo-fi but far more melodically assured than his self-released run. It's the record most people point to as his arrival as a songwriter to watch.",
+    lineage="The culmination of his self-released Bandcamp period, and the record that plugged him into the Orchid Tapes/bedroom-pop scene before Domino signed him.",
+    lineage_basis="Documented", key_tracks=["Harvey","After Ur Gone"], priority="Essential", start_here="Y", terry="",
+    sources=["https://en.wikipedia.org/wiki/Alex_G"], confidence="Medium", borderline_note="")
+
+add(artist="Alex G", album="Beach Music", year=2015, type="LP", label="Domino Recording Co.",
+    primary_lane="C7", secondary_lanes=[], style="Lo-fi", region="Philadelphia", base="Philadelphia, PA", scene="",
+    descriptors=["lo-fi","cracked or yelping","drum machine","synths","bleak"],
+    description="Alex G's Domino debut pushes his warped pop songs into stranger, more processed territory, with pitch-bent vocals sitting alongside skeletal drum machines and unsettling interludes. It's a deliberately harder listen than DSU, trading immediacy for atmosphere. It's for fans who like the unease under his prettiest melodies.",
+    lineage="First release for Domino after his Bandcamp/Orchid Tapes run, expanding his cult audience while keeping the same bedroom-pop DNA.",
+    lineage_basis="Documented", key_tracks=["Bug","Salt"], priority="Recommended", start_here="", terry="",
+    sources=["https://en.wikipedia.org/wiki/Alex_G"], confidence="Medium", borderline_note="")
+
+add(artist="Alex G", album="Rocket", year=2017, type="LP", label="Domino Recording Co.",
+    primary_lane="C7", secondary_lanes=["C5"], style="Lo-fi", region="Philadelphia", base="Philadelphia, PA", scene="",
+    descriptors=["fiddle","fingerpicked acoustic","cracked or yelping","lo-fi","short songs (under 2 minutes)"],
+    description="A genre-hopping record that swings from fiddle-laced country pastiche to noisy skronk to gentle folk within its short, restless tracklist. It's Alex G at his most eclectic, refusing to settle into one style for more than a couple of minutes at a time. It's for listeners who want the fullest picture of his range.",
+    lineage="Broadens the bedroom-pop template of Beach Music with country and folk textures that anticipate his later, more song-oriented Domino albums.",
+    lineage_basis="Documented", key_tracks=["Bobby","Proud"], priority="Essential", start_here="", terry="",
+    sources=["https://en.wikipedia.org/wiki/Alex_G"], confidence="Medium", borderline_note="")
+
+add(artist="Alex G", album="House of Sugar", year=2019, type="LP", label="Domino Recording Co.",
+    primary_lane="C7", secondary_lanes=[], style="Lo-fi", region="Philadelphia", base="Philadelphia, PA", scene="",
+    descriptors=["cracked or yelping","synths","drum machine","bleak","hushed"],
+    description="A woozy, unsettling record that folds pitch-shifted vocals, folk fingerpicking, and eerie electronic textures into some of his most emotionally direct songwriting, written partly about addiction and loss close to him. Josh Terry has called it the album that soundtracked his memory of 2019. It's often cited as the most cohesive statement in Alex G's catalog.",
+    lineage="Builds on the genre-collage approach of Rocket while tightening the emotional focus, setting up the more expansive God Save the Animals.",
+    lineage_basis="Documented", key_tracks=["Hope","Southern Sky"], priority="Essential", start_here="", terry="https://www.noexpectations.fyi/p/grapetooth-dehd-worlds-fair-feeble-little-horse",
+    sources=["https://en.wikipedia.org/wiki/Alex_G","https://www.noexpectations.fyi/p/grapetooth-dehd-worlds-fair-feeble-little-horse"], confidence="High", borderline_note="")
+
+# --- Car Seat Headrest ---
+add(artist="Car Seat Headrest", album="Teens of Style", year=2015, type="LP", label="Matador Records",
+    primary_lane="C7", secondary_lanes=[], style="Lo-fi", region="The Northeast", base="Seattle, WA (formerly Leesburg, VA)", scene="",
+    descriptors=["lo-fi","drawl","deadpan","noise wall","funny-sad"],
+    description="Will Toledo's Matador debut re-records and remasters highlights from his sprawling self-released Bandcamp catalog, bringing his hyper-verbal, deadpan songwriting to a wider audience for the first time. It's noisier and more chaotic than his later full-band records. It's for fans curious how his bedroom-era songs sounded once given an actual budget.",
+    lineage="Bridges Toledo's twelve self-released Bandcamp albums with the full-band Matador era that produced Teens of Denial and beyond.",
+    lineage_basis="Documented", key_tracks=["Sunburned Shirts","Bad Role Models, Good I Am"], priority="Recommended", start_here="", terry="",
+    sources=["https://en.wikipedia.org/wiki/Car_Seat_Headrest"], confidence="Medium", borderline_note="")
+
+add(artist="Car Seat Headrest", album="Twin Fantasy (Face to Face)", year=2018, type="LP", label="Matador Records",
+    primary_lane="C7", secondary_lanes=["C2"], style="Lo-fi", region="The Northeast", base="Seattle, WA", scene="",
+    descriptors=["drawl","deadpan","funny-sad","long songs (7+ minutes)","anthemic"],
+    description="A full-band re-recording of Toledo's beloved 2011 Bandcamp double album, keeping the original's confessional, wordy songwriting about a doomed teenage relationship while giving it a much bigger, more anthemic sound. Both versions are essential; this is the one most fans discovered first. Note: the original 2011 self-released Twin Fantasy is the same songs in rawer, lo-fi form and is worth hearing alongside it.",
+    lineage="A direct remake of Toledo's own Bandcamp-era masterpiece, connecting his DIY lo-fi songwriting roots to his mature full-band sound.",
+    lineage_basis="Documented", key_tracks=["Beach Life-in-Death","Bodys"], priority="Essential", start_here="Y", terry="",
+    sources=["https://en.wikipedia.org/wiki/Car_Seat_Headrest"], confidence="Medium", borderline_note="")
+
+add(artist="Car Seat Headrest", album="Making a Door Less Open", year=2020, type="LP", label="Matador Records",
+    primary_lane="C7", secondary_lanes=[], style="Lo-fi", region="The Northeast", base="Seattle, WA", scene="",
+    descriptors=["synths","drum machine","deadpan","funny-sad","anthemic"],
+    description="A deliberately polarizing pivot toward synths, drum machines, and even EDM-adjacent production, released partly under the alter-ego alias Trait, while keeping Toledo's anxious, funny-sad lyricism intact. It traded the noisy guitar rock of Teens of Denial for something colder and more electronic. It's for fans willing to follow the band away from its jangle-rock comfort zone.",
+    lineage="A deliberate break from the Crazy Horse and jangle-rock guitar sound of Teens of Denial, showing the DIY-to-major-indie pipeline can still take creative risks.",
+    lineage_basis="Documented", key_tracks=["Can't Cool Me Down","Deadlines (Hostile)"], priority="Recommended", start_here="", terry="",
+    sources=["https://en.wikipedia.org/wiki/Car_Seat_Headrest"], confidence="Medium", borderline_note="")
+
+add(artist="Car Seat Headrest", album="The Scholars", year=2025, type="LP", label="Matador Records",
+    primary_lane="C7", secondary_lanes=[], style="Jangle", region="The Northeast", base="Seattle, WA", scene="",
+    descriptors=["drawl","anthemic","funny-sad","harmonized guitars","long songs (7+ minutes)"],
+    description="A concept album set at a fictional university, this record returns Car Seat Headrest to a bigger, more guitar-driven full-band sound after the electronic detour of Making a Door Less Open. Toledo's wordy, theatrical songwriting is at its most ambitious here, built around a cast of recurring characters. It's for longtime fans who wanted the band's rock muscle back.",
+    lineage="A return to the anthemic guitar-rock lineage of Teens of Denial after the band's synth-pop experiment, keeping Toledo's literary songwriting intact.",
+    lineage_basis="Documented", key_tracks=["Gethsemane","Lion's Share"], priority="Recommended", start_here="", terry="",
+    sources=["https://en.wikipedia.org/wiki/Car_Seat_Headrest"], confidence="Medium", borderline_note="")
+
+# --- Courtney Barnett ---
+add(artist="Courtney Barnett", album="The Double EP: A Sea of Split Peas", year=2013, type="Compilation", label="Marathon Artists",
+    primary_lane="C7", secondary_lanes=["C2"], style="Slacker", region="Australia and New Zealand", base="Melbourne, Australia", scene="",
+    descriptors=["deadpan","drawl","storytelling","funny-sad","breezy"],
+    description="A compilation pairing Barnett's first two self-released EPs, introducing her rambling, deadpan talk-singing and wry observational lyrics to an international audience for the first time. The guitar tone is loose and unpolished, closer to garage rock than the more produced records that followed. It's the release that put her on critics' radars before her proper debut LP.",
+    lineage="Grows out of Melbourne's DIY scene and Barnett's own Milk! Records; set the stage for the deadpan Australian songwriter wave that followed, including Fred Thomas-style funny-sad storytelling in the US.",
+    lineage_basis="Documented", key_tracks=["Avant Gardener","History Eraser"], priority="Essential", start_here="", terry="",
+    sources=["https://en.wikipedia.org/wiki/Courtney_Barnett"], confidence="Medium", borderline_note="")
+
+add(artist="Courtney Barnett", album="Tell Me How You Really Feel", year=2018, type="LP", label="Milk!/Mom+Pop",
+    primary_lane="C7", secondary_lanes=["C2"], style="Slacker", region="Australia and New Zealand", base="Melbourne, Australia", scene="",
+    descriptors=["deadpan","drawl","feedback","funny-sad","anthemic"],
+    description="A heavier, more direct record than her debut, with fuzzed-out guitars backing pointed lyrics about self-doubt, sexism, and anger. The production is thicker and the tempos slower, giving her deadpan delivery more room to sting. It's for listeners who want Barnett's wit turned toward something angrier.",
+    lineage="Follows directly from Sometimes I Sit and Think..., sharpening the same slacker-guitar and deadpan-lyric approach into more overtly political territory.",
+    lineage_basis="Documented", key_tracks=["Nameless, Faceless","City Looks Pretty"], priority="Recommended", start_here="", terry="",
+    sources=["https://en.wikipedia.org/wiki/Courtney_Barnett"], confidence="Medium", borderline_note="")
+
+rows_kiwi_etc = []
+
+# --- Kiwi Jr. ---
+add(artist="Kiwi Jr.", album="Football Money", year=2020, type="LP", label="Mint Records",
+    primary_lane="C7", secondary_lanes=[], style="Jangle", region="The UK, Ireland and Canada", base="Toronto, Canada", scene="",
+    descriptors=["jangle","deadpan","harmonized guitars","pop-culture references","breezy"],
+    description="Kiwi Jr.'s debut full-length sets the template the band would refine on later Sub Pop records: chiming, Pavement-indebted guitar lines, deadpan sing-speak vocals, and lyrics stuffed with dry pop-culture asides. It's rougher around the edges than Cooler Returns but already has the band's melodic hooks in place. It's for fans who want the origin point of their jangle-pop run.",
+    lineage="Grows out of Toronto's DIY guitar-pop scene and the Pavement/Guided by Voices lineage; set up the band's jump to Sub Pop for Cooler Returns and Chopper.",
+    lineage_basis="Documented", key_tracks=["Highlands Metal","Salary Man"], priority="Recommended", start_here="", terry="",
+    sources=["https://en.wikipedia.org/wiki/Kiwi_Jr."], confidence="Medium", borderline_note="")
+
+# --- The Bug Club ---
+add(artist="The Bug Club", album="Green Dream in F#", year=2022, type="LP", label="We Are Busy Bodies",
+    primary_lane="C7", secondary_lanes=[], style="Punk", region="The UK, Ireland and Canada", base="Caldicot, Wales", scene="",
+    descriptors=["deadpan","rowdy","short songs (under 2 minutes)","jangle","pop-culture references"],
+    description="The Welsh duo's debut album packs deceptively simple garage-pop melodies into a scrappy, ramshackle energy, with the pair's back-and-forth deadpan vocals doing most of the heavy lifting. Songs whip by quickly, favoring hooks over polish. It's the record that set up their prolific run before Sub Pop signed them.",
+    lineage="Part of the UK DIY garage-pop underground that runs parallel to the American slacker/jangle revival, later connecting the band to Sub Pop and the wider Bandcamp scene.",
+    lineage_basis="Documented", key_tracks=["Green Dream in F#","We Don't Need Room For Lovin'"], priority="Recommended", start_here="", terry="",
+    sources=["https://en.wikipedia.org/wiki/The_Bug_Club","https://www.subpop.com/news/2024/05/08/sub_pop_signs_the_bug_club"], confidence="High", borderline_note="")
+
+add(artist="The Bug Club", album="Very Human Features", year=2025, type="LP", label="Sub Pop Records",
+    primary_lane="C7", secondary_lanes=[], style="Punk", region="The UK, Ireland and Canada", base="Caldicot, Wales", scene="",
+    descriptors=["deadpan","rowdy","funny-sad","jangle","pop-culture references"],
+    description="The Bug Club's second Sub Pop record streamlines their oddball garage-pop into catchier, tighter songs, with the jokes landing harder and the choruses stickier than ever. The dual vocals of Sam Willmett and Tilly Harris trade lines with an easy chemistry throughout. It's for listeners who want slacker-pop songwriting that's actually secretly very well-crafted.",
+    lineage="Continues the band's garage-punk-to-power-pop evolution begun on Green Dream in F#, now filtered through a major indie label's reach.",
+    lineage_basis="Documented", key_tracks=["Jealous Boy","Full Grown Man"], priority="Recommended", start_here="", terry="https://www.noexpectations.fyi/p/reviews-pry-blasucci-lifeguard-daughter-swords-niemi",
+    sources=["https://thebugclub.bandcamp.com/album/very-human-features","https://www.noexpectations.fyi/p/reviews-pry-blasucci-lifeguard-daughter-swords-niemi"], confidence="High", borderline_note="")
+
+# --- Hotline TNT ---
+add(artist="Hotline TNT", album="Nineteen in Love", year=2021, type="LP", label="Self-released",
+    primary_lane="C4", secondary_lanes=["C7"], style="Shoegaze", region="The Northeast", base="Brooklyn, NY (via Minneapolis)", scene="",
+    descriptors=["noise wall","feedback","jangle","breezy","cracked or yelping"],
+    description="Will Anderson's debut full-length as Hotline TNT buries plainspoken pop melodies under thick sheets of guitar fuzz and noise, setting up the countrygaze-adjacent wall-of-sound style he'd refine on Cartwheel. It's rawer and murkier than the later records but already has the hooks. It's for fans who want the noisiest end of the jangle/shoegaze crossover.",
+    lineage="Kicks off Hotline TNT's run from DIY noise-pop toward the more country-tinged, festival-ready sound of Cartwheel and Raspberry Moon.",
+    lineage_basis="Documented", key_tracks=["Stampede","Slider"], priority="Recommended", start_here="", terry="",
+    sources=["https://hotlinetnt.bandcamp.com/album/nineteen-in-love","https://en.wikipedia.org/wiki/Hotline_TNT"], confidence="High", borderline_note="Placed as secondary in C7 (jangle/power-pop) but primary sound is closer to C4 countrygaze/noise-pop.")
+
+# --- Ducks Ltd. ---
+add(artist="Ducks Ltd.", album="Modern Fiction", year=2021, type="LP", label="Carpark Records",
+    primary_lane="C7", secondary_lanes=[], style="Jangle", region="The UK, Ireland and Canada", base="Toronto, Canada", scene="",
+    descriptors=["jangle","harmonized guitars","breezy","anthemic","drum machine"],
+    description="Ducks Ltd.'s debut full-length sets the duo's template of chiming, propulsive guitar interplay over drum-machine-assisted rhythms, drawing on '80s college-rock jangle filtered through a modern anxious lyric sheet. Tom McGreevy's plainspoken vocals ride on top of Evan Lewis's careening guitar lines. It's for fans of Sarah Records-style jangle brought into the present.",
+    lineage="Draws on the Flying Nun/Go-Betweens jangle-pop lineage and the Toronto DIY scene; set up Harm's Way's fuller studio sound.",
+    lineage_basis="Documented", key_tracks=["The Main Thing","18 Cigarettes"], priority="Recommended", start_here="", terry="",
+    sources=["https://en.wikipedia.org/wiki/Ducks_Ltd."], confidence="Medium", borderline_note="")
+
+add(artist="Ducks Ltd.", album="Harm's Way", year=2024, type="LP", label="Carpark Records",
+    primary_lane="C7", secondary_lanes=[], style="Jangle", region="The UK, Ireland and Canada", base="Toronto, Canada", scene="",
+    descriptors=["jangle","harmonized guitars","breezy","anthemic","pop-culture references"],
+    description="Recorded in Chicago with producer Dave Vettraino and featuring guests from Lawn, Ratboys, and Dehd, this is Ducks Ltd.'s most fleshed-out record, precise and propulsive jangle-pop with careening riffs and power-pop melodies. Josh Terry wrote the album's press bio and calls it one of the year's best indie rock records. It's the fullest realization yet of the duo's college-rock-meets-anxiety songwriting.",
+    lineage="Builds on Modern Fiction's jangle foundation with a bigger, more collaborative studio sound tying Toronto and Chicago's indie-pop scenes together.",
+    lineage_basis="Documented", key_tracks=["Train Full of Gasoline","Cathedral City"], priority="Essential", start_here="Y", terry="https://www.noexpectations.fyi/p/the-most-anticipated-albums-of-2024",
+    sources=["https://www.noexpectations.fyi/p/the-most-anticipated-albums-of-2024","https://en.wikipedia.org/wiki/Ducks_Ltd."], confidence="High", borderline_note="")
+
+with open("/home/claude/work/staging/lane_SW4.jsonl", "a", encoding="utf-8") as f:
+    for r in rows:
+        f.write(json.dumps(r, ensure_ascii=False) + "\n")
+
+print(f"wrote {len(rows)} rows")

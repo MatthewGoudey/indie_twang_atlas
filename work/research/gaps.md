@@ -83,3 +83,12 @@ no V6 gaps to log this session
 - [DEEP] https://jobimusic.bandcamp.com/music | index page had no year/label text (recovered via direct album URL /album/whiplash instead) | needed for: Jobi Riccio discography index
 - [NET] https://thosprettywrongs.bandcamp.com | 404/wrong domain redirect | needed for: Those Pretty Wrongs - self-titled year/label
 - [NET] https://triptidesmusic.bandcamp.com/album/alter | 404 not found | needed for: Triptides - Alter year/label
+- [SW2] Elizabeth Moen bandcamp (Wherever You Aren't) | no dates/label on page | needed for: label confirmation
+- [SW2] Jackie West (Close To The Mystery, Silent Century) | no scrape reached | needed for: full verification
+- [SW2] Will Hasell (Roadkill Heart) | no bandcamp/label page found | needed for: label/year confirmation
+- [SW2] Hut (Renny Conti's band) | could not confirm distinct band bandcamp page | needed for: verification
+- [SW2] Dagmar Zuniga album page | artist page found, album page not located | needed for: year/label confirmation
+- [SW2] Perren - The Spot | no bandcamp/label found | needed for: verification
+- [SW2] Bloomsday | ambiguous - multiple unrelated acts share the name | needed for: identifying correct act/album
+- [SW2] Cantuckee | appears to be an EP within villagerrr's discography, not a standalone act | needed for: clarifying assignment brief
+- [SW2] Gia Margaret | rejected - ambient/dream-pop sound (Jagjaguwar), not Core twang; closer to Context X5/X9

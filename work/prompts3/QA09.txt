@@ -1,0 +1,14 @@
+FIRST: read /home/claude/work/agent_web_override.md — web access is ONLY via the Firecrawl connector tools (mcp__Firecrawl__firecrawl_scrape / mcp__Firecrawl__firecrawl_search; load them with ToolSearch if needed). Do not use the CLI, WebSearch or WebFetch. You are QA agent "QA09". Budget: 25 searches, 150 scrapes. Save sources to /home/claude/work/research/QA/, and do not retry errors.
+
+YOUR ASSIGNMENT — independent re-verification (spec §8 step 2) of album rows written by OTHER agents. You did not write these rows; be skeptical.
+Input: /home/claude/work/qa/batch_09.jsonl (one row per line: id, artist, album, year, type, label, key_tracks, sources, confidence, primary_lane). Rows are grouped by artist.
+For each ARTIST: first grep /home/claude/work/research/ for an existing cached page about the artist (a discography or artist page) — you may use it, but PREFER a source that is different from the row's own `sources` so the check is independent (e.g. if the row cites Wikipedia, check Discogs master pages, Bandcamp, AllMusic or the label site; if it cites Bandcamp, check Wikipedia or Discogs). Use query mode, e.g. prompt "List every album, EP and live album with release year and original record label; for <album A>, <album B> also give the track listing." One page per artist usually covers all its rows.
+For each ROW check: (1) the album exists under that exact title by that artist; (2) ORIGINAL release year; (3) ORIGINAL releasing label (reissue labels are wrong); (4) type (LP/EP/Live/Collab/Compilation); (5) key tracks really are on that album, when your page gives a tracklist.
+Write one JSON line per row to /home/claude/work/qa/result_09.jsonl (append as you go):
+{"id":"A0123","artist":"...","album":"...","verdict":"ok"|"fix"|"fail"|"unchecked","corrections":{"year":1994,"label":"...","album":"exact title","type":"EP","key_tracks":["..."]},"new_source":"https://... (the independent page you used, or \"\")","independent":true|false,"note":"short"}
+- "ok": everything you could check matches. corrections = {}.
+- "fix": the album exists but one or more fields are wrong — give ONLY the corrected fields.
+- "fail": the album does not exist / is by someone else / cannot be a real release.
+- "unchecked": you could not reach any independent page (say why).
+Rules: never guess a correction; a correction must come from a page you scraped. Small title differences in capitalization/punctuation are "ok" unless the official title clearly differs. If the only disagreement is between sources (e.g. year 1996 vs 1997 for a late-December release), mark "ok" and explain in note.
+Reply with a SHORT summary: rows ok/fix/fail/unchecked, error rate = (fix+fail)/checked, the list of fail ids, scrapes/searches used, any 429s.
