@@ -1,0 +1,13 @@
+YOUR ASSIGNMENT — write lane essays for "The V Map" (V_Map.docx), the prose companion to the V Album Atlas. No web access; work only from the files below and your general knowledge of music history, following the honesty rules.
+Read first: /home/claude/work/spec.md sections 2–4 and 7.2 and 9 (the essay specification and writing rules), and /home/claude/work/skeleton/lanes.json (definitions, parents, children).
+Lanes to write: X1, X2, X3, X4, X5, X6, X7, X8, X9, X10, X11, X12, X13, X14.
+For each lane, the album data is in /home/claude/work/essays/input_<LANE>.json: lane info plus every album row in that lane (id, artist, album, year, label, scene, base, priority, start_here, descriptors, description, lineage, lineage_basis, terry). Also useful: /home/claude/work/sheets/scenes.json and /home/claude/work/sheets/labels.json.
+Length and structure per lane (spec §7.2): 100–200 words: what the lane is, where it split from the V (name the V lane/artists it descends from and where its main line leads instead), then 3–5 landmark albums (set "essentials_label": "Landmark albums" in the JSON).
+Each essay covers: the sound; when and where it happened; scenes and labels; key artists; what it inherited and from whom (name the parent lanes/artists) and what it passed on; then the essential albums.
+Writing rules (spec §9): clear, specific prose in your own words; concrete (instruments, vocal character, tempo, production, standout songs from the rows' key tracks); no generic praise; never invent albums, tracks, quotes, chart or sales figures, personnel or biographical details — if a fact is not in the rows and you are not certain of it, leave it out. Lineage: say "documented" connections only where the rows mark them Documented; otherwise phrase as resemblance. Cross-reference albums inline with their ID in square brackets right after the title, e.g. *Manning Fireworks* [A0123]. Only use IDs that exist in the input files. Use *asterisks* for album titles (italic) and single quotes for song titles. No markdown headings, no bullet lists inside paragraphs.
+Output: for each lane write /home/claude/work/essays/<LANE>.json:
+{"paragraphs": ["...", "...", ...], "essentials": [{"id": "A0123", "note": "one short clause on why"}, ...]}
+The essentials list must use IDs from that lane's input (prefer rows marked Essential / start_here), with the count given above. After writing, verify with python that every [Axxxx] in paragraphs and every essentials id exists in the lane's input file, and that word counts are in range; fix and re-check.
+Reply with a SHORT summary: lanes written, word counts, any problems.
+
+Keep any helper scripts in a private folder /tmp/claude-0/E9/ (other agents share the scratchpad).

@@ -1,0 +1,100 @@
+{
+ "paragraphs": [
+  "Every placement in the atlas is a judgment about sound, and some records sit on a line. The spreadsheet's Borderline Log lists every such call, including several hundred notes written by the lane researchers on individual rows. The decisions below are the ones that shaped the map itself: the spec's standing rulings, the exclusions, and the places where an artist's catalog was split across lanes.",
+  "Three rules governed the rest. First, place each album by its own sound, so one artist can appear in several lanes. Second, a Context lane is where a branch leads away from the Core; a Context album can still be an influence, and its Lineage field says so. Third, when a record could not be verified it went to the Needs Verification sheet rather than into the atlas, however likely it seemed."
+ ],
+ "decisions": [
+  {
+   "item": "Real Companion – Nü-metal Heroes (2024)",
+   "text": "Primary lane set to C1. Terry frames it as heartland rock, but it sits in the Asheville/Drop of Sun indie-twang network; kept Core (C1) rather than Context X7."
+  },
+  {
+   "item": "Wild Pink (earlier records)",
+   "text": "Primary lane set to C6. Wild Pink's earlier records are heartland-leaning indie rock closer to The War on Drugs (C6) than to indie twang; only Still Coming Down is C1 by sound (prior ruling)."
+  },
+  {
+   "item": "Cassandra Jenkins (all albums)",
+   "text": "Excluded from Albums. Ambient art-pop without roots or twang texture; fails the Core sound test (two agents concurred)."
+  },
+  {
+   "item": "Gia Margaret (all albums)",
+   "text": "Excluded from Albums. Ambient/instrumental songwriting without roots texture; fails the Core sound test."
+  },
+  {
+   "item": "Vincent Neil Emerson – Blue Stars",
+   "text": "Excluded from Albums. Listed as a 2026 album but its Bandcamp page is empty and QA found no confirming page; moved to Needs Verification until it is out."
+  },
+  {
+   "item": "Greg Freeman – All Set the Bone (2026)",
+   "text": "Kept in Albums (C1). Announced with confirmed tracklist and label on the artist's Bandcamp; release date 2 October 2026, one week after this build. Terry covered it in his 2026 midyear list."
+  },
+  {
+   "item": "The Microphones – Mount Eerie (2003)",
+   "text": "Artist credited as The Microphones. QA re-check: Discogs and Wikipedia credit the 2003 album to The Microphones; Phil Elverum used the Mount Eerie name afterward."
+  },
+  {
+   "item": "Purple Mountains – Purple Mountains (2019)",
+   "text": "Primary C2 (Core), secondary V2. Spec ruling: David Berman's last record belongs with the barroom storytellers it anticipated rather than with his '90s Drag City catalog."
+  },
+  {
+   "item": "Low – Double Negative; Duster – Duster (2019)",
+   "text": "Primary C8, secondary V12. Late records by '90s slowcore bands placed in the modern slowcore lane because they sound like and sit beside the 2010s scene."
+  },
+  {
+   "item": "Cowboy Junkies",
+   "text": "Primary V12, secondary V9. Hushed, slow Americana closer to slowcore than to insurgent country."
+  },
+  {
+   "item": "Michael Hurley's 1970s records",
+   "text": "Primary V2 with a year note. Hurley is a direct ancestor of the Drag City deadpan school; his '70s records sit in V2 despite predating the lane's era."
+  },
+  {
+   "item": "Weezer, Radiohead, Vampire Weekend, King Gizzard & the Lizard Wizard, jam-band live shows",
+   "text": "Out entirely. No traceable path to the Core sound despite appearing in the No Expectations lists."
+  },
+  {
+   "item": "Sarah Shook & the Disarmers",
+   "text": "Primary V6, secondary C3. Bloodshot-era alt-country honky-tonk; researched with Southern storytelling rock but placed with 2000s–2010s alt-country."
+  },
+  {
+   "item": "Beachwood Sparks – 2000–2001 records",
+   "text": "Primary V4, secondary C6. Early cosmic-country revivalists predate C6's 2005 start; their 2024 record is C6."
+  },
+  {
+   "item": "Indigo De Souza; Robber Robber",
+   "text": "Context X10 with scene filled in. Spec ruling: field-guide artists who share the scene but not the sound go to the closest Context lane."
+  },
+  {
+   "item": "Swirlies; My Bloody Valentine",
+   "text": "Context X9. Spec ruling: classic shoegaze is Context; countrygaze (C4) is Core."
+  },
+  {
+   "item": "CMAT",
+   "text": "Context X12. Pop artist's country turn; Context by default under the spec ruling."
+  },
+  {
+   "item": "Bruce Springsteen – Nebraska (1982)",
+   "text": "Context X7 with secondary V22 and a Lineage flag. Spec ruling: heartland rock is Context, but Nebraska is flagged as a V influence."
+  },
+  {
+   "item": "Karly Hartzman",
+   "text": "Represented by Diva Sweetly – In the Living Room (C2). No Hartzman-billed solo album exists as of September 2026; her pre-Wednesday project stands in for the field-guide requirement."
+  },
+  {
+   "item": "midwest, post death – post recovery (2026)",
+   "text": "Primary C9. Field-guide 'Unplaced (2026)' artist; emo/folk-punk with banjo and mandolin places it in emo-twang."
+  },
+  {
+   "item": "Katy Kirby – Juniper; She Returns From War – Ruthless",
+   "text": "Moved to Needs Verification. QA could not confirm these releases exist under these titles."
+  },
+  {
+   "item": "Hotline TNT; feeble little horse",
+   "text": "Primary C7 (not C4). Countrygaze requires country structure under the noise; these are shoegaze/noise-pop without twang."
+  },
+  {
+   "item": "Pedro the Lion – first two albums",
+   "text": "Primary V12, secondary V10. Hushed, deliberate pace closer to slowcore than to slacker rock."
+  }
+ ]
+}
