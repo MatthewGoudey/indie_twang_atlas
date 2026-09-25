@@ -19,3 +19,8 @@ Spencer Radcliffe | Keeper | 2014 | Self-released | spencerradcliffe-bandcamp | 
 Spencer Radcliffe | Looking In | 2015 | Run For Cover Records | spencerradcliffe-bandcamp | 1
 Spencer Radcliffe | Ohio Vision | 2025 | Orindal Records | spencerradcliffe-bandcamp + terry | 2
 i26connector | i26connector | 2026 | Self-released | i26connector-bandcamp + terry | 2
+Oldstar | Of the Highway | 2025 | Self-released | batch2-bandcamp + terry | 2
+Dari Bay | Longest Day Of The Year | 2023 | Self-released (reissued Double Double Whammy 2026) | batch2-bandcamp + terry | 2
+Chico States | I Saw A Galloping Horse Cover No Ground | 2025 | Anything Bagel | batch2-bandcamp + terry | 2
+Convinced Friend | Nowhere Songs | 2026 | Self-released | batch2-bandcamp + terry | 2
+Abel | How to Get Away with Nothing | 2025 | Candlepin Records | batch2-bandcamp + terry | 2
