@@ -55,6 +55,96 @@
    "item": "Greg Freeman – All Set the Bone (2026)",
    "decision": "Kept in Albums (C1)",
    "reason": "Announced with confirmed tracklist and label on the artist's Bandcamp; release date 2 October 2026, one week after this build. Terry covered it in his 2026 midyear list."
+  },
+  {
+   "item": "The Microphones – Mount Eerie (2003)",
+   "decision": "Artist credited as The Microphones",
+   "reason": "QA re-check: Discogs and Wikipedia credit the 2003 album to The Microphones; Phil Elverum used the Mount Eerie name afterward."
+  },
+  {
+   "item": "Purple Mountains – Purple Mountains (2019)",
+   "decision": "Primary C2 (Core), secondary V2",
+   "reason": "Spec ruling: David Berman's last record belongs with the barroom storytellers it anticipated rather than with his '90s Drag City catalog."
+  },
+  {
+   "item": "Low – Double Negative; Duster – Duster (2019)",
+   "decision": "Primary C8, secondary V12",
+   "reason": "Late records by '90s slowcore bands placed in the modern slowcore lane because they sound like and sit beside the 2010s scene."
+  },
+  {
+   "item": "Cowboy Junkies",
+   "decision": "Primary V12, secondary V9",
+   "reason": "Hushed, slow Americana closer to slowcore than to insurgent country."
+  },
+  {
+   "item": "Michael Hurley's 1970s records",
+   "decision": "Primary V2 with a year note",
+   "reason": "Hurley is a direct ancestor of the Drag City deadpan school; his '70s records sit in V2 despite predating the lane's era."
+  },
+  {
+   "item": "Wild Pink – Still Coming Down (2026)",
+   "decision": "Primary C1",
+   "reason": "Placed in indie twang by sound (pedal steel, drawl), unlike the band's earlier heartland-indie records (C6)."
+  },
+  {
+   "item": "Weezer, Radiohead, Vampire Weekend, King Gizzard & the Lizard Wizard, jam-band live shows",
+   "decision": "Out entirely",
+   "reason": "No traceable path to the Core sound despite appearing in the No Expectations lists."
+  },
+  {
+   "item": "Sarah Shook & the Disarmers",
+   "decision": "Primary V6, secondary C3",
+   "reason": "Bloodshot-era alt-country honky-tonk; researched with Southern storytelling rock but placed with 2000s–2010s alt-country."
+  },
+  {
+   "item": "Beachwood Sparks – 2000–2001 records",
+   "decision": "Primary V4, secondary C6",
+   "reason": "Early cosmic-country revivalists predate C6's 2005 start; their 2024 record is C6."
+  },
+  {
+   "item": "Indigo De Souza; Robber Robber",
+   "decision": "Context X10 with scene filled in",
+   "reason": "Spec ruling: field-guide artists who share the scene but not the sound go to the closest Context lane."
+  },
+  {
+   "item": "Swirlies; My Bloody Valentine",
+   "decision": "Context X9",
+   "reason": "Spec ruling: classic shoegaze is Context; countrygaze (C4) is Core."
+  },
+  {
+   "item": "CMAT",
+   "decision": "Context X12",
+   "reason": "Pop artist's country turn; Context by default under the spec ruling."
+  },
+  {
+   "item": "Bruce Springsteen – Nebraska (1982)",
+   "decision": "Context X7 with secondary V22 and a Lineage flag",
+   "reason": "Spec ruling: heartland rock is Context, but Nebraska is flagged as a V influence."
+  },
+  {
+   "item": "Karly Hartzman",
+   "decision": "Represented by Diva Sweetly – In the Living Room (C2)",
+   "reason": "No Hartzman-billed solo album exists as of September 2026; her pre-Wednesday project stands in for the field-guide requirement."
+  },
+  {
+   "item": "midwest, post death – post recovery (2026)",
+   "decision": "Primary C9",
+   "reason": "Field-guide 'Unplaced (2026)' artist; emo/folk-punk with banjo and mandolin places it in emo-twang."
+  },
+  {
+   "item": "Katy Kirby – Juniper; She Returns From War – Ruthless",
+   "decision": "Moved to Needs Verification",
+   "reason": "QA could not confirm these releases exist under these titles."
+  },
+  {
+   "item": "Hotline TNT; feeble little horse",
+   "decision": "Primary C7 (not C4)",
+   "reason": "Countrygaze requires country structure under the noise; these are shoegaze/noise-pop without twang."
+  },
+  {
+   "item": "Pedro the Lion – first two albums",
+   "decision": "Primary V12, secondary V10",
+   "reason": "Hushed, deliberate pace closer to slowcore than to slacker rock."
   }
  ],
  "start_here": {
