@@ -1,0 +1,29 @@
+{
+ "paragraphs": [
+  "Big-tent Americana is roots music scaled for festival main stages: banjo strum, kick drum, gang choruses, and quiet-to-loud builds meant for huge singalongs. It borrows its instruments from the string-band tradition (X4) and some of its earnestness from the V's rootsy folk (V5: Gillian Welch and David Rawlings) and the No Depression bands (V9), but its main line runs toward arenas and pop radio rather than toward the lo-fi, deadpan Core.",
+  "The hinge is Old Crow Medicine Show's *O.C.M.S.* [A2725], produced by David Rawlings, a punk-fast string-band record built around 'Wagon Wheel'. The Avett Brothers' Rick Rubin-produced *I and Love and You* [A2726] smoothed punk-folk into piano and strings. Mumford & Sons' *Sigh No More* [A2727] set the formula of banjo building to shouted chorus on 'Little Lion Man', and the Lumineers' self-titled debut [A2729] stripped it down to the stomp-clap of 'Ho Hey'. Later the lane widened into Stax-style horns on *Nathaniel Rateliff & the Night Sweats* [A2730] and the big-voiced, string-swept balladry of Brandi Carlile's *By the Way, I Forgive You* [A2731]."
+ ],
+ "essentials_label": "Landmark albums",
+ "essentials": [
+  {
+   "id": "A2725",
+   "note": "the string-band record that launched the festival boom"
+  },
+  {
+   "id": "A2726",
+   "note": "punk-folk scaled up for arenas"
+  },
+  {
+   "id": "A2727",
+   "note": "the stomp-clap template itself"
+  },
+  {
+   "id": "A2729",
+   "note": "the most streamlined, radio-dominant version"
+  },
+  {
+   "id": "A2731",
+   "note": "the lane at its most vocally direct"
+  }
+ ]
+}
