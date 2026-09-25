@@ -48,6 +48,22 @@
     "artist": "The Microphones"
    },
    "reason": "The 2003 album Mount Eerie is credited to The Microphones on Discogs and Wikipedia; Phil Elverum adopted the Mount Eerie name afterward (QA re-check)."
+  },
+  {
+   "artist": "MJ Lenderman",
+   "album": "Ghost of Your Guitar Solo",
+   "set": {
+    "key_tracks": [
+     "Someone Get The Grill Out Of The Rain",
+     "I Ate Too Much At The Fair",
+     "Catholic Priest"
+    ],
+    "sources": [
+     "https://mjlenderman.bandcamp.com/album/ghost-of-your-guitar-solo",
+     "https://en.wikipedia.org/wiki/MJ_Lenderman"
+    ]
+   },
+   "reason": "Key tracks corrected against the album's Bandcamp tracklist (the earlier entries were Boat Songs songs)."
   }
  ],
  "notes": [
