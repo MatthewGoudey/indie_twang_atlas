@@ -189,16 +189,23 @@ NS = max(len(scenes) + 1, 2)
 ws = sheet("Labels", ["Label", "Base", "Years active", "Zones and lanes", "Why it matters", "In field guide", "Albums in atlas"], [28, 20, 12, 30, 70, 9, 10])
 seen = set()
 lx = {norm(l["label"]): l for l in labels_x}
+lab_lanes = collections.defaultdict(collections.Counter)
+for r in rows: lab_lanes[norm(r["label"].split("/")[0])][r["primary_lane"]] += 1
+def zl(name):
+    c = lab_lanes.get(norm(name), {})
+    if not c: return ""
+    zs = sorted({LANE[k]["zone"] for k in c})
+    return "/".join(zs) + ": " + ", ".join(k for k, _ in c.most_common(5))
 for r in fg_labels:
     x = lx.get(norm(r[0]), {})
     n = ws.max_row + 1
-    ws.append([r[0], r[1], x.get("years_active", ""), x.get("zones_lanes", ""), x.get("why") or r[2], "Y",
+    ws.append([r[0], r[1], x.get("years_active", ""), x.get("zones_lanes") or zl(r[0]), x.get("why") or r[2], "Y",
                f'=COUNTIF(Albums!$F$2:$F${last},A{n}&"*")'])
     seen.add(norm(r[0]))
 for l in labels_x:
     if norm(l["label"]) in seen: continue
     n = ws.max_row + 1
-    ws.append([l["label"], l.get("base", ""), l.get("years_active", ""), l.get("zones_lanes", ""), l.get("why", ""), "",
+    ws.append([l["label"], l.get("base", ""), l.get("years_active", ""), l.get("zones_lanes") or zl(l["label"]), l.get("why", ""), "",
                f'=COUNTIF(Albums!$F$2:$F${last},A{n}&"*")'])
 finish(ws, wrap_cols=(4, 5))
 

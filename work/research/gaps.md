@@ -131,3 +131,4 @@ no V6 gaps to log this session
 - [SW1] Will Hasell - Roadkill Heart (2026) | no discography source located within budget | needed for: year/label confirmation
 - [SW1] Angela Autumn - Believer (2026) | bandcamp.com/music page scraped but showed no release dates/label text | needed for: year/label confirmation
 - [SW1] https://anniewilliamsmusic.bandcamp.com/music | 404 | needed for: Annie Williams - Visitor label/year confirmation
+- [QA09] https://www.discogs.com/search/?q=Julia+Jacklin&type=master | Invalid content from server (proxy) | needed for: Julia Jacklin discography
