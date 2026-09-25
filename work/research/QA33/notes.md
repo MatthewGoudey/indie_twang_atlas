@@ -53,3 +53,7 @@ SteveGoodman: A1004 ok(1971 Buddah); A1006 JessiesJig ok(1975 Asylum).
 BobbieGentry: A1008 DeltaSweete ok(1968 Capitol); A1009 Fancy ok(1970 Capitol); A1010 Patchwork ok(1971 Capitol).
 LeeHazlewood: A1012 CowboyInSweden ok(1970 LHI); A1014 "13" - master page confirms original 1972 release on VIKING label (row correct); a later Discogs release edition showed Swedish "Grammofon AB Electra" but that's not original. OK 1972 Viking.
 A1016 Karen Dalton In My Own Time - Discogs release+Wikipedia confirm 1971, labels "Paramount Records, Just Sunshine Records" jointly -> row's "Just Sunshine Records" correct. OK.
+FredNeil: A1017 ok(1966 Capitol); A1018 Sessions ok(1968 Capitol).
+TimHardin: A1019 ok(1966 Verve Forecast); A1020 ok(1967 Verve Forecast).
+A1022 LoudonWainwright AlbumII (Discogs) ok(1971 Atlantic).
+JesseWinchester: A1026 ThirdDown (Discogs) ok(1972 Bearsville); A1027 NothingButABreeze (Discogs) ok(1977 Bearsville).
