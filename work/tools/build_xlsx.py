@@ -50,6 +50,8 @@ FG_ALIAS = {
     "Neil Young & Crazy Horse": ["Neil Young", "Neil Young & Crazy Horse", "Crazy Horse", "Neil Young and Crazy Horse"],
     'Palace / Bonnie "Prince" Billy': ["Palace Brothers", "Palace Music", "Palace Songs", "Palace", "Bonnie 'Prince' Billy", 'Bonnie "Prince" Billy', "Will Oldham"],
     "Courtney Barnett (recent)": ["Courtney Barnett"],
+    "Karly Hartzman": ["Karly Hartzman", "Diva Sweetly"],
+    "Spencer Cullum": ["Spencer Cullum", "Spencer Cullum's Coin Collection"],
 }
 fg_norm = set()
 for r in fg_art:
