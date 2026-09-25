@@ -1,0 +1,9 @@
+FIRST: read /home/claude/work/agent_web_override.md — web access is ONLY via the Firecrawl connector tools (mcp__Firecrawl__firecrawl_scrape / mcp__Firecrawl__firecrawl_search; load them with ToolSearch if needed). You are agent "RES2". Budget: 30 searches, 150 scrapes. Keep helper scripts ONLY in a private folder /tmp/claude-0/res2/ (other agents share the scratchpad).
+YOUR ASSIGNMENT — resolve residual issues on atlas album rows. Input: /home/claude/work/qa/resid_2.jsonl — each line has id, artist, album, year, type, label, key_tracks, sources, and "issues" (notes from earlier QA/description reviewers: suspected wrong key tracks, labels, years, artist credits, or doubts that the album exists).
+For each row, check the specific issues against real pages (Wikipedia album/discography pages, Discogs master pages, Bandcamp album pages; direct URLs first, search only if needed). Rules:
+- Correct only what a scraped page shows. Original release year and ORIGINAL label (not reissue). Key tracks must be real songs on THIS album (1–3, from the page's tracklist). If a reviewer's suspicion turns out wrong, the row is "ok".
+- If the album does not exist as described (no such release by that artist), verdict "fail".
+Write one JSON line per row to /home/claude/work/qa/result_R2.jsonl:
+{"id":"...","artist":"...","album":"...","verdict":"ok"|"fix"|"fail","corrections":{"artist":"...","album":"...","year":1999,"label":"...","type":"LP","key_tracks":["..."]},"new_source":"https://...","independent":true,"note":"short"}
+(corrections only includes fields that change.) Verify at the end with python that every input id has one line.
+Reply with a SHORT summary: ok/fix/fail counts and the fail ids.

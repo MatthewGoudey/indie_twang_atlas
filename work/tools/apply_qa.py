@@ -4,7 +4,10 @@
 - fix: apply corrected fields (album, year, label, type, key_tracks).
 - fail: turn the staging row into a needs_verification line; drop from master.
 Writes qa/applied.jsonl (log) and appends a summary to qa_log.jsonl."""
-import json, glob, os, re, unicodedata, collections, datetime
+import json, glob, os, re, unicodedata, collections, datetime, sys
+RES = "--resid" in sys.argv
+GL = "qa/result_R*.jsonl" if RES else "qa/result_[0-9]*.jsonl"
+APL = "qa/applied_R.jsonl" if RES else "qa/applied.jsonl"
 W = "/home/claude/work"; os.chdir(W)
 def norm(s):
     s = unicodedata.normalize("NFKD", str(s)).encode("ascii", "ignore").decode().lower().replace("&", "and")
@@ -12,14 +15,14 @@ def norm(s):
 master = [json.loads(l) for l in open("master.jsonl")]
 byid = {r["id"]: r for r in master}
 results = {}
-for f in sorted(glob.glob("qa/result_*.jsonl")):
+for f in sorted(glob.glob(GL)):
     for l in open(f):
         try: q = json.loads(l)
         except Exception: continue
         if q.get("id") in byid: results[q["id"]] = q
 already = set()
-if os.path.exists("qa/applied.jsonl"):
-    already = {json.loads(l)["id"] for l in open("qa/applied.jsonl")}
+if os.path.exists(APL):
+    already = {json.loads(l)["id"] for l in open(APL)}
 todo = {k: v for k, v in results.items() if k not in already}
 # index staging rows by key
 files = sorted(glob.glob("staging/lane_*.jsonl"))
@@ -32,7 +35,7 @@ for qid, q in todo.items():
     c = q.get("corrections") or {}
     def patch(r):
         if v == "fix":
-            for fld in ("album", "year", "label", "type", "key_tracks"):
+            for fld in ("artist", "album", "year", "label", "type", "key_tracks"):
                 if fld in c and c[fld] not in (None, "", []):
                     if fld == "year":
                         try: r[fld] = int(c[fld])
@@ -66,6 +69,6 @@ for f in changed:
     open(f, "w", encoding="utf-8").writelines(stag[f])
 with open("master.jsonl", "w") as fo:
     for r in master: fo.write(json.dumps(r, ensure_ascii=False) + "\n")
-with open("qa/applied.jsonl", "a") as fo:
+with open(APL, "a") as fo:
     for e in log: fo.write(json.dumps(e, ensure_ascii=False) + "\n")
 print(dict(cnt), "applied", len(log), "not found in staging:", sum(1 for e in log if not e["applied_to_staging"]))

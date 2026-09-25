@@ -7,4 +7,5 @@
 {"item": "Vincent Neil Emerson – Blue Stars (2026)", "id": "", "decision": "Excluded", "reason": "Listed as a 2026 album but its Bandcamp page is empty and QA found no confirming page; moved to Needs Verification until it is out."}
 {"item": "Gia Margaret – There's Always Glimmer (2018)", "id": "", "decision": "Excluded", "reason": "Ambient/instrumental songwriting without roots texture; fails the Core sound test."}
 {"item": "Cassandra Jenkins – My Light, My Destroyer (2024)", "id": "", "decision": "Excluded", "reason": "Ambient art-pop without roots or twang texture; fails the Core sound test (two agents concurred)."}
+{"item": "The Microphones – Mount Eerie (2003)", "id": "A2866", "decision": "Primary lane set to V11", "reason": "The 2003 album Mount Eerie is credited to The Microphones on Discogs and Wikipedia; Phil Elverum adopted the Mount Eerie name afterward (QA re-check)."}
 {"item": "Greg Freeman – All Set the Bone (2026)", "id": "", "decision": "Kept in Albums (C1)", "reason": "Announced with confirmed tracklist and label on the artist's Bandcamp; release date 2 October 2026, one week after this build. Terry covered it in his 2026 midyear list."}
