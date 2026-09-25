@@ -1,0 +1,9 @@
+- [V10] https://en.wikipedia.org/wiki/When_Your_Heartstrings_Break | ERR_TUNNEL_CONNECTION_FAILED (Firecrawl proxy error) | needed for: Beulah - When Your Heartstrings Break tracklist
+- [V10] https://radarbros.bandcamp.com/album/the-singing-hatchet | 404 not found | needed for: Radar Bros. - The Singing Hatchet tracklist
+- [V10] https://theminders.bandcamp.com/album/hooray-for-tuesday | 404 not found | needed for: The Minders - Hooray for Tuesday tracklist
+- [V10] https://en.wikipedia.org/wiki/The_Singing_Hatchet | 404 not found (no standalone Wikipedia album page) | needed for: Radar Bros. - The Singing Hatchet tracklist
+- [V10] https://en.wikipedia.org/wiki/Crumble_(album) | 404 not found | needed for: Butterglory - Crumble tracklist (resolved via search + discogs instead)
+- [V10] https://en.wikipedia.org/wiki/Are_You_Building_a_Temple_in_Heaven%3F | 404 redirect, no content | needed for: Butterglory tracklist (resolved via search + mergerecords.com instead)
+- [V10] https://en.wikipedia.org/wiki/I_Do_Not_Love_You | 404 not found | needed for: Small Factory tracklist (resolved via search + discogs instead)
+- [V10] https://en.wikipedia.org/wiki/For_a_While,_It_Was_Funny | 404 not found | needed for: Karl Hendricks Trio tracklist (resolved via search + mergerecords.com instead)
+- [V10] https://en.wikipedia.org/wiki/Possum_Trot_Plan | 404 not found | needed for: Number One Cup tracklist (resolved via search instead)

@@ -12,3 +12,10 @@ Florry | Sounds Like... | 2025 | Dear Life Records | florry-bandcamp-albums + te
 Brown Horse | Reservoir | 2024 | Loose Music | brownhorse-bandcamp-albums | 1
 Brown Horse | All The Right Weaknesses | 2025 | Loose Music | brownhorse-bandcamp-albums + terry | 2
 Brown Horse | Total Dive | 2026 | Fluff and Gravy Records | brownhorse-bandcamp-albums + terry | 2
+Thomas Dollbaum | Wellswood | 2022 | Big Legal Mess Records | thomasdollbaum-bandcamp | 1
+Thomas Dollbaum | Drive All Night (EP) | 2025 | Dear Life Records | thomasdollbaum-bandcamp | 1
+Thomas Dollbaum | Birds of Paradise | 2026 | Dear Life Records | thomasdollbaum-bandcamp + terry | 2
+Spencer Radcliffe | Keeper | 2014 | Self-released | spencerradcliffe-bandcamp | 1
+Spencer Radcliffe | Looking In | 2015 | Run For Cover Records | spencerradcliffe-bandcamp | 1
+Spencer Radcliffe | Ohio Vision | 2025 | Orindal Records | spencerradcliffe-bandcamp + terry | 2
+i26connector | i26connector | 2026 | Self-released | i26connector-bandcamp + terry | 2
