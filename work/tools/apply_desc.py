@@ -12,7 +12,7 @@ if os.path.exists("qa/desc_applied.jsonl"): done={json.loads(l)['id'] for l in o
 res={}
 home={}
 for f in glob.glob("qa/desc_batch_*.jsonl"):
-    n=re.search(r"desc_batch_(\d+)",f).group(1)
+    n=re.search(r"desc_batch_(\w+)\.jsonl",f).group(1)
     for l in open(f): home[json.loads(l)['id']]=f"qa/descf_result_{n}.jsonl"
 for l in open("qa/desc_sample.jsonl"): home[json.loads(l)['id']]="qa/desc_result.jsonl"
 def load(f):
