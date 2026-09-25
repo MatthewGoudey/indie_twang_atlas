@@ -131,3 +131,15 @@ Source: https://en.wikipedia.org/wiki/The_Bottle_Rockets
 - Ride | 2013 | Bloodshot
 - Slingin' Rhythm | 2016 | Bloodshot
 Source: https://en.wikipedia.org/wiki/Wayne_Hancock
+
+## FINAL: 140 rows written to lane_V6.jsonl (2026-09-25)
+All facts above plus additional scrapes this session (Elizabeth Cook, Esther Rose (musician),
+Whitney Rose (musician), Andrew Combs (musician), Richmond Fontaine labels, Jonny Fritz,
+Langhorne Slim [not used - X3 candidate], Scott H. Biram, Cory Chisel, Deadstring Brothers,
+Th' Legendary Shack Shakers, Willy Vlautin [no separate solo albums], Wayne Hancock labels,
+Bottle Rockets labels + Christgau corroboration for South Broadway Athletic Club) were used to
+build the final row set. Cross-checked against lane_V9.jsonl, lane_V13.jsonl, lane_V3.jsonl for
+duplicates (Neko Case, Old 97's, Robbie Fulks, Bottle Rockets, The Sadies, The Handsome Family,
+Jim Lauderdale, Kelly Willis, Sarah Shook, Bobby Bare Jr., Fred Eaglesmith) - zero overlaps found;
+V6 only includes each artist's 1998+ (or 1999+) continuation records not already claimed by V9/V13.
+Sarah Shook & the Disarmers deliberately excluded per V3 top-up agent's claim on that artist.
