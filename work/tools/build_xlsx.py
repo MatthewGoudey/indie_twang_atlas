@@ -321,6 +321,9 @@ dv_list(wb["Artists"], "C", ref=rng(2, "regions"))
 dv_list(wb["Lanes"], "C", ["Core", "V", "Context"])
 dv_list(wb["Tags"], "A", list(tags.keys()))
 
+order = ["README", "Albums", "Artists", "Lanes", "Scenes", "Labels", "Tags", "Paths", "Borderline Log", "Needs Verification", "QA Log", "Stats", "Lists"]
+wb._sheets = [wb[n] for n in order]
+wb.active = 0
 os.makedirs(os.path.dirname(OUT), exist_ok=True)
 wb.save(OUT)
 print(f"wrote {OUT}: {NA} albums, {len(arts)} artists, {len(nv)} nv, {len(scenes)} scenes, {len(paths)} paths")
