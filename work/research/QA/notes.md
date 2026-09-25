@@ -76,3 +76,12 @@ Snocaps | 2025 | Anti- | discogs artist/16855249 | 1
 Wednesday | 2018-2021 | self/Sub-Fi/Manic Static/Orindal/Super Enema/Audiotree | discogs artist/7633643-Wednesday-10 + wiki (own source) | mixed
 John Fahey America | 1971 | Takoma | discogs artist/65712 | 1
 Michael Chapman 50 | 2017 | Paradise of Bachelors | wiki Michael_Chapman_(singer) | 1
+QA16 lane notes:
+- Silver Jews (8 albums), Smog (11), Bill Callahan (7), Royal Trux (5): all confirmed via Discogs artist discography pages (independent).
+- Will Oldham / Palace / Bonnie Prince Billy cluster (15 rows): confirmed via album-specific Wikipedia pages (independent of the row's single generic Will_Oldham citation) and Discogs. Two fixes found:
+  - A0688 Arise Therefore: label should be Palace (Palace Records), not Drag City.
+  - A0702 The Purple Bird: label should be Domino, not No Quarter.
+- A0352 Jason & the Scorchers "Fervor": label field wrongly names EMI America (the 1984 reissue label) even though year (1983) is the original Praxis release; corrected label to Praxis.
+- A2774 Smog "Sewn to the Sky": row correctly identifies original 1990 Disaster Records release (Drag City only reissued it in 1995) - verified OK, not an error.
+- A0684 Bill Callahan "YTI⅃AƎЯ" (2022): left unchecked - not found on Discogs artist page scraped, too obscure/recent to verify further within budget.
+- Most single-row artists (cowpunk/paisley-underground/alt-country cluster) verified against Wikipedia album pages; all matched.
