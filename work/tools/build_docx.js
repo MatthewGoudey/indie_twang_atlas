@@ -134,7 +134,7 @@ body.push(P("Album IDs such as [A0001] refer to rows on the Albums sheet of V_Al
 body.push(H1("2. The V diagram"));
 body.push(P("The chart on the next page shows every lane as a box, placed in the layer where it is centred and coloured by zone. Arrows run from parent to child: from what fed a sound to what it fed. Dashed arrows touch a Context lane. The shape is the argument of this whole document: many roots at the top, narrowing through the '80s and '90s to a small set of scenes at the bottom."));
 const diagramSection = { properties: { page: { size: { width: 12240, height: 15840, orientation: PageOrientation.LANDSCAPE }, margin: { top: 720, bottom: 720, left: 720, right: 720 } } },
-  children: [img("v_lineage.png", 13.0), new Paragraph({ children: [new PageBreak()] }), H2("The eight trunk lines"), img("trunk_lines.png", 12.5),
+  children: [img("v_lineage.png", 9.9), new Paragraph({ children: [new PageBreak()] }), H2("The eight trunk lines"), img("trunk_lines.png", 9.6),
     P("Each trunk line is one of the eight routes by which an older sound reaches the Core. The eight: (1) Neil Young & Crazy Horse guitar; (2) country played by punk and indie kids; (3) deadpan, funny-sad songwriting; (4) Southern storytelling rock; (5) slow, sad and noisy textures; (6) the DIY network; (7) Cosmic American Music; (8) folk songwriting.")] };
 
 // 3. Core

@@ -148,3 +148,6 @@ no V6 gaps to log this session
 - [QA06] https://www.discogs.com/artist/63715-John-Anderson | wrong John Anderson (only shows 1987-1991 albums, name collision) | needed for: Wild & Blue independent label/year check; used row's own cited Wikipedia page instead (found real key_tracks error there)
 - [QA06] https://www.discogs.com/artist/106047-Faron-Young | wrong/incomplete Discogs artist match (only fan-club items) | needed for: Hello Walls independent check; fell back to row's own cited Wikipedia page
 - [QA06] https://www.discogs.com/artist/26801-Nico | wrong Nico (electronic/techno producer, name collision) | needed for: Chelsea Girl independent check; used row's own cited Wikipedia page instead (found real label error there: Verve not Elektra)
+- [QA08] Adrianne Lenker "Stages of the Sun" (A1545) | no independent page found (obscure 2006 release, not on Bandcamp) | needed for: independent label/year check
+- [QA08] Vincent Neil Emerson "Blue Stars" (A1643) | own bandcamp has no releases listed (pre-release), search inconclusive | needed for: independent confirmation of upcoming 2026 album
+- [QA08] Vincent Neil Emerson self-titled (A2134) | search did not surface a clear independent confirming page | needed for: independent label/year check
