@@ -22,3 +22,7 @@ Jessi Colter: A0913 ok(1975 Capitol); A0914 ok(1976 Capitol); A0915 Mirriam ok(1
 DavidAllanCoe: A0916 ok(1970 SSS Intl); A0919 ok(1976 Columbia); A0920 ok(1977 Columbia).
 JohnnyPaycheck: A0922 ok(1976 Epic); A0923 ok(1977 Epic).
 BobbyBare: A0925 ok(1973 RCA, Discogs); A0926 ok(1975 RCA).
+HankWilliamsJr: A0928 ok(1975 MGM); A0929 ok(1979 Elektra/Curb).
+SammiSmith: A0930 ok(1970 Mega).
+SteveYoung: A0931 ok(1969 A&M); A0932 ok(1972 Reprise).
+LeeClayton: A0936 ok(1979 Capitol, Discogs).

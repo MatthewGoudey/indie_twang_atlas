@@ -1,0 +1,14 @@
+YOUR ASSIGNMENT — full description review for the V Album Atlas, batch 08. No web access; do not use web tools.
+Input: /home/claude/work/qa/desc_batch_08.jsonl (album rows: id, artist, album, year, label, primary_lane, descriptors, description, lineage, lineage_basis, key_tracks). Lane definitions: /home/claude/work/skeleton/lanes.json. A 10% sample review found problems in 42% of rows: factual errors (wrong years, members, credits, songs placed on the wrong album, backwards timelines), unsupported hard facts (awards, Grammys, chart positions, sales, critic quotes, 'critics called it', 'reportedly', named session players/arrangers), lineage marked Documented when it is only resemblance, and descriptions that cite the critic Josh Terry ('Terry') as the authority.
+For EVERY row, check the description and lineage and fix what is wrong:
+1. Remove any hard fact you are not certain is true (award, chart, sales, quote, personnel credit, producer, studio, dates beyond the album year, biography). THE RULE: when unsure, DELETE the claim; never replace it with another fact from memory unless you are certain.
+2. Correct clear factual errors only when you are certain of the right fact; otherwise remove the sentence.
+3. Songs mentioned in the description must be on this album — if a named song is clearly from another album, remove that mention.
+4. Remove references to 'Terry'/'Josh Terry'/No Expectations as authority from the description (the Terry column carries that link).
+5. lineage_basis: 'Documented' only if the lineage text states a concrete link that interviews/credits/shared members/covers/critics establish (e.g. shared member, cover, stated influence you are confident about); resemblance-only lineage must be 'Inferred' and phrased as resemblance ('sounds indebted to ...'). Use 'Both' when one part is documented and another inferred.
+6. Keep the good parts: concrete sound description (instruments, voice, tempo, production), who it is for. Result must still be 2–4 sentences, at least ~120 characters, own words, song titles in single quotes, no quote over 10 words, no double-quoted spans over 60 characters.
+Write one JSON line per row to /home/claude/work/qa/descf_result_08.jsonl:
+{"id":"...","verdict":"ok"|"rewrite"|"flag","problems":["short"],"rewrite":{"description":"...","lineage":"...","lineage_basis":"..."}}
+Include in "rewrite" only the fields you change (but always the full text of a changed field). Use "flag" only when the album itself seems wrong (does not exist / wrong artist / wrong year by a lot) — explain in problems.
+Process the file in chunks of ~25 rows, appending results as you go. At the end verify with python that every input id has exactly one result line and that every rewritten description is 2–4 sentences and ≥120 characters.
+Reply with a SHORT summary: ok/rewrite/flag counts and flagged ids.
