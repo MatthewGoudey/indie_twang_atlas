@@ -4,3 +4,4 @@
 - Greg Freeman – All Set the Bone: releases 2026-10-02 (after today); keep with note or move to Needs Verification.
 - Beachwood Sparks 2000/2001 filed V4 primary.
 - Canonical artist names: Bonnie 'Prince' Billy quote style; villagerrr vs Villagerrr; Hataałii vs Hataalii.
+- Gia Margaret: NET added (Orindal); SW1/SW2 rejected as ambient. Decide (likely drop to Borderline Log exclusion).
