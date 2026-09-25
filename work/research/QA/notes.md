@@ -57,3 +57,22 @@ QA12 batch_12 summary: 110 rows checked across ~40 artists.
 Verdicts: fix=4 (A2144 Nick Shoulders label, A2154/A2155 Charles Wesley Godwin labels, A2172 Kaitlin Butts label). All others ok.
 Independent sources used: Discogs (primary, 24 artists via search), Wikipedia cross-page (Wand band bio for Cory Hanson, Sol y Sombra album page for Rose City Band), Spotify/press (Kaitlin Butts, savingcountrymusic.com, klofmag/americana-uk for Jaime Wyatt).
 Where no independent source existed within budget (many bandcamp-only DIY acts, several no-Wikipedia-page artists), re-confirmed against the row's own cited source per orchestrator guidance and marked independent:false rather than unchecked.
+William Tyler | 2010-2025 | Tompkins Sq/Merge/Psychic Hotline | discogs artist/287719 | 1
+Marisa Anderson | 2018/2022 | Thrill Jockey | discogs artist/1374316 | 1
+Nathan Salsburg | 2011/2013/2018 | No Quarter | discogs artist/477572 | 1
+Hayden Pedigo | 2017/2021/2023/2025 | Driftless/Mexican Summer | discogs artist/3214419 + wiki | 1 (FIX: Greetings from Amarillo year)
+Daniel Bachman | 2012/2018 | Tompkins Sq/Three Lobed | discogs artist/2282684 | 1
+Steve Gunn | 2009 | Three Lobed | discogs release/1948114 (row's own) | 0 (not independent)
+James Blackshaw | 2007 | Tompkins Square | discogs artist/475039 | 1
+Yasmin Williams | 2018/2021 | self/Spinster | discogs artist/7197350 | 1
+Eli Winter | 2025 | Three Lobed | discogs release/33559002 | 1
+Cian Nugent | 2011 | VHF | discogs artist/1344254 | 1
+Gwenifer Raymond | 2018 | Tompkins Square | discogs master/1487936 (row's own) | 0 (not independent)
+Bill Orcutt | 2011 | Editions Mego | discogs artist/626182 | 1
+Harry Taussig | 1965 | private/self | wiki Harry_Taussig | 1
+Chuck Johnson | 2015 | Scissor Tail | discogs release/7217369 | 1
+MJ Lenderman | 2019-2021 | Dear Life/self | discogs artist/6247429 + wiki MJ_Lenderman + own bandcamp | mixed
+Snocaps | 2025 | Anti- | discogs artist/16855249 | 1
+Wednesday | 2018-2021 | self/Sub-Fi/Manic Static/Orindal/Super Enema/Audiotree | discogs artist/7633643-Wednesday-10 + wiki (own source) | mixed
+John Fahey America | 1971 | Takoma | discogs artist/65712 | 1
+Michael Chapman 50 | 2017 | Paradise of Bachelors | wiki Michael_Chapman_(singer) | 1

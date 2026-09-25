@@ -155,3 +155,4 @@ no V6 gaps to log this session
 - [QA09] https://en.wikipedia.org/wiki/Teethe_(band) | 404 Not Found | needed for: Teethe independent check (used Teethe's own Bandcamp album page instead)
 - [QA09] https://katykirby.bandcamp.com/music | page returned no discography text via query extraction | needed for: Katy Kirby independent check (used Wikipedia instead, which flagged A1712 as fail)
 - [QA09] https://spencerhoffman.bandcamp.com/music | page did not list "Cherry Picker" (listed other releases) | needed for: Spencer Hoffman cross-check (resolved via row's own Spill Magazine review, which matched exactly)
+- [QA14] https://en.wikipedia.org/wiki/Pardoner_(band) | 404 not found | needed for: independent check of Pardoner rows (worked around via Discogs)
