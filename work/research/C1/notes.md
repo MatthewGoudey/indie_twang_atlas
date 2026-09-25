@@ -24,3 +24,9 @@ Dari Bay | Longest Day Of The Year | 2023 | Self-released (reissued Double Doubl
 Chico States | I Saw A Galloping Horse Cover No Ground | 2025 | Anything Bagel | batch2-bandcamp + terry | 2
 Convinced Friend | Nowhere Songs | 2026 | Self-released | batch2-bandcamp + terry | 2
 Abel | How to Get Away with Nothing | 2025 | Candlepin Records | batch2-bandcamp + terry | 2
+Twisted Teens | Florida Water Blues | 2026 | Self-released | batch3-bandcamp + terry | 2
+Ovven | Gnawing at the Cord | 2026 | Self-released (Ovven Publishing) | batch3-bandcamp | 1
+Merce Lemon | Watch Me Drive Them Dogs Wild | 2024 | Self-released | batch3-bandcamp + terry | 2
+Wild Pink | Still Coming Down | 2026 | Fire Talk | batch3-bandcamp + terry | 2
+Good Looks | Bummer Year | 2022 | Keeled Scales | batch3-bandcamp + terry | 2
+Good Looks | Lived Here For A While | 2024 | Keeled Scales | batch3-bandcamp + terry | 2
