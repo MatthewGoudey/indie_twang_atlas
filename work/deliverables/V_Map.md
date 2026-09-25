@@ -1,14 +1,14 @@
 ---
 title: "The V"
 subtitle: "A map of indie twang, slacker rock, and everything that fed them"
-description: "Companion to V_Album_Atlas.xlsx · 2,861 albums · 54 lanes"
+description: "Companion to V_Album_Atlas.xlsx · 2,942 albums · 54 lanes"
 ---
 
 # The V
 
 *A map of indie twang, slacker rock, and everything that fed them*
 
-Companion to **V_Album_Atlas.xlsx** · 2,861 albums · 54 lanes
+Companion to **V_Album_Atlas.xlsx** · 2,942 albums · 54 lanes
 
 ## Contents
 
@@ -41,8 +41,8 @@ Two honesty rules run through the whole atlas. First, lineage is marked **Docume
 
 | Layer | Years | Core | V | Context |
 |---|---|---:|---:|---:|
-| L1 Now | 2014–2026 | 720 | 256 | 47 |
-| L2 Bridge | 1998–2013 | 49 | 542 | 29 |
+| L1 Now | 2014–2026 | 782 | 271 | 48 |
+| L2 Bridge | 1998–2013 | 49 | 544 | 30 |
 | L3 Nineties | 1987–1997 | 0 | 477 | 34 |
 | L4 Underground | 1978–1986 | 0 | 234 | 20 |
 | L5 Classic | 1965–1977 | 0 | 385 | 20 |
@@ -80,7 +80,7 @@ The lanes overlap, because the scene does. The same pedal-steel players, produce
 
 ## C1 · Indie twang / yallternative
 
-*Core zone · main era 2014– · 50 albums in the atlas · fed by V1, V3, V9, V20, V10, V2*
+*Core zone · main era 2014– · 68 albums in the atlas · fed by V1, V3, V9, V20, V10, V2*
 
 Indie twang is loud guitar rock that happens to know its way around a country song. The tempos lope rather than race, and the electric guitars are overdriven in the Crazy Horse manner: thick, slightly out of tune with each other, and allowed to wander into long solos. Pedal steel usually floats over the top, and the singers drawl or deadpan instead of belting. The lyrics are about specific small places and small failures, often funny right up until they aren't. On *Manning Fireworks* `A0029` MJ Lenderman sings about men who can't say what they mean ('She's Leaving You', 'Wristwatch', 'Rudolph') in a dry voice over a band that sounds like it could keep going for another ten minutes.
 
@@ -108,7 +108,7 @@ What this lane passed on is still unfolding, since it has no child lanes yet, bu
 
 ## C2 · Barroom storytellers and deadpan songwriters
 
-*Core zone · main era 2014– · 39 albums in the atlas · fed by V2, V25, V13, V1*
+*Core zone · main era 2014– · 42 albums in the atlas · fed by V2, V25, V13, V1*
 
 This is the lane for people who come to songs for the words. The singers half-talk rather than sing, the verses run long, and the jokes arrive a beat before the grief does. The backing can be a loose bar band with pedal steel and fiddle, a home-studio drum machine, or a piano, but it always stays out of the way of the lyric. The tone is dry and unhurried; nobody here raises their voice to make a point. The benchmark is Ryan Davis & the Roadhouse Band's *New Threats from the Soul* `A0083`, a seven-song double LP of punning, conversational barfly rock where pedal steel and violin sit next to synths and programmed beats.
 
@@ -137,7 +137,7 @@ This lane has no child lanes yet, but its habits run through the whole Core. The
 
 ## C3 · New alt-country and honky-tonk bands
 
-*Core zone · main era 2014– · 35 albums in the atlas · fed by V9, V6, V26, V19, V7*
+*Core zone · main era 2014– · 43 albums in the atlas · fed by V9, V6, V26, V19, V7*
 
 The records in this lane are recognizably country: shuffles and waltzes, honky-tonk duets, fiddle and pedal steel, even the '90s radio harmonies that indie kids once pretended to hate. What separates them from Nashville is where they come from. These are artists who came up through indie labels, DIY venues and folk festivals, and their records keep a plainness in the singing and a small-town specificity in the writing. The production is warm rather than glossy, and the vocals sound like people talking to someone in the room.
 
@@ -167,7 +167,7 @@ No child lanes descend from this one yet. For the reader's anchors, the connecti
 
 ## C4 · Countrygaze and loud twang
 
-*Core zone · main era 2018– · 21 albums in the atlas · fed by V12, V16, X9, V20, V3*
+*Core zone · main era 2018– · 29 albums in the atlas · fed by V12, V16, X9, V20, V3*
 
 Countrygaze is the loudest corner of the Core. The songs underneath are country songs: verse-and-chorus structures, small-town stories, a drawled or flatly spoken lead vocal, pedal steel. What changes is the scale. The guitars pile up into shoegaze-sized walls of distortion and feedback, and the steel floats above the din instead of sitting in a honky-tonk shuffle. The lane's defining move is dynamic: a song drops to a near-whisper so that a line about a car crash or a church parking lot lands clearly, then the band buries it in a roar. The template is Wednesday.
 
@@ -194,7 +194,7 @@ The rows document no direct line from older lanes into this one, so its ancestry
 
 ## C5 · Twangy indie folk
 
-*Core zone · main era 2014– · 176 albums in the atlas · fed by V5, V8, V24, V25, V30, V11*
+*Core zone · main era 2014– · 186 albums in the atlas · fed by V5, V8, V24, V25, V30, V11*
 
 Twangy indie folk is the quietest of the Core lanes and the one closest to the ground. The records are acoustic-led: fingerpicked steel-string guitar, often in open tunings, with fiddle, banjo, mandolin or pedal steel used as color rather than as a genre badge. Vocals run from hushed and close-miked to cracked and yelping, and the best singers here move between the two inside a single verse. The songs are about family, landscape, grief and domestic detail, recorded so the room stays audible. The twang is seasoning; intimacy defines the lane.
 
@@ -223,7 +223,7 @@ The inheritance is mostly resemblance. Big Thief's storytelling is repeatedly he
 
 ## C6 · Cosmic country and the '70s revival
 
-*Core zone · main era 2005– · 170 albums in the atlas · fed by V21, V27, V20, V28, V8, V4*
+*Core zone · main era 2005– · 174 albums in the atlas · fed by V21, V27, V20, V28, V8, V4*
 
 Cosmic country is the Core lane that looks most openly at the 1970s. Its records run on buttery, sustained lead guitar, harmonized twin guitars, pedal steel, stacked vocal harmonies and easy mid-tempos that leave room for long instrumental passages. Where the other Core lanes lean on confession, this one leans on tone and groove: the Grateful Dead's interplay, Gram Parsons' steel-soaked country, Laurel Canyon's harmonies and Crazy Horse's fuzz, rebuilt by players from indie, psych and DIY scenes.
 
@@ -252,7 +252,7 @@ The parents are easy to hear, though most rows phrase them as resemblance. The h
 
 ## C7 · Slacker, jangle, and power-pop revival
 
-*Core zone · main era 2008– · 190 albums in the atlas · fed by V10, V11, V17, V18, V16*
+*Core zone · main era 2008– · 196 albums in the atlas · fed by V10, V11, V17, V18, V16*
 
 C7 is 1990s indie guitar music relearned by people too young to have bought it the first time. The sound is clean or lightly fuzzed electric guitar, usually two parts interlocking, under vocals that talk more than they sing: drawled, deadpan, stuffed with brand names, street names and asides. Songs are short, often under two minutes at the power-pop end, and production runs from four-track hiss to tidy studio jangle. Where the rest of the Core leans on pedal steel and Southern settings, C7 draws on Pavement, Guided by Voices, the Clean and Big Star.
 
@@ -281,7 +281,7 @@ For a reader starting from MJ Lenderman, C7 is the other half of his vocabulary:
 
 ## C8 · Modern slowcore and hushed twang
 
-*Core zone · main era 2014– · 58 albums in the atlas · fed by V12, V5, V1, V2*
+*Core zone · main era 2014– · 60 albums in the atlas · fed by V12, V5, V1, V2*
 
 C8 is the quiet end of the Core: songs at walking pace or slower, vocals kept near a murmur, and arrangements with room left in them. Guitars are either clean and fingerpicked or heavy and distorted but slow, and pedal steel turns up constantly, used less for honky-tonk licks than for sustained, hovering tones. The twang is a coloring rather than a genre. Some records are home recordings made for headphones, others are full-band slowcore that swells into noise, and the best do both. The vocals share a type: plain, low and unhurried, whether it is Dan Wriggins' baritone in Friendship, Dimitri Giannopoulos's half-mumble in Horse Jumper of Love or Hannah Read's close, diaristic voice as Lomelda.
 
@@ -308,7 +308,7 @@ Of the reader's anchors, villagerrr connects most directly: Cantuckee's *Sounds*
 
 ## C9 · Emo-twang crossovers
 
-*Core zone · main era 2012– · 30 albums in the atlas · fed by X6, V10, V9, V3*
+*Core zone · main era 2012– · 33 albums in the atlas · fed by X6, V10, V9, V3*
 
 C9 collects bands who came up through emo, pop-punk and DIY house shows and then reached for country guitar. They keep emo's emotional pitch, with voices that crack, shout or talk-sing at length and songs that climb from hushed verses to group-vocal peaks, and add banjo, pedal steel, harmonica, slide and strings, along with Americana song forms and small-town narrators. Tempos are usually mid-paced and the guitars chime more than they twang. What separates these records from the rest of the Core is where the dynamics come from: emo's quiet-loud structure rather than Crazy Horse or country rock.
 
@@ -458,11 +458,11 @@ The inheritance runs straight to the roots. Welch's early records draw openly on
 
 ### V6 · 2000s–2010s alt-country
 
-*V zone · main era 1998– · 143 albums in the atlas · fed by V9, V13, V26, V6*
+*V zone · main era 1998– · 160 albums in the atlas · fed by V9, V13, V26, V6*
 
 This is alt-country after the No Depression wave crested: less a single sound than a roster of songwriters and bar bands who kept pedal steel, fiddle and Telecaster twang at the center while writing about motels, bad jobs and bad nights. The voices range widely, from Neko Case's reverb-drenched wail to Ryan Adams's loose, demo-like drawl to Lydia Loveless's snarl. Adams's *Heartbreaker* `A1161`, his first solo record after Whiskeytown, is spare and mostly acoustic, cut quickly with Emmylou Harris among the guests, and 'Come Pick Me Up' became a calling card; *Gold* `A1163` went bigger and more classic-rock, and *Cold Roses* `A1193`, his first with the Cardinals, stretched out into long pedal-steel jams. Case's *Furnace Room Lullaby* `A1160` set noir country songs about jealousy and small towns against twangy, echoing guitars; *Blacklisted* `A1168` slowed into desert atmosphere; and *Fox Confessor Brings the Flood* `A1198` traded straight narrative for fractured, folkloric songs like 'Star Witness'.
 
-The lane runs from about 1998 onward, and its geography is set by labels as much as cities. Chicago's Bloodshot Records carried Case's early records, *Heartbreaker*, Justin Townes Earle's fingerpicked, pre-rock-leaning *The Good Life* `A1213`, Robbie Fulks's late acoustic records, and Loveless's cowpunk-fast *Indestructible Machine* `A1236`, where 'Steve Earle' names the lineage outright. Lost Highway took Adams, Tift Merritt and Hayes Carll, whose *Trouble in Mind* `A1211` leans on comic songs like 'She Left Me for Jesus'. Regional scenes filled in the map: Portland, where Willy Vlautin's Richmond Fontaine made paperback Western noir of *Winnemucca* `A1170` and later the soul-country Delines; Nashville's outsider traditionalists, including Caitlin Rose on the countrypolitan *Own Side Now* `A1224`; and New Orleans, where Hurray for the Riff Raff's *Small Town Heroes* `A1252` answered the murder-ballad tradition with 'The Body Electric'.
+The lane runs from about 1998 onward, and its geography is set by labels as much as cities. Chicago's Bloodshot Records carried Case's early records, *Heartbreaker*, Justin Townes Earle's fingerpicked, pre-rock-leaning *The Good Life* `A1213`, Robbie Fulks's late acoustic records, and Loveless's cowpunk-fast *Indestructible Machine* `A1236`, where 'Steve Earle' names the lineage outright. Lost Highway took Adams, Tift Merritt and Hayes Carll, whose *Trouble in Mind* `A1211` leans on comic songs like 'She Left Me for Jesus'. Regional scenes filled in the map: Portland, where Willy Vlautin's Richmond Fontaine made paperback Western noir of *Winnemucca* `A1170` and later the soul-country Delines; Nashville's outsider traditionalists, including Caitlin Rose on the countrypolitan *Own Side Now* `A1224`; and New Orleans, where Hurray for the Riff Raff's *Small Town Heroes* `A1252` answered the murder-ballad tradition with 'The Body Electric'. New Orleans runs its own branch of the lane: alongside Hurray for the Riff Raff and The Deslondes, the band's singers made records under their own names, Sam Doores's *Sam Doores* `A2866` and Riley Downing's *Start It Over* `A2867`, and The Lostines, who share players with that circle, arrived with *Meet the Lostines* `A2872`.
 
 The lane's parents are its immediate predecessors. Adams came out of Whiskeytown and the No Depression bands of V9, and Bloodshot itself links the Old 97's and Waco Brothers to Case and Loveless. The Americana songwriters of V13 are close kin: Earle is Steve Earle's son, and Kathleen Edwards's *Failer* `A1175` sounds indebted to Lucinda Williams. The honky-tonk and Bakersfield forms of V26 run through Fulks's *Georgia Hard* `A1191`, Rose and Elizabeth Cook, while Vlautin's pedal-steel country rock also resembles Gram Parsons. What V6 passed forward is a working model for a songwriter-led country band outside Nashville's mainstream. The new alt-country and honky-tonk bands of C3 sound like its direct heirs, and its short-story songwriting, from Vlautin to Earle, resembles the barroom storytellers of C2.
 
@@ -1157,7 +1157,7 @@ The hinge is Old Crow Medicine Show's *O.C.M.S.* `A2725`, produced by David Rawl
 
 ### X4 · Bluegrass, old-time, and newgrass
 
-*Context zone · main era 1965– · 8 albums in the atlas · fed by R1*
+*Context zone · main era 1965– · 10 albums in the atlas · fed by R1*
 
 Bluegrass descends from the same roots shelf as the V's R1 lane, Bill Monroe and the Stanley Brothers, but it grew into a self-contained tradition of virtuosity: banjo, mandolin, fiddle, dobro and flatpicked guitar, played fast and clean. Where the V took old-time music as rough texture, this lane kept refining technique, and it leads to jam-band festivals and festival Americana (X3) rather than to the Core.
 
@@ -1402,7 +1402,7 @@ The Ramones' debut *Ramones* `A2843` cut the template: fourteen buzzsaw songs in
 
 **San Francisco** · San Francisco Bay Area · 1965– · 15 albums tagged. From the Dead's country turn to '90s sadcore. Key artists: Grateful Dead, New Riders of the Purple Sage, American Music Club, Red House Painters, Thinking Fellers Union Local 282. Labels: Warner Bros. (Dead), Matador, Drag City.
 
-**New Orleans** · New Orleans, LA · 1995– · 15 albums tagged. Old-time, folk and honky-tonk revival around the French Quarter busking scene. Key artists: Hurray for the Riff Raff, The Deslondes, Esther Rose, Beulah. Labels: New West, ATO.
+**New Orleans** · New Orleans, LA · 1995– · 34 albums tagged. Old-time, folk and honky-tonk revival that grew out of the street-busking circuit; the Deslondes' members and their friends turn up on each other's records. Key artists: Hurray for the Riff Raff, The Deslondes, Esther Rose, The Lostines, Sam Doores, Riley Downing, Luke Winslow-King, Sarah Quintana, Pat Reedy. Labels: New West, ATO.
 
 **Memphis** · Memphis, TN · 1954– · 21 albums tagged. Sun's rockabilly, then Ardent studio power pop, then Lucero's punk-country. Key artists: Johnny Cash, Big Star, Chris Bell, Lucero, Tav Falco. Labels: Sun, Ardent.
 

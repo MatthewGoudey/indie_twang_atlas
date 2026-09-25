@@ -77,7 +77,7 @@
   "staging/terry_leads_G.jsonl",
   "staging/terry_leads_supp.jsonl"
  ],
- "master_count": 2861,
+ "master_count": 2942,
  "last_updated": "2026-09-25T21:58:28",
  "resume_instructions": "See RESUME_PROMPT.md at the work root. Order: (1) rerun V6 (fresh) and top-ups for V1, V4, V5, V9, V10 (+resolve its 26 nv), V2 (+12 nv), V3 (+19 nv); (2) V7; (3) Core C1\u2013C9 (use sources/terry_by_lane/C*.txt as must-consider lists) + anchor-artist completion + network/label pass; (4) Context X1\u2013X14; (5) needs_verification resolution pass; (6) QA loops per phase; (7) Phase 8 global QA; (8) build V_Album_Atlas.xlsx; (9) write V_Map.docx; (10) final audit + chat report.",
  "web_access": "Session 3: Firecrawl CLI blocked by egress proxy; all research via Firecrawl MCP connector (see agent_web_override.md).",
