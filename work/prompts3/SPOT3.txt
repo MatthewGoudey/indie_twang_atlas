@@ -1,0 +1,32 @@
+FIRST: read /home/claude/work/agent_web_override.md — web access is ONLY via the Firecrawl connector tools (mcp__Firecrawl__firecrawl_scrape / mcp__Firecrawl__firecrawl_search; load them with ToolSearch if needed). Do not load the firecrawl-research skill, do not use the CLI, WebSearch or WebFetch. You are lane agent "SPOT3". Budget: 25 searches, 150 scrapes. Stop when spent. Save sources to /home/claude/work/research/SPOT3/, facts to /home/claude/work/research/SPOT3/notes.md, failures to /home/claude/work/research/gaps.md prefixed [SPOT3]. Check /home/claude/work/research/ for an existing file before every scrape. Do not retry errors.
+
+SECOND: read /home/claude/work/agent_brief.md and follow it exactly EXCEPT its §6 (replaced by the override).
+
+YOUR ASSIGNMENT — the user found a Spotify playlist ("Indie Twang/Nu-Country/Ya'llternative/Countrygaze", /home/claude/work/research/SPOT/playlist.md). These artists from it are NOT yet in the atlas. For each, decide whether they belong in a Core lane (C1–C9, definitions in /home/claude/work/skeleton/lanes.json) and, if so, add their Core-era (2014–2026) albums and notable EPs.
+Artists (your share):
+- Rose Haven Motor Hotel (playlist track(s): Built to Rust, Just Fine, Thanks)
+- Save Henry (playlist track(s): Pennsylvania)
+- Soup Dreams (playlist track(s): Michigan)
+- Spirit Josh (playlist track(s): Staying Up & Drinkin' Wine)
+- St. Marlboro (playlist track(s): Eggs)
+- Star County (playlist track(s): Pickpocket)
+- Teal Peel (playlist track(s): Sandy)
+- The Downstreamers (playlist track(s): Weatherman)
+- The Roebucks (playlist track(s): Mona)
+- Tombstone Poetry (playlist track(s): Bear Down)
+- Walker Rider (playlist track(s): Falling, Keep True)
+- Will Fox (playlist track(s): Berry on a Briar)
+- Work Wear (playlist track(s): Honest)
+- Work Wife (playlist track(s): Big Parking Lot)
+- blistar (playlist track(s): Window of Islands)
+- grover (playlist track(s): Chevron Station, Fauna + Flora)
+- hey i'm outside (playlist track(s): Frontyard)
+- mieke? (playlist track(s): Mary's Lost)
+- mourning star (playlist track(s): Blood Splatter)
+- vegas water taxi (playlist track(s): birkenstocks)
+Method per artist: find their Bandcamp (https://<name>.bandcamp.com/music — try the obvious slug first; search only if that 404s; beware same-name artists — confirm with the playlist track title appearing in their catalog). Use query mode: "list every release with title, type (album/EP/single), release date and label". Then fetch the album pages you include for tracklists (key tracks must be real). Skip singles. Include LPs and EPs of 4+ songs.
+Fit test: pedal steel, twang, country song structure, Crazy Horse-style guitar, slowcore hush, or deadpan barroom songwriting — pick the best Core lane. If an artist is clearly not a Core fit (pure emo, pure shoegaze, pop), skip them with a one-line reason. If you cannot verify a release's year/label from a scraped page, send it to needs_verification instead.
+Descriptions: 2–4 sentences, own words, only facts visible on the scraped pages (tags, credits, liner notes, the sound as described there) plus a careful description of the sound — no invented members, producers, hometowns or backstories. Region/base: from the Bandcamp location line; if absent, region "Elsewhere" and base "". Label: the Bandcamp page's label credit or "Self-released" only if the page is the artist's own and names no label. Confidence Medium unless a second independent page (label site, Discogs, review) confirms. terry "" unless the artist appears in /home/claude/work/sources/terry_by_lane/*.txt (grep). Priority: mostly Deep cut/Recommended.
+Before writing, build the set of staged (artist, album) pairs from all /home/claude/work/staging/lane_*.jsonl and never duplicate. Keep helper scripts in /tmp/claude-0/spot3/ only.
+Output /home/claude/work/staging/lane_SPOT3.jsonl, validated with python3 /home/claude/work/tools/validate_staging.py until OK.
+Reply briefly: rows by lane, artists skipped (with reason), nv lines, scrapes/searches used.

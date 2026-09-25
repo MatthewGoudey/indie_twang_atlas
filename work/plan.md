@@ -37,3 +37,9 @@ One JSON object per line (JSONL). See work/agent_brief.md and work/tools/validat
 ## Merge rules
 - Orchestrator merges staging → work/master.jsonl, dedups on (normalized artist, normalized title), assigns IDs A0001+ in order of merge, computes Layer from Year, checks Zone = lane zone.
 - Checkpoints: work/checkpoints/master_phaseN.jsonl after every phase.
+
+## Deliverable format change (user request, session 3)
+The V Map is now authored as Markdown: `deliverables/V_Map.md` (+ `deliverables/figs/`), built by `tools/build_md.py`
+from master.jsonl, essays/*.json and sheets/*.json, and converted to PDF with `tools/md_to_pdf.py V_Map.md`
+(python-markdown → print-styled HTML → headless Chromium; `pandoc V_Map.md -o V_Map.pdf` also works where LaTeX is installed).
+Future iterations: produce V_Map.md + V_Map.pdf; the .docx (tools/build_docx.js) is legacy and optional.

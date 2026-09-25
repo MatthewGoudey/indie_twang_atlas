@@ -83,6 +83,9 @@
  "web_access": "Session 3: Firecrawl CLI blocked by egress proxy; all research via Firecrawl MCP connector (see agent_web_override.md).",
  "deliverables": [
   "deliverables/V_Album_Atlas.xlsx",
-  "deliverables/V_Map.docx"
- ]
+  "deliverables/V_Map.md",
+  "deliverables/V_Map.pdf",
+  "deliverables/V_Map.docx (legacy)"
+ ],
+ "notes_for_future": "V Map format is Markdown\u2192PDF (tools/build_md.py + tools/md_to_pdf.py). Spotify playlists: scrape https://open.spotify.com/embed/playlist/<id> (first 100 tracks) via Firecrawl."
 }
