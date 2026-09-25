@@ -1,0 +1,4 @@
+# No Expectations leads triaged to lane X1 — 3 albums. Format: artist | album | year | label | n_posts | URLs | note
+Lainey Wilson | Bell Bottom Country | 2022 |  | 1 | https://www.noexpectations.fyi/p/the-60-best-albums-of-2022-according | Mainstream country with enough unconventional Jay Joyce production choices to subvert non-country fans' expectations; pitched at Golden Hour fans.
+Shania Twain | Come On Over | 1997 |  | 1 | https://www.noexpectations.fyi/p/best-country-albums-of-2024 | The first album Terry knew front to back, at age six.
+Willow Avalon | Stranger | 2024 | Atlantic | 1 | https://www.noexpectations.fyi/p/best-country-albums-of-2024 | Seven hypnotic, atmospheric songs about economic anxiety with charisma that could yield a Musgraves-like leap.

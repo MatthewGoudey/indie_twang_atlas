@@ -1,0 +1,6 @@
+# No Expectations leads triaged to lane X7 — 5 albums. Format: artist | album | year | label | n_posts | URLs | note
+Bruce Springsteen | Born in the U.S.A. |  |  | 1 | https://www.noexpectations.fyi/p/the-2024-chill-grill-summer-playlist | Recap of a book talk on the album's cross-cultural reach and the roles of Jon Landau and Steven Van Zandt.
+Bruce Springsteen | Darkness on the Edge of Town |  |  | 1 | https://www.noexpectations.fyi/p/mildred-brad-goodall-youbet-bruce-springsteen-pearla | Hearing it at his neighborhood bar sparked a front-to-back Springsteen catalog listen.
+Bruce Springsteen | Greetings from Asbury Park, N.J. | 1973 |  | 1 | https://www.noexpectations.fyi/p/mildred-brad-goodall-youbet-bruce-springsteen-pearla | Starting point of his chronological Springsteen deep dive.
+Bruce Springsteen | Tunnel of Love | 1987 |  | 1 | https://www.noexpectations.fyi/p/mildred-brad-goodall-youbet-bruce-springsteen-pearla | Where his momentum in the catalog run tapered off.
+Bruce Springsteen | Wrecking Ball | 2012 |  | 1 | https://www.noexpectations.fyi/p/mildred-brad-goodall-youbet-bruce-springsteen-pearla | End point of his initial Springsteen listening phase; saw him live at the United Center.

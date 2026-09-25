@@ -1,0 +1,4 @@
+# Progress log 2 — 2026-09-25T14:41:12
+Firecrawl skill validated (CLI + connector). Wave A launched (V9, V11, V1, V4, V5, V6): V11 finished (68 rows, 30 scrapes, 0 gaps, no 429s); V9 reached 69, V4 47, V5 58, V1 14 before the wave was stopped; V6 never wrote (content-filter API error on the agent — just rerun it).
+master.jsonl re-merged: 1511 rows, 84 needs_verification. Cross-lane dups dropped at merge: ['The Connells – Boylan Heights (staging/lane_V17.jsonl dup of staging/lane_V16.jsonl)', 'Bobby Charles – Bobby Charles (staging/lane_V22.jsonl dup of staging/lane_V21.jsonl)', 'Nanci Griffith – Once in a Very Blue Moon (staging/lane_V24.jsonl dup of staging/lane_V19.jsonl)', 'Nanci Griffith – The Last of the True Believers (staging/lane_V24.jsonl dup of staging/lane_V19.jsonl)']
+Layer×zone: {('L6', 'V'): 47, ('L3', 'V'): 437, ('L2', 'V'): 320, ('L1', 'V'): 91, ('L4', 'V'): 229, ('L1', 'Core'): 3, ('L5', 'V'): 384}

@@ -1,0 +1,65 @@
+# Amalgamated Sons of Rest
+
+Amalgamated Sons of Rest
+
+2002 EPby Amalgamated Sons of Rest
+
+| Amalgamated Sons of Rest |
+| --- |
+| [![](https://upload.wikimedia.org/wikipedia/en/1/1b/Amalgamated_Sons_of_Rest.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled)](https://en.wikipedia.org/wiki/File:Amalgamated_Sons_of_Rest.jpg) |
+| [EP](https://en.wikipedia.org/wiki/Extended_play "Extended play") by <br>Amalgamated Sons of Rest |
+| Released | September 1, 2002 |
+| Genre | [Folk](https://en.wikipedia.org/wiki/Folk_music "Folk music") |
+| Label | Galaxia |
+
+| Review scores |
+| --- |
+| Source | Rating |
+| [AllMusic](https://en.wikipedia.org/wiki/AllMusic "AllMusic") | ![Star](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/40px-Star_full.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)![Star](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/40px-Star_full.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)![Half star](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/40px-Star_half.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)![](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/40px-Star_empty.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)![](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/40px-Star_empty.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)[\[1\]](https://en.wikipedia.org/wiki/Amalgamated_Sons_of_Rest#cite_note-1) |
+| _[Pitchfork Media](https://en.wikipedia.org/wiki/Pitchfork_Media "Pitchfork Media")_ | (5.9/10) [\[2\]](https://en.wikipedia.org/wiki/Amalgamated_Sons_of_Rest#cite_note-2) |
+
+Professional ratings
+
+_**Amalgamated Sons of Rest**_ is the name of a one-off project by [American](https://en.wikipedia.org/wiki/United_States "United States") songwriters [Will Oldham](https://en.wikipedia.org/wiki/Will_Oldham "Will Oldham") and [Jason Molina](https://en.wikipedia.org/wiki/Jason_Molina "Jason Molina"), along with Scottish colleague [Alasdair Roberts](https://en.wikipedia.org/wiki/Alasdair_Roberts_(musician) "Alasdair Roberts (musician)"). The collaboration yielded an [eponymous](https://en.wikipedia.org/wiki/Eponymous "Eponymous") [EP](https://en.wikipedia.org/wiki/Extended_play "Extended play"), released in 2002 on Galaxia Records, and two singles, "Translation", released by [Jade Tree Records](https://en.wikipedia.org/wiki/Jade_Tree_Records "Jade Tree Records"), and "September 11, 2001", later released in 2015. "Translation" was not released under the Amalgamated Sons of Rest moniker, but under Molina's then-usual band name, [Songs: Ohia](https://en.wikipedia.org/wiki/Songs:_Ohia "Songs: Ohia"), on a [split EP](https://en.wikipedia.org/wiki/My_Morning_Jacket/Songs:_Ohia_Split_EP "My Morning Jacket/Songs: Ohia Split EP") with [My Morning Jacket](https://en.wikipedia.org/wiki/My_Morning_Jacket "My Morning Jacket"), though the songwriter credit is to "A.S. of R."
+
+## Track listing
+
+1. "Maa Bonny Lad"
+2. "My Donal"
+3. "The Gypsy He-Witch"
+4. "The Last House"
+5. "Major March"
+6. "Jennie Blackbird’s Blues"
+7. "I Will Be Good"
+
+The last track, "I Will Be Good", is unlisted.
+
+## References
+
+- [Galaxia Records listing](https://www.galaxia-platform.com/catalog/glx_music_product_info.php?products_id=43)
+- [Listing on magnoliaelectricco.com](https://web.archive.org/web/20061022040809/http://www.magnoliaelectricco.com/archives/134)
+
+1. [↑](https://en.wikipedia.org/wiki/Amalgamated_Sons_of_Rest#cite_ref-1)[Amalgamated Sons of Rest](https://www.allmusic.com/album/r632966) at [AllMusic](https://en.wikipedia.org/wiki/AllMusic_(identifier) "AllMusic (identifier)")
+2. [↑](https://en.wikipedia.org/wiki/Amalgamated_Sons_of_Rest#cite_ref-2)[Pitchfork Media review](https://pitchfork.com/reviews/albums/148-amalgamated-sons-of-rest-ep/)
+
+| [Will Oldham](https://en.wikipedia.org/wiki/Will_Oldham "Will Oldham")<br>(Palace / Palace Songs / Palace Music / Palace Brothers / Bonnie "Prince" Billy) |
+| --- |
+| Studio albums | - _[There Is No-One What Will Take Care of You](https://en.wikipedia.org/wiki/There_Is_No-One_What_Will_Take_Care_of_You "There Is No-One What Will Take Care of You")_<br>- _[Days in the Wake](https://en.wikipedia.org/wiki/Days_in_the_Wake "Days in the Wake")_<br>- _[Viva Last Blues](https://en.wikipedia.org/wiki/Viva_Last_Blues "Viva Last Blues")_<br>- _[Arise Therefore](https://en.wikipedia.org/wiki/Arise_Therefore "Arise Therefore")_<br>- _[Joya](https://en.wikipedia.org/wiki/Joya_(album) "Joya (album)")_<br>- _[I See a Darkness](https://en.wikipedia.org/wiki/I_See_a_Darkness "I See a Darkness")_<br>- _[Ode Music](https://en.wikipedia.org/wiki/Ode_Music "Ode Music")_<br>- _[Ease Down the Road](https://en.wikipedia.org/wiki/Ease_Down_the_Road "Ease Down the Road")_<br>- _[Master and Everyone](https://en.wikipedia.org/wiki/Master_and_Everyone "Master and Everyone")_<br>- _[Sings Greatest Palace Music](https://en.wikipedia.org/wiki/Sings_Greatest_Palace_Music "Sings Greatest Palace Music")_<br>- _[Superwolf](https://en.wikipedia.org/wiki/Superwolf "Superwolf")_<br>- _[The Brave and the Bold](https://en.wikipedia.org/wiki/The_Brave_and_the_Bold_(album) "The Brave and the Bold (album)")_<br>- _[The Letting Go](https://en.wikipedia.org/wiki/The_Letting_Go "The Letting Go")_<br>- _[Wai Notes](https://en.wikipedia.org/wiki/Wai_Notes "Wai Notes")_<br>- _[Lie Down in the Light](https://en.wikipedia.org/wiki/Lie_Down_in_the_Light "Lie Down in the Light")_<br>- _[Beware](https://en.wikipedia.org/wiki/Beware_(Bonnie_Prince_Billy_album) "Beware (Bonnie Prince Billy album)")_<br>- _[The Wonder Show of the World](https://en.wikipedia.org/wiki/The_Wonder_Show_of_the_World "The Wonder Show of the World")_<br>- _[Wolfroy Goes to Town](https://en.wikipedia.org/wiki/Wolfroy_Goes_to_Town "Wolfroy Goes to Town")_<br>- _[The Marble Downs](https://en.wikipedia.org/wiki/The_Marble_Downs "The Marble Downs")_<br>- _[What the Brothers Sang](https://en.wikipedia.org/wiki/What_the_Brothers_Sang "What the Brothers Sang")_<br>- _[Bonnie "Prince" Billy](https://en.wikipedia.org/wiki/Bonnie_%22Prince%22_Billy_(album) "Bonnie \"Prince\" Billy (album)")_<br>- _[Best Troubador](https://en.wikipedia.org/wiki/Best_Troubador "Best Troubador")_<br>- _[I Made a Place](https://en.wikipedia.org/wiki/I_Made_a_Place "I Made a Place")_<br>- _[Blind Date Party](https://en.wikipedia.org/wiki/Blind_Date_Party "Blind Date Party")_<br>- _[Keeping Secrets Will Destroy You](https://en.wikipedia.org/wiki/Keeping_Secrets_Will_Destroy_You "Keeping Secrets Will Destroy You")_<br>- _[The Purple Bird](https://en.wikipedia.org/wiki/The_Purple_Bird "The Purple Bird")_<br>- _[We Are Together Again](https://en.wikipedia.org/wiki/We_Are_Together_Again "We Are Together Again")_ |
+| Live albums | - _[Summer in the Southeast](https://en.wikipedia.org/wiki/Summer_in_the_Southeast "Summer in the Southeast")_<br>- _[Is It the Sea?](https://en.wikipedia.org/wiki/Is_It_the_Sea%3F "Is It the Sea?")_ |
+| EPs | - _[Goat Songs](https://en.wikipedia.org/wiki/Goat_Songs "Goat Songs")_<br>- _[An Arrow Through the Bitch](https://en.wikipedia.org/wiki/An_Arrow_Through_the_Bitch "An Arrow Through the Bitch")_<br>- _[Hope](https://en.wikipedia.org/wiki/Hope_(Palace_Songs_EP) "Hope (Palace Songs EP)")_<br>- _[The Mountain](https://en.wikipedia.org/wiki/The_Mountain_(EP) "The Mountain (EP)")_<br>- _[Songs Put Together For (The Broken Giant)](https://en.wikipedia.org/wiki/Songs_Put_Together_For_(The_Broken_Giant) "Songs Put Together For (The Broken Giant)")_<br>- _[Western Music](https://en.wikipedia.org/wiki/Western_Music_(EP) "Western Music (EP)")_<br>- _[Black/Rich Music](https://en.wikipedia.org/wiki/Black/Rich_Music "Black/Rich Music")_<br>- _[Blue Lotus Feet](https://en.wikipedia.org/wiki/Blue_Lotus_Feet "Blue Lotus Feet")_<br>- _[Dream of a Drunk Black Southern Eagle](https://en.wikipedia.org/wiki/Dream_of_a_Drunk_Black_Southern_Eagle "Dream of a Drunk Black Southern Eagle")_<br>- _[More Revery](https://en.wikipedia.org/wiki/More_Revery "More Revery")_<br>- _[Amalgamated Sons of Rest](https://en.wikipedia.org/wiki/Amalgamated_Sons_of_Rest)_<br>- _[Seafarers Music](https://en.wikipedia.org/wiki/Seafarers_Music "Seafarers Music")_<br>- _[I Gave You](https://en.wikipedia.org/wiki/I_Gave_You "I Gave You")_<br>- _[Strange Form of Life](https://en.wikipedia.org/wiki/Strange_Form_of_Life "Strange Form of Life")_<br>- _[Ask Forgiveness](https://en.wikipedia.org/wiki/Ask_Forgiveness "Ask Forgiveness")_<br>- _[Among the Gold](https://en.wikipedia.org/wiki/Among_the_Gold "Among the Gold")_ |
+| Compilations | - _[Lost Blues and Other Songs](https://en.wikipedia.org/wiki/Lost_Blues_and_Other_Songs "Lost Blues and Other Songs")_<br>- _[Guarapero/Lost Blues 2](https://en.wikipedia.org/wiki/Guarapero/Lost_Blues_2 "Guarapero/Lost Blues 2")_<br>- _[Little Lost Blues](https://en.wikipedia.org/wiki/Little_Lost_Blues "Little Lost Blues")_ |
+| Related articles | - [Discography](https://en.wikipedia.org/wiki/Will_Oldham_discography "Will Oldham discography")<br>- _[Amalgamated Sons of Rest](https://en.wikipedia.org/wiki/Amalgamated_Sons_of_Rest)_ |
+
+| [Jason Molina](https://en.wikipedia.org/wiki/Jason_Molina "Jason Molina") |
+| --- |
+| Songs: Ohia | - _[Songs: Ohia](https://en.wikipedia.org/wiki/Songs:_Ohia_(album) "Songs: Ohia (album)")_<br>- _[Impala](https://en.wikipedia.org/wiki/Impala_(album) "Impala (album)")_<br>- _The Ghost_<br>- _[Axxess & Ace](https://en.wikipedia.org/wiki/Axxess_&_Ace "Axxess & Ace")_<br>- _[The Lioness](https://en.wikipedia.org/wiki/The_Lioness_(album) "The Lioness (album)")_<br>- _[Protection Spells](https://en.wikipedia.org/wiki/Protection_Spells "Protection Spells")_<br>- _[Ghost Tropic](https://en.wikipedia.org/wiki/Ghost_Tropic "Ghost Tropic")_<br>- _[Mi Sei Apparso Come Un Fantasma](https://en.wikipedia.org/wiki/Mi_Sei_Apparso_Come_Un_Fantasma "Mi Sei Apparso Come Un Fantasma")_<br>- _[Didn't It Rain](https://en.wikipedia.org/wiki/Didn't_It_Rain_(Songs:_Ohia_album) "Didn't It Rain (Songs: Ohia album)")_<br>- _[The Magnolia Electric Co.](https://en.wikipedia.org/wiki/The_Magnolia_Electric_Co. "The Magnolia Electric Co.")_ |
+| Jason Molina | - _[Pyramid Electric Co.](https://en.wikipedia.org/wiki/Pyramid_Electric_Co. "Pyramid Electric Co.")_<br>- _[Let Me Go, Let Me Go, Let Me Go](https://en.wikipedia.org/wiki/Let_Me_Go,_Let_Me_Go,_Let_Me_Go "Let Me Go, Let Me Go, Let Me Go")_ |
+| Magnolia Electric Co. | - _[Trials & Errors](https://en.wikipedia.org/wiki/Trials_&_Errors "Trials & Errors")_<br>- _[What Comes After the Blues](https://en.wikipedia.org/wiki/What_Comes_After_the_Blues "What Comes After the Blues")_<br>- _[Fading Trails](https://en.wikipedia.org/wiki/Fading_Trails "Fading Trails")_<br>- _[Sojourner](https://en.wikipedia.org/wiki/Sojourner_(album) "Sojourner (album)")_<br>- _[Josephine](https://en.wikipedia.org/wiki/Josephine_(album) "Josephine (album)")_ |
+| Collaborations | - _[Amalgamated Sons of Rest](https://en.wikipedia.org/wiki/Amalgamated_Sons_of_Rest)_<br>- _[My Morning Jacket/Songs: Ohia Split EP](https://en.wikipedia.org/wiki/My_Morning_Jacket/Songs:_Ohia_Split_EP "My Morning Jacket/Songs: Ohia Split EP")_<br>- _[Molina and Johnson](https://en.wikipedia.org/wiki/Molina_and_Johnson "Molina and Johnson")_ |
+| Related articles | - [Secretly Canadian](https://en.wikipedia.org/wiki/Secretly_Canadian "Secretly Canadian")<br>- [William Schaff](https://en.wikipedia.org/wiki/William_Schaff "William Schaff")<br>- [Will Johnson (musician)](https://en.wikipedia.org/wiki/Will_Johnson_(musician) "Will Johnson (musician)") |
+
+| [Authority control databases](https://en.wikipedia.org/wiki/Help:Authority_control "Help:Authority control")[![Edit this at Wikidata](https://thumb.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)](https://www.wikidata.org/wiki/Q4739374#identifiers "Edit this at Wikidata") | - [MusicBrainz release group](https://musicbrainz.org/release-group/f74e10e9-c726-3682-977b-2b8c3176d55e) |
+
+|     |     |
+| --- | --- |
+| [![Stub icon](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Gnome-dev-cdrom-audio.svg/60px-Gnome-dev-cdrom-audio.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikipedia.org/wiki/File:Gnome-dev-cdrom-audio.svg) | This 2000s [folk](https://en.wikipedia.org/wiki/Folk_music "Folk music") album-related article is a [stub](https://en.wikipedia.org/wiki/Wikipedia:Stub "Wikipedia:Stub"). You can help Wikipedia by [adding missing information](https://en.wikipedia.org/w/index.php?title=Amalgamated_Sons_of_Rest&action=edit). |

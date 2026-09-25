@@ -1,0 +1,2 @@
+# No Expectations leads triaged to lane V12 — 1 albums. Format: artist | album | year | label | n_posts | URLs | note
+Cat Power | Cat Power Sings Dylan: The 1966 Royal Albert Hall Concert | 2023 |  | 1 | https://www.noexpectations.fyi/p/in-defense-of-live-albums | Resonant, inventive reimagining of Dylan's historic gig.

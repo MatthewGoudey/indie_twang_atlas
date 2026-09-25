@@ -1,0 +1,4 @@
+# No Expectations leads triaged to lane V11 — 3 albums. Format: artist | album | year | label | n_posts | URLs | note
+Elliott Smith | Elliott Smith |  |  | 1 | https://www.noexpectations.fyi/p/foxwarren-2-interview-andy-shauf-avery-kissick | Shauf's formative record for showing how much can be done with minimal instrumentation.
+The Mountain Goats | All Hail West Texas | 2002 |  | 1 | https://www.noexpectations.fyi/p/geese-getting-killed-jeff-tweedy-review | One of the Mountain Goats records he knows front to back, recalled around a Chicago show.
+The Mountain Goats | The Sunset Tree | 2005 |  | 1 | https://www.noexpectations.fyi/p/geese-getting-killed-jeff-tweedy-review | Another Mountain Goats record he knows front to back.

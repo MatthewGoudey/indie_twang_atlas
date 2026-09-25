@@ -1,0 +1,2 @@
+# No Expectations leads triaged to lane V3 — 1 albums. Format: artist | album | year | label | n_posts | URLs | note
+Jason Isbell | Weathervanes | 2023 |  | 2 | https://www.noexpectations.fyi/p/the-30-best-albums-of-2023-so-far-midyear-list ; https://www.noexpectations.fyi/p/the-60-best-albums-of-2023 | Listed among the 40 honorable mentions (positions 61–100) with no blurb.

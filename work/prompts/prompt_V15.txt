@@ -1,0 +1,14 @@
+Read /home/claude/work/agent_brief.md first and follow it exactly (schema, vocabularies, verification rules, own-words descriptions, INCREMENTAL appends in batches of ~10 rows).
+
+YOUR ASSIGNMENT — lane V15: Paisley Underground (zone: V; era: 1981–1989).
+Definition: Early-'80s LA neo-psychedelia and roots rock: the Dream Syndicate, Green on Red, the Long Ryders, Rain Parade, Opal; Velvets and Byrds revived with punk energy.
+Parent lanes: V29, V21, V14. Child lanes: V9, V10, C6.
+Layers to cover: L4 (1981–1989).
+Target: about 32 verified albums (a floor, not a cap — keep going while you find records that fit and can be verified; stop when new searches mostly return albums you already have).
+Seed artists and records (starting points, NOT verified facts — verify everything, drop what you cannot verify, and add artists the seeds miss): The Dream Syndicate (The Days of Wine and Roses, Medicine Show, Out of the Grey, Ghost Stories), Green on Red (Gravity Talks, Gas Food Lodging, No Free Lunch, The Killer Inside Me), The Long Ryders (10-5-60 EP, Native Sons, State of Our Union, Two-Fisted Tales), Rain Parade (Emergency Third Rail Power Trip, Explosions in the Glass Palace EP, Crashing Dream), The Three O'Clock (Sixteen Tambourines), Opal (Happy Nightmare Baby), Clay Allison / Kendra Smith, The Bangles (All Over the Place) borderline, Danny & Dusty (The Lost Weekend), Steve Wynn (Kerosene Man), True West (Drifters), Game Theory is V17, The Salvation Army, Thin White Rope (Exploring the Axis, Moonhead, In the Spanish Cave), Naked Prey, Giant Sand's early records (Valley of Rain 1985, Ballad of a Thin Line Man 1986) as borderline (Giant Sand is V4 in the 2000s), The Leaving Trains, 28th Day, Russ Tolman, Chris Cacavas & Junkyard Love.
+Discovery and verification sources: Wikipedia 'Paisley Underground'; AllMusic; Discogs; Trouser Press.
+Notes: Start here = The Days of Wine and Roses and Native Sons. Region: 'The West'. Scene: 'Paisley Underground'.
+
+Output file: /home/claude/work/staging/lane_V15.jsonl (JSON Lines, schema in the brief). primary_lane must be "V15" for every row unless an album clearly belongs to another lane — in that case set the right primary_lane and add a borderline_note. Mark 1–2 albums start_here="Y". Give every row 3–6 descriptors from the tag list, a 2–4 sentence own-words description, a lineage sentence naming artists, 1–3 real key tracks, and 1–3 verification URLs you actually opened. Use discography pages to verify many albums per fetch. Then run: python3 /home/claude/work/tools/validate_staging.py /home/claude/work/staging/lane_V15.jsonl and fix every problem until it prints OK.
+
+Reply with a SHORT summary only (no rows): row count, needs_verification count, artists covered, judgment calls, up to 10 artists that belong in OTHER lanes (with lane id), and scene/label facts worth recording.

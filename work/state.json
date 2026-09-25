@@ -1,0 +1,95 @@
+{
+ "project": "The V Album Atlas",
+ "created": "2026-09-25T11:15:32",
+ "phases": {
+  "0_setup": {
+   "status": "done",
+   "notes": "folders, plan.md, agent_brief.md, validator, lanes.json, tags.json, vocab.json, fieldguide_mapping.csv, NE archive index (172 posts)"
+  },
+  "1_skeleton": {
+   "status": "in_progress",
+   "notes": "lanes.json drafted; scenes/labels to draft; expand with lane-agent notes"
+  },
+  "2_core": {
+   "status": "pending",
+   "substeps": {
+    "2a_terry_crawl": "done (172 posts, 2925 leads, 1011 distinct albums, triaged)",
+    "2b_core_lanes": "not started (C1\u2013C9)",
+    "2c_anchors": "not started",
+    "2d_network": "not started",
+    "qa": "pending"
+   }
+  },
+  "3_L2": {
+   "status": "partial",
+   "notes": "V1 14 rows (interrupted; target 40), V4 47 (interrupted; target 100), V5 58 (interrupted; target 65), V3 63 (+19 nv), V6 0 (agent blocked by a content-filter error before writing \u2014 rerun), V7 not started."
+  },
+  "4_L3": {
+   "status": "mostly done",
+   "notes": "V9 69 rows (target 85; agent interrupted mid-run \u2014 treat as top-up), V10 77 (+26 nv to resolve), V11 68 (done), V12 73, V2 69 (+12 nv), V13 72."
+  },
+  "5_L4": {
+   "status": "harvested",
+   "notes": "V14, V15, V16, V17, V18, V19 staged (327 rows) + V13 (72). QA loop not yet run."
+  },
+  "6_L5_R1": {
+   "status": "harvested",
+   "notes": "V20\u2013V30, R1, V8 staged (578 rows). QA loop not yet run."
+  },
+  "7_context": {
+   "status": "pending"
+  },
+  "8_global_qa": {
+   "status": "pending"
+  },
+  "9_xlsx": {
+   "status": "pending"
+  },
+  "10_docx": {
+   "status": "pending"
+  },
+  "11_audit": {
+   "status": "pending"
+  }
+ },
+ "staging_files": [
+  "staging/lane_R1.jsonl",
+  "staging/lane_V10.jsonl",
+  "staging/lane_V11.jsonl",
+  "staging/lane_V12.jsonl",
+  "staging/lane_V13.jsonl",
+  "staging/lane_V14.jsonl",
+  "staging/lane_V15.jsonl",
+  "staging/lane_V16.jsonl",
+  "staging/lane_V17.jsonl",
+  "staging/lane_V18.jsonl",
+  "staging/lane_V19.jsonl",
+  "staging/lane_V2.jsonl",
+  "staging/lane_V20.jsonl",
+  "staging/lane_V21.jsonl",
+  "staging/lane_V22.jsonl",
+  "staging/lane_V23.jsonl",
+  "staging/lane_V24.jsonl",
+  "staging/lane_V25.jsonl",
+  "staging/lane_V26.jsonl",
+  "staging/lane_V27.jsonl",
+  "staging/lane_V28.jsonl",
+  "staging/lane_V29.jsonl",
+  "staging/lane_V3.jsonl",
+  "staging/lane_V30.jsonl",
+  "staging/lane_V8.jsonl",
+  "staging/lane_V9.jsonl",
+  "staging/terry_leads_A.jsonl",
+  "staging/terry_leads_B.jsonl",
+  "staging/terry_leads_C.jsonl",
+  "staging/terry_leads_D.jsonl",
+  "staging/terry_leads_E.jsonl",
+  "staging/terry_leads_F.jsonl",
+  "staging/terry_leads_G.jsonl",
+  "staging/terry_leads_supp.jsonl"
+ ],
+ "master_count": 1511,
+ "last_updated": "2026-09-25T14:41:12",
+ "resume_instructions": "See RESUME_PROMPT.md at the work root. Order: (1) rerun V6 (fresh) and top-ups for V1, V4, V5, V9, V10 (+resolve its 26 nv), V2 (+12 nv), V3 (+19 nv); (2) V7; (3) Core C1\u2013C9 (use sources/terry_by_lane/C*.txt as must-consider lists) + anchor-artist completion + network/label pass; (4) Context X1\u2013X14; (5) needs_verification resolution pass; (6) QA loops per phase; (7) Phase 8 global QA; (8) build V_Album_Atlas.xlsx; (9) write V_Map.docx; (10) final audit + chat report.",
+ "web_access": "Built-in WebSearch/WebFetch are rate-limited account-wide. Use the anthropic-skills:firecrawl-research skill (Firecrawl CLI, Standard plan, 50 concurrent browsers, ~101k credits). Lane agents load the skill themselves; waves of 5\u20136 agents; per-agent budget 10 searches / 40 scrapes / 20 maps (raise to 12/60 for big lanes). Research cache under work/research/<lane>/; shared gaps at work/research/gaps.md."
+}

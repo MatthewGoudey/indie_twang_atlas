@@ -1,0 +1,3 @@
+# Phase 6 harvest (L5 Classic + R1 + V8)
+V20 65, V21 55, V22 36, V23 51, V24 48, V25 48, V26 72, V27 23, V28 40, V29 29, V30 28, R1 32, V8 51 = 578 rows. needs_verification: V30 1 (Michael Chapman Rainmaker), R1 3 (NLCR, Hank Snow, Dock Boggs), V8 1 (Chuck Johnson Blood Moon Boulder).
+Scene/label notes captured in agent replies: Hillbilly Central (Nashville), Capricorn (Macon), Muscle Shoals, Bakersfield/Capitol/Ken Nelson, Epic/Billy Sherrill, Takoma, Tompkins Square/Three Lobed, Philly free folk, Island/Witchseason, Transatlantic, Bearsville/Woodstock, Round/Grateful Dead Records, Poppy/Tomato, Sugar Hill, Armadillo WHQ, Beserkley, Factory/CBGB.

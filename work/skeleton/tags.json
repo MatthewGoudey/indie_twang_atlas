@@ -1,0 +1,64 @@
+{
+ "Instruments": {
+  "pedal steel": "Pedal steel guitar is prominent in the arrangements.",
+  "fiddle": "Fiddle or violin plays a lead or featured role.",
+  "banjo": "Banjo is featured.",
+  "mandolin": "Mandolin is featured.",
+  "slide guitar": "Bottleneck or lap-steel slide guitar is a signature texture.",
+  "harmonica": "Harmonica is prominent.",
+  "piano": "Piano or organ carries songs.",
+  "horns": "Brass or saxophone arrangements.",
+  "strings": "String section or orchestral arrangements.",
+  "drum machine": "Programmed drums are a defining texture.",
+  "synths": "Synthesizers are a defining texture.",
+  "fingerpicked acoustic": "Fingerstyle acoustic guitar is the core of the sound."
+ },
+ "Guitar": {
+  "Crazy Horse fuzz": "Loose, thick, distorted electric guitar in the Neil Young & Crazy Horse mold.",
+  "long solos": "Extended guitar solos are central.",
+  "harmonized guitars": "Twin or triple lead guitars in harmony (Allmans, Skynyrd, Thin Lizzy line).",
+  "jangle": "Bright, ringing, chiming clean electric guitar.",
+  "noise wall": "Massed distortion and feedback used as texture.",
+  "Telecaster twang": "Bright, snappy country lead guitar (Bakersfield and honky-tonk style).",
+  "feedback": "Deliberate feedback and amp noise."
+ },
+ "Voice": {
+  "deadpan": "Flat, half-spoken, unemotive delivery.",
+  "drawl": "Southern or rural accent shapes the singing.",
+  "cracked or yelping": "Raw, breaking, or yelped vocals.",
+  "baritone": "Low male vocal register.",
+  "close harmonies": "Tight vocal harmonies (Everly/Louvin style or band harmonies).",
+  "duets": "Male-female or two-lead duet singing.",
+  "hushed": "Quiet, breathy, intimate singing.",
+  "shouted": "Shouted or hoarse punk-style vocals."
+ },
+ "Writing": {
+  "funny-sad": "Jokes and grief in the same verse (Prine/Berman line).",
+  "storytelling": "Narrative, character-driven songs.",
+  "Southern gothic": "Dark, grotesque, or religious Southern imagery.",
+  "small-town": "Small-town settings and details.",
+  "Midwestern": "Midwestern settings, weather, and plainness.",
+  "pop-culture references": "Named brands, athletes, TV, and pop ephemera.",
+  "heartbreak": "Breakups and lost love as the main subject.",
+  "drinking songs": "Bars, hangovers, and drinking as setting or subject.",
+  "road songs": "Touring, driving, highways.",
+  "political": "Explicitly political or class-conscious songs.",
+  "spiritual or gospel": "Religious or gospel themes and forms."
+ },
+ "Production": {
+  "lo-fi": "Home-recorded, tape hiss, deliberately rough sound.",
+  "live in the room": "Full-band live-to-tape feel with little overdubbing.",
+  "polished": "Studio-clean, layered production.",
+  "long songs (7+ minutes)": "At least one song over seven minutes.",
+  "short songs (under 2 minutes)": "Many songs under two minutes."
+ },
+ "Mood": {
+  "rowdy": "Loud, boozy, celebratory energy.",
+  "lullaby": "Soft, soothing, bedtime-quiet.",
+  "bleak": "Despairing or desolate mood.",
+  "breezy": "Light, easy, sunlit mood.",
+  "cosmic": "Expansive, psychedelic, spacey.",
+  "anthemic": "Big choruses built for crowds.",
+  "glacial": "Extremely slow and still."
+ }
+}

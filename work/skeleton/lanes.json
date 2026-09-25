@@ -1,0 +1,861 @@
+[
+ {
+  "id": "C1",
+  "name": "Indie twang / yallternative",
+  "zone": "Core",
+  "era": "2014\u2013",
+  "definition": "Loud, loose guitar rock with pedal steel and country phrasing, made by punk- and indie-raised bands in the 2010s\u20132020s; Crazy Horse tone, small-town detail, deadpan or drawled vocals.",
+  "parents": [
+   "V1",
+   "V3",
+   "V9",
+   "V20",
+   "V10",
+   "V2"
+  ],
+  "children": []
+ },
+ {
+  "id": "C2",
+  "name": "Barroom storytellers and deadpan songwriters",
+  "zone": "Core",
+  "era": "2014\u2013",
+  "definition": "Wordy, funny-sad songwriting in the John Prine / David Berman line: half-spoken vocals, long verses, jokes that turn into grief, bar-band or home-studio backing.",
+  "parents": [
+   "V2",
+   "V25",
+   "V13",
+   "V1"
+  ],
+  "children": []
+ },
+ {
+  "id": "C3",
+  "name": "New alt-country and honky-tonk bands",
+  "zone": "Core",
+  "era": "2014\u2013",
+  "definition": "2010s\u20132020s bands and songwriters playing recognizable country (honky-tonk, '90s country, bluegrass-inflected) with indie-scene provenance, labels, and audiences.",
+  "parents": [
+   "V9",
+   "V6",
+   "V26",
+   "V19",
+   "V7"
+  ],
+  "children": []
+ },
+ {
+  "id": "C4",
+  "name": "Countrygaze and loud twang",
+  "zone": "Core",
+  "era": "2018\u2013",
+  "definition": "Shoegaze- and noise-rock-scale guitar walls under pedal steel, twang, and country-song structures; the Wednesday template.",
+  "parents": [
+   "V12",
+   "V16",
+   "X9",
+   "V20",
+   "V3"
+  ],
+  "children": []
+ },
+ {
+  "id": "C5",
+  "name": "Twangy indie folk",
+  "zone": "Core",
+  "era": "2014\u2013",
+  "definition": "Hushed or fervent acoustic-led songwriting with fiddle, pedal steel, and open tunings, from Big Thief's circle outward; folk lineage from Townes and Gillian Welch through the 2010s Bandcamp scene.",
+  "parents": [
+   "V5",
+   "V8",
+   "V24",
+   "V25",
+   "V30",
+   "V11"
+  ],
+  "children": []
+ },
+ {
+  "id": "C6",
+  "name": "Cosmic country and the '70s revival",
+  "zone": "Core",
+  "era": "2005\u2013",
+  "definition": "Grateful Dead-, Gram Parsons- and Laurel Canyon-indebted guitar bands and songwriters: buttery lead guitar, harmonies, breezy tempos, long instrumental passages.",
+  "parents": [
+   "V21",
+   "V27",
+   "V20",
+   "V28",
+   "V8",
+   "V4"
+  ],
+  "children": []
+ },
+ {
+  "id": "C7",
+  "name": "Slacker, jangle, and power-pop revival",
+  "zone": "Core",
+  "era": "2008\u2013",
+  "definition": "2010s\u20132020s guitar pop descended from Pavement, GBV, Flying Nun and Big Star: jangle, fuzz, conversational lyrics, short songs, DIY release culture.",
+  "parents": [
+   "V10",
+   "V11",
+   "V17",
+   "V18",
+   "V16"
+  ],
+  "children": []
+ },
+ {
+  "id": "C8",
+  "name": "Modern slowcore and hushed twang",
+  "zone": "Core",
+  "era": "2014\u2013",
+  "definition": "Slow tempos, quiet dynamics, sparse arrangements and country-tinged melodies; the 2010s\u20132020s descendants of Low, Red House Painters, Duster and Bedhead, often with pedal steel.",
+  "parents": [
+   "V12",
+   "V5",
+   "V1",
+   "V2"
+  ],
+  "children": []
+ },
+ {
+  "id": "C9",
+  "name": "Emo-twang crossovers",
+  "zone": "Core",
+  "era": "2012\u2013",
+  "definition": "Bands from the emo and DIY punk circuit who folded country guitar, twang and Americana structures into emotional, anthemic rock.",
+  "parents": [
+   "X6",
+   "V10",
+   "V9",
+   "V3"
+  ],
+  "children": []
+ },
+ {
+  "id": "V1",
+  "name": "Molina and the Magnolia circle",
+  "zone": "V",
+  "era": "1996\u20132013",
+  "definition": "Jason Molina's projects (Songs: Ohia, Magnolia Electric Co., solo) and the Secretly Canadian / Will Johnson orbit: haunted folk that grew into Crazy Horse-scale country rock.",
+  "parents": [
+   "V20",
+   "V12",
+   "V2",
+   "V25"
+  ],
+  "children": [
+   "C1",
+   "C2",
+   "C8"
+  ]
+ },
+ {
+  "id": "V2",
+  "name": "Drag City deadpan school",
+  "zone": "V",
+  "era": "1990\u2013",
+  "definition": "Silver Jews, Smog/Bill Callahan, Palace/Bonnie 'Prince' Billy and their Drag City kin: flat, wry, literary vocals over sparse or shambling country-tinged rock.",
+  "parents": [
+   "V25",
+   "V29",
+   "V11",
+   "V22"
+  ],
+  "children": [
+   "C1",
+   "C2",
+   "C8",
+   "V1"
+  ]
+ },
+ {
+  "id": "V3",
+  "name": "Southern storytelling rock",
+  "zone": "V",
+  "era": "1996\u2013",
+  "definition": "Drive-By Truckers and the bands around them: three-guitar Southern rock carrying novelistic, unglamorous songs about the modern South.",
+  "parents": [
+   "V28",
+   "V13",
+   "V9",
+   "V25"
+  ],
+  "children": [
+   "C1",
+   "C4",
+   "C9"
+  ]
+ },
+ {
+  "id": "V4",
+  "name": "Roots-inflected 2000s indie",
+  "zone": "V",
+  "era": "1998\u20132013",
+  "definition": "2000s indie rock that absorbed country, folk and Americana textures without becoming an alt-country band: Wilco after A.M., My Morning Jacket, Okkervil River, Calexico, Lambchop, Band of Horses.",
+  "parents": [
+   "V9",
+   "V16",
+   "V20",
+   "V22",
+   "V27"
+  ],
+  "children": [
+   "C6",
+   "C1",
+   "C5"
+  ]
+ },
+ {
+  "id": "V5",
+  "name": "Rootsy indie folk",
+  "zone": "V",
+  "era": "1996\u2013",
+  "definition": "Late-'90s to 2010s folk songwriters and duos with old-time, bluegrass and Appalachian roots rendered in indie terms: Gillian Welch, Iron & Wine, early Fleet Foxes, Bon Iver, Angel Olsen.",
+  "parents": [
+   "V25",
+   "V24",
+   "R1",
+   "V30",
+   "V8"
+  ],
+  "children": [
+   "C5",
+   "C8"
+  ]
+ },
+ {
+  "id": "V6",
+  "name": "2000s\u20132010s alt-country",
+  "zone": "V",
+  "era": "1998\u2013",
+  "definition": "Alt-country after the No Depression boom: Bloodshot and Lost Highway-era songwriters and bands (Neko Case, Ryan Adams, Richmond Fontaine, Lydia Loveless, Hurray for the Riff Raff).",
+  "parents": [
+   "V9",
+   "V13",
+   "V26",
+   "V6"
+  ],
+  "children": [
+   "C3",
+   "C2"
+  ]
+ },
+ {
+  "id": "V7",
+  "name": "Neo-traditional and 'new outlaw' country",
+  "zone": "V",
+  "era": "2012\u2013",
+  "definition": "Independent country of the 2010s\u20132020s that reached back to outlaw, Bakersfield and honky-tonk styles: Sturgill Simpson, Tyler Childers, Margo Price, Colter Wall, Charley Crockett.",
+  "parents": [
+   "V23",
+   "V26",
+   "V24",
+   "V6"
+  ],
+  "children": [
+   "C3",
+   "X2"
+  ]
+ },
+ {
+  "id": "V8",
+  "name": "American Primitive and solo guitar",
+  "zone": "V",
+  "era": "1959\u2013",
+  "definition": "Fingerstyle steel-string guitar from John Fahey and Takoma through Jack Rose, William Tyler, Marisa Anderson and Hayden Pedigo; instrumental Americana with drone and raga.",
+  "parents": [
+   "R1"
+  ],
+  "children": [
+   "C5",
+   "C6"
+  ]
+ },
+ {
+  "id": "V9",
+  "name": "No Depression and insurgent country",
+  "zone": "V",
+  "era": "1987\u20131999",
+  "definition": "The 1987\u20131999 alt-country boom: Uncle Tupelo, the Jayhawks, Son Volt, early Wilco, Whiskeytown, Old 97's, Bloodshot's insurgent-country roster and the Gothic country wing.",
+  "parents": [
+   "V14",
+   "V16",
+   "V21",
+   "V26",
+   "V23"
+  ],
+  "children": [
+   "V3",
+   "V4",
+   "V6",
+   "C1",
+   "C3"
+  ]
+ },
+ {
+  "id": "V10",
+  "name": "Slacker and '90s indie rock",
+  "zone": "V",
+  "era": "1989\u20131999",
+  "definition": "Pavement, Archers of Loaf, Superchunk, Built to Spill, Silkworm, Polvo, early Modest Mouse: loose, off-kilter guitar rock with conversational vocals, Matador/Merge/Touch and Go culture.",
+  "parents": [
+   "V16",
+   "V17",
+   "V18",
+   "V29"
+  ],
+  "children": [
+   "C7",
+   "C1",
+   "C9"
+  ]
+ },
+ {
+  "id": "V11",
+  "name": "Lo-fi and home taping",
+  "zone": "V",
+  "era": "1985\u20132000",
+  "definition": "Four-track and cassette culture: Guided by Voices, Sebadoh, Daniel Johnston, Elephant 6, the Microphones, early Mountain Goats; home recording treated as an aesthetic.",
+  "parents": [
+   "V16",
+   "V29",
+   "V17"
+  ],
+  "children": [
+   "C7",
+   "C5",
+   "V2"
+  ]
+ },
+ {
+  "id": "V12",
+  "name": "Slowcore and sadcore",
+  "zone": "V",
+  "era": "1988\u20132000",
+  "definition": "Galaxie 500, Low, Red House Painters, Codeine, Bedhead, Duster, American Music Club, Mazzy Star: slow tempos, quiet dynamics, sadness as method.",
+  "parents": [
+   "V29",
+   "V16",
+   "X9"
+  ],
+  "children": [
+   "C8",
+   "C4",
+   "V1"
+  ]
+ },
+ {
+  "id": "V13",
+  "name": "Americana songwriters before the label",
+  "zone": "V",
+  "era": "1986\u20131999",
+  "definition": "Songwriters who bridged country, folk and rock before 'Americana' was a format: Lucinda Williams, Steve Earle's '90s, Vic Chesnutt, Victoria Williams, Dave Alvin, Joe Henry.",
+  "parents": [
+   "V24",
+   "V25",
+   "V19",
+   "V14"
+  ],
+  "children": [
+   "V6",
+   "V3",
+   "C2"
+  ]
+ },
+ {
+  "id": "V14",
+  "name": "Cowpunk and LA roots punk",
+  "zone": "V",
+  "era": "1978\u20131990",
+  "definition": "Punk bands who turned to country and rockabilly: X, the Blasters, the Gun Club, Rank and File, Lone Justice, Jason & the Scorchers, the Mekons' country turn.",
+  "parents": [
+   "X14",
+   "V26",
+   "V21"
+  ],
+  "children": [
+   "V9",
+   "V15",
+   "C3"
+  ]
+ },
+ {
+  "id": "V15",
+  "name": "Paisley Underground",
+  "zone": "V",
+  "era": "1981\u20131989",
+  "definition": "Early-'80s LA neo-psychedelia and roots rock: the Dream Syndicate, Green on Red, the Long Ryders, Rain Parade, Opal; Velvets and Byrds revived with punk energy.",
+  "parents": [
+   "V29",
+   "V21",
+   "V14"
+  ],
+  "children": [
+   "V9",
+   "V10",
+   "C6"
+  ]
+ },
+ {
+  "id": "V16",
+  "name": "American underground and college rock",
+  "zone": "V",
+  "era": "1979\u20131991",
+  "definition": "SST, Twin/Tone, Homestead and IRS-era bands: R.E.M., the Replacements, H\u00fcsker D\u00fc, Minutemen, Meat Puppets, Dinosaur Jr., Sonic Youth, Camper Van Beethoven, the Feelies.",
+  "parents": [
+   "X14",
+   "V29",
+   "V17",
+   "V20"
+  ],
+  "children": [
+   "V10",
+   "V11",
+   "V12",
+   "V9",
+   "C4",
+   "C7"
+  ]
+ },
+ {
+  "id": "V17",
+  "name": "Jangle and power pop, Big Star to GBV",
+  "zone": "V",
+  "era": "1972\u20131995",
+  "definition": "Big Star, the dB's, Let's Active, Game Theory, Guadalcanal Diary, Teenage Fanclub, Velvet Crush: ringing guitars, harmonies, hooks in the Byrds/Beatles line.",
+  "parents": [
+   "V21",
+   "V29"
+  ],
+  "children": [
+   "V16",
+   "V10",
+   "V11",
+   "C7"
+  ]
+ },
+ {
+  "id": "V18",
+  "name": "Flying Nun and Antipodean indie",
+  "zone": "V",
+  "era": "1980\u20131995",
+  "definition": "Dunedin and Australian indie: the Clean, the Chills, the Verlaines, Tall Dwarfs, the Bats, the Go-Betweens, the Triffids; homemade jangle and drone.",
+  "parents": [
+   "V29",
+   "V17"
+  ],
+  "children": [
+   "V10",
+   "C7"
+  ]
+ },
+ {
+  "id": "V19",
+  "name": "1980s country rebels",
+  "zone": "V",
+  "era": "1980\u20131990",
+  "definition": "Mainstream-adjacent country that fought Nashville's gloss: Steve Earle's Guitar Town era, Dwight Yoakam, Lyle Lovett, k.d. lang, the Desert Rose Band, Rosanne Cash.",
+  "parents": [
+   "V26",
+   "V23",
+   "V24",
+   "V14"
+  ],
+  "children": [
+   "V9",
+   "V13",
+   "V7"
+  ]
+ },
+ {
+  "id": "V20",
+  "name": "Neil Young and the Crazy Horse universe",
+  "zone": "V",
+  "era": "1966\u2013",
+  "definition": "Buffalo Springfield, Neil Young's solo and Crazy Horse catalog, Crazy Horse's own records, CSNY: ragged electric guitar, high cracked voice, country and folk sides.",
+  "parents": [
+   "V22",
+   "V21",
+   "R1"
+  ],
+  "children": [
+   "V1",
+   "V16",
+   "V12",
+   "C1",
+   "C4",
+   "C6"
+  ]
+ },
+ {
+  "id": "V21",
+  "name": "Country rock and Cosmic American Music",
+  "zone": "V",
+  "era": "1966\u20131977",
+  "definition": "The Byrds, Gram Parsons, the Flying Burrito Brothers, Emmylou Harris, Gene Clark, Dillard & Clark, Michael Nesmith, Poco: '60s rock musicians playing sincere country.",
+  "parents": [
+   "V26",
+   "R1",
+   "V22"
+  ],
+  "children": [
+   "V27",
+   "V9",
+   "V15",
+   "C6",
+   "X13"
+  ]
+ },
+ {
+  "id": "V22",
+  "name": "Dylan and The Band",
+  "zone": "V",
+  "era": "1965\u20131976",
+  "definition": "Bob Dylan from going electric through the Rolling Thunder era and The Band's catalog: the model for roots-conscious rock songwriting.",
+  "parents": [
+   "R1"
+  ],
+  "children": [
+   "V20",
+   "V21",
+   "V4",
+   "V24",
+   "X7"
+  ]
+ },
+ {
+  "id": "V23",
+  "name": "Outlaw country",
+  "zone": "V",
+  "era": "1971\u20131980",
+  "definition": "Waylon Jennings, Willie Nelson, Billy Joe Shaver, Kris Kristofferson, Jessi Colter, David Allan Coe, Johnny Paycheck, Bobby Bare: Nashville outsiders with rock production and songwriter values.",
+  "parents": [
+   "V26",
+   "V24",
+   "R1"
+  ],
+  "children": [
+   "V7",
+   "V19",
+   "X2"
+  ]
+ },
+ {
+  "id": "V24",
+  "name": "Texas songwriters and progressive country",
+  "zone": "V",
+  "era": "1968\u20131985",
+  "definition": "Townes Van Zandt, Guy Clark, Jerry Jeff Walker, the Flatlanders, Joe Ely, Butch Hancock, Blaze Foley, Doug Sahm: Houston, Austin and Lubbock songwriting.",
+  "parents": [
+   "R1",
+   "V22",
+   "V26"
+  ],
+  "children": [
+   "V13",
+   "V5",
+   "V23",
+   "C5",
+   "X2"
+  ]
+ },
+ {
+  "id": "V25",
+  "name": "Country-folk storytellers",
+  "zone": "V",
+  "era": "1967\u20131980",
+  "definition": "John Prine, Tom T. Hall, Mickey Newbury, Steve Goodman, Bobbie Gentry, Lee Hazlewood, Karen Dalton: plainspoken narrative songwriting between folk and country.",
+  "parents": [
+   "R1",
+   "V22"
+  ],
+  "children": [
+   "V2",
+   "V13",
+   "C2",
+   "C5"
+  ]
+ },
+ {
+  "id": "V26",
+  "name": "Honky-tonk, Bakersfield, and hard country",
+  "zone": "V",
+  "era": "1960\u20131980",
+  "definition": "Merle Haggard, Buck Owens, George Jones, Loretta Lynn, Tammy Wynette, Dolly Parton, Johnny Cash, Gary Stewart, Wynn Stewart: the hard-country mainstream the V keeps returning to.",
+  "parents": [
+   "R1"
+  ],
+  "children": [
+   "V21",
+   "V23",
+   "V19",
+   "V14",
+   "C3",
+   "X1"
+  ]
+ },
+ {
+  "id": "V27",
+  "name": "The Grateful Dead and California country-psych",
+  "zone": "V",
+  "era": "1969\u20131975",
+  "definition": "Workingman's Dead, American Beauty, Jerry Garcia's solo and bluegrass sides, New Riders of the Purple Sage: the Dead's country-folk turn and its jam offshoots.",
+  "parents": [
+   "V21",
+   "R1",
+   "V22"
+  ],
+  "children": [
+   "C6",
+   "V4"
+  ]
+ },
+ {
+  "id": "V28",
+  "name": "Southern rock and country soul",
+  "zone": "V",
+  "era": "1969\u20131980",
+  "definition": "The Allman Brothers, Lynyrd Skynyrd, the Marshall Tucker Band, Little Feat, Tony Joe White, Dan Penn, Muscle Shoals: Southern guitar rock and swamp soul.",
+  "parents": [
+   "V26",
+   "V22"
+  ],
+  "children": [
+   "V3",
+   "C1",
+   "X11"
+  ]
+ },
+ {
+  "id": "V29",
+  "name": "Velvet Underground and proto-indie",
+  "zone": "V",
+  "era": "1967\u20131976",
+  "definition": "The Velvet Underground, Lou Reed, Nico, the Modern Lovers/Jonathan Richman: drone, deadpan and amateurism as virtues.",
+  "parents": [],
+  "children": [
+   "V16",
+   "V12",
+   "V15",
+   "V18",
+   "V2",
+   "V10"
+  ]
+ },
+ {
+  "id": "V30",
+  "name": "British folk rock (selective)",
+  "zone": "V",
+  "era": "1968\u20131975",
+  "definition": "Fairport Convention, Sandy Denny, Richard & Linda Thompson, Nick Drake, Bert Jansch: the UK strand of folk rock that indie folk keeps citing.",
+  "parents": [
+   "R1"
+  ],
+  "children": [
+   "V5",
+   "C5"
+  ]
+ },
+ {
+  "id": "R1",
+  "name": "Roots",
+  "zone": "V",
+  "era": "before 1965",
+  "definition": "Pre-1965 country, folk and bluegrass foundations: Carter Family, Jimmie Rodgers, Hank Williams, Harry Smith's Anthology, Woody Guthrie, the Louvins, the Everlys, Lefty Frizzell, Bob Wills, Sun-era Cash, Patsy Cline, Stanley Brothers, Bill Monroe.",
+  "parents": [],
+  "children": [
+   "V26",
+   "V21",
+   "V22",
+   "V24",
+   "V25",
+   "V30",
+   "V8",
+   "V5"
+  ]
+ },
+ {
+  "id": "X1",
+  "name": "Mainstream Nashville, countrypolitan to bro-country",
+  "zone": "Context",
+  "era": "1960\u2013",
+  "definition": "The commercial country mainstream from the Nashville Sound to bro-country and Morgan Wallen.",
+  "parents": [
+   "V26",
+   "R1"
+  ],
+  "children": []
+ },
+ {
+  "id": "X2",
+  "name": "Red Dirt, Texas country, and arena Americana",
+  "zone": "Context",
+  "era": "1995\u2013",
+  "definition": "Oklahoma/Texas scene country and the arena-scale Americana of Chris Stapleton and Zach Bryan.",
+  "parents": [
+   "V24",
+   "V23",
+   "V7"
+  ],
+  "children": []
+ },
+ {
+  "id": "X3",
+  "name": "Big-tent Americana and stomp-clap folk",
+  "zone": "Context",
+  "era": "2000\u2013",
+  "definition": "Old Crow Medicine Show, the Avett Brothers, Mumford & Sons, the Lumineers, Brandi Carlile: the festival-scale Americana mainstream.",
+  "parents": [
+   "V5",
+   "V9",
+   "X4"
+  ],
+  "children": []
+ },
+ {
+  "id": "X4",
+  "name": "Bluegrass, old-time, and newgrass",
+  "zone": "Context",
+  "era": "1965\u2013",
+  "definition": "Alison Krauss, Nickel Creek, Punch Brothers, Billy Strings, Molly Tuttle, Sierra Ferrell: the bluegrass line as its own tradition.",
+  "parents": [
+   "R1"
+  ],
+  "children": [
+   "X3"
+  ]
+ },
+ {
+  "id": "X5",
+  "name": "Chamber, baroque, and freak folk",
+  "zone": "Context",
+  "era": "2000\u20132015",
+  "definition": "Sufjan Stevens, Joanna Newsom, Devendra Banhart, Beirut, the Decemberists: ornate indie folk that leads elsewhere.",
+  "parents": [
+   "V5",
+   "V30",
+   "V11"
+  ],
+  "children": []
+ },
+ {
+  "id": "X6",
+  "name": "Emo and Midwest emo",
+  "zone": "Context",
+  "era": "1994\u2013",
+  "definition": "Cap'n Jazz, American Football, Modern Baseball: the emo line from which C9 borrows.",
+  "parents": [
+   "V16",
+   "X14"
+  ],
+  "children": [
+   "C9"
+  ]
+ },
+ {
+  "id": "X7",
+  "name": "Heartland rock",
+  "zone": "Context",
+  "era": "1975\u20131995",
+  "definition": "Springsteen, Petty, Mellencamp, Seger: arena-scale American rock that occasionally feeds the V (Nebraska).",
+  "parents": [
+   "V22",
+   "V28"
+  ],
+  "children": []
+ },
+ {
+  "id": "X8",
+  "name": "Grunge and '90s alt radio",
+  "zone": "Context",
+  "era": "1988\u20131998",
+  "definition": "Nirvana, Pearl Jam, Soundgarden, Mudhoney, Screaming Trees: the Seattle line and its radio aftermath.",
+  "parents": [
+   "V16",
+   "V20"
+  ],
+  "children": []
+ },
+ {
+  "id": "X9",
+  "name": "Classic shoegaze and dream pop",
+  "zone": "Context",
+  "era": "1988\u20131996",
+  "definition": "My Bloody Valentine, Slowdive, Ride, Cocteau Twins, Swirlies: the guitar-wall vocabulary countrygaze borrows.",
+  "parents": [
+   "V29"
+  ],
+  "children": [
+   "C4",
+   "V12"
+  ]
+ },
+ {
+  "id": "X10",
+  "name": "Post-punk and noise rock",
+  "zone": "Context",
+  "era": "1977\u2013",
+  "definition": "Wire, Mission of Burma, Big Black, Fugazi, and modern post-punk like Robber Robber: the rhythmic, angular line adjacent to the scene.",
+  "parents": [
+   "X14",
+   "V29"
+  ],
+  "children": []
+ },
+ {
+  "id": "X11",
+  "name": "Modern Southern rock",
+  "zone": "Context",
+  "era": "2005\u2013",
+  "definition": "Blackberry Smoke, Whiskey Myers: Southern rock's mainstream continuation.",
+  "parents": [
+   "V28"
+  ],
+  "children": []
+ },
+ {
+  "id": "X12",
+  "name": "Pop and indie artists' country turns",
+  "zone": "Context",
+  "era": "2010\u2013",
+  "definition": "Kacey Musgraves, Orville Peck, CMAT, Beyonc\u00e9's Cowboy Carter: country as a mode for pop and indie artists.",
+  "parents": [
+   "X1",
+   "V21"
+  ],
+  "children": []
+ },
+ {
+  "id": "X13",
+  "name": "Laurel Canyon and '70s soft rock",
+  "zone": "Context",
+  "era": "1968\u20131980",
+  "definition": "Joni Mitchell, CSN, Jackson Browne, the Eagles, Linda Ronstadt, Harry Nilsson: the LA singer-songwriter mainstream next door to country rock.",
+  "parents": [
+   "V21",
+   "V22"
+  ],
+  "children": [
+   "C6"
+  ]
+ },
+ {
+  "id": "X14",
+  "name": "Punk and hardcore roots",
+  "zone": "Context",
+  "era": "1976\u20131985",
+  "definition": "Ramones, Black Flag, Minor Threat: the punk foundation under cowpunk, SST and the DIY network.",
+  "parents": [
+   "V29"
+  ],
+  "children": [
+   "V14",
+   "V16",
+   "X6",
+   "X10"
+  ]
+ }
+]

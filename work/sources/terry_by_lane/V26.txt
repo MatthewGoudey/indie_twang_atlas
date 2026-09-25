@@ -1,0 +1,2 @@
+# No Expectations leads triaged to lane V26 — 1 albums. Format: artist | album | year | label | n_posts | URLs | note
+Johnny Cash | At Folsom Prison |  |  | 1 | https://www.noexpectations.fyi/p/in-defense-of-live-albums | Live album inseparable from the artist's legacy, cited as Terry recants a 2019 tweet dismissing live LPs.
