@@ -1,0 +1,410 @@
+[
+ {
+  "scene": "Asheville",
+  "place": "Asheville, NC",
+  "years": "2017–",
+  "key_labels": "Dear Life Records, Drop of Sun (studio)",
+  "key_artists": "Wednesday, MJ Lenderman, Karly Hartzman, Indigo De Souza, Florry-adjacent players",
+  "note": "The circle around Wednesday and Lenderman: shared members, the Drop of Sun studio, and a loud, pedal-steel-laced sound that became the template for indie twang."
+ },
+ {
+  "scene": "Durham and Chapel Hill",
+  "place": "Durham and Chapel Hill, NC",
+  "years": "1989–",
+  "key_labels": "Merge, Paradise of Bachelors, Dear Life",
+  "key_artists": "Superchunk, Archers of Loaf, Hiss Golden Messenger, Mount Moriah, Fust, Sluice",
+  "note": "The Triangle's two eras: Merge-era '90s indie rock, then a roots-leaning scene around Paradise of Bachelors and Dear Life."
+ },
+ {
+  "scene": "Raleigh",
+  "place": "Raleigh, NC",
+  "years": "1994–",
+  "key_labels": "Mammoth, Bloodshot",
+  "key_artists": "Whiskeytown, Tift Merritt, Caitlin Cary",
+  "note": "Home of Whiskeytown and the late-'90s alt-country boom in North Carolina."
+ },
+ {
+  "scene": "Burlington, Vermont",
+  "place": "Burlington, VT",
+  "years": "2015–",
+  "key_labels": "Fire Talk, Lame-O",
+  "key_artists": "Greg Freeman, Lily Seabird, Robber Robber, Dari Bay, Lutalo",
+  "note": "A small, tight scene of loud, twangy guitar rock; one of the field guide's ten regions."
+ },
+ {
+  "scene": "Louisville and Sophomore Lounge",
+  "place": "Louisville, KY / Jeffersonville, IN",
+  "years": "2006–",
+  "key_labels": "Sophomore Lounge, Drag City, No Quarter",
+  "key_artists": "Ryan Davis & the Roadhouse Band, State Champion, Styrofoam Winos, Grace Rogers, Joan Shelley, Palace, Slint",
+  "note": "From the Palace/Slint generation to Ryan Davis's Sophomore Lounge label and its barfly songwriters."
+ },
+ {
+  "scene": "Chicago insurgent country",
+  "place": "Chicago, IL",
+  "years": "1993–2005",
+  "key_labels": "Bloodshot",
+  "key_artists": "Waco Brothers, Robbie Fulks, Neko Case, Kelly Hogan, Freakwater, The Handsome Family",
+  "note": "Bloodshot's 'insurgent country': punks playing honky-tonk and Bakersfield in Chicago bars."
+ },
+ {
+  "scene": "Chicago twang and DIY",
+  "place": "Chicago, IL",
+  "years": "2015–",
+  "key_labels": "Sooper, Fire Talk, Run for Cover, Merge",
+  "key_artists": "Tobacco City, Red PK, National Photo Committee, Case Oats, Horsegirl, Friko, Ratboys, Twin Peaks",
+  "note": "The current Chicago scene: a DIY alt-country cluster sharing pedal-steel players, beside a jangle and emo-twang circuit."
+ },
+ {
+  "scene": "Chicago Drag City",
+  "place": "Chicago, IL",
+  "years": "1990–",
+  "key_labels": "Drag City, Thrill Jockey",
+  "key_artists": "Silver Jews, Smog, Palace, Royal Trux, Red Red Meat, Califone",
+  "note": "Drag City's deadpan, lo-fi songwriting culture and the Thrill Jockey post-rock scene next door."
+ },
+ {
+  "scene": "Philadelphia DIY",
+  "place": "Philadelphia, PA",
+  "years": "2010–",
+  "key_labels": "Lame-O, Salinas, Father/Daughter",
+  "key_artists": "Waxahatchee, Swearin', Radiator Hospital, Hurry, Alex G, Golden Apples, 2nd Grade, Friendship, Sunday Mourners",
+  "note": "House-show power pop and indie rock; one of the field guide's regions."
+ },
+ {
+  "scene": "Philly Free Folk",
+  "place": "Philadelphia, PA",
+  "years": "2000–2010",
+  "key_labels": "Drag City, Language of Stone",
+  "key_artists": "Espers, Meg Baird, Fern Knight",
+  "note": "Psych-folk revival that fed the 2010s cosmic and folk revivals."
+ },
+ {
+  "scene": "Athens, Georgia",
+  "place": "Athens, GA",
+  "years": "1980–",
+  "key_labels": "DB, Elephant 6, Sub Pop",
+  "key_artists": "R.E.M., Pylon, Love Tractor, Neutral Milk Hotel, Olivia Tremor Control, Drive-By Truckers, Arbor Labor Union",
+  "note": "College-town scene twice over: early-'80s jangle and new wave, then Elephant 6 and the Truckers."
+ },
+ {
+  "scene": "Elephant 6",
+  "place": "Athens, GA / Denver / Ruston, LA",
+  "years": "1993–2005",
+  "key_labels": "Merge, spinART, Kindercore",
+  "key_artists": "Neutral Milk Hotel, The Olivia Tremor Control, Apples in Stereo, Beulah, The Minders",
+  "note": "A collective of home-recording pop and psych bands."
+ },
+ {
+  "scene": "Minneapolis",
+  "place": "Minneapolis, MN",
+  "years": "1979–1995",
+  "key_labels": "Twin/Tone, SST",
+  "key_artists": "The Replacements, Hüsker Dü, Soul Asylum, The Jayhawks, Golden Smog, Low (Duluth)",
+  "note": "Twin/Tone and the punk-to-roots-rock line that produced the Replacements and the Jayhawks."
+ },
+ {
+  "scene": "Belleville and St. Louis",
+  "place": "Belleville, IL / St. Louis, MO",
+  "years": "1987–",
+  "key_labels": "Rockville, Sire, Bloodshot",
+  "key_artists": "Uncle Tupelo, Son Volt, Wilco, The Bottle Rockets",
+  "note": "Where the No Depression sound started."
+ },
+ {
+  "scene": "Denton",
+  "place": "Denton, TX",
+  "years": "1995–",
+  "key_labels": "Idol, Misra, Keeled Scales",
+  "key_artists": "Centro-matic, South San Gabriel, Will Johnson, Midlake",
+  "note": "University town north of Dallas; Will Johnson's orbit."
+ },
+ {
+  "scene": "Austin",
+  "place": "Austin, TX",
+  "years": "1970–",
+  "key_labels": "Armadillo World Headquarters (venue), Keeled Scales",
+  "key_artists": "Willie Nelson, Jerry Jeff Walker, Townes Van Zandt, True Believers, Daniel Johnston, Lomelda (Silsbee), Hovvdy",
+  "note": "Cosmic cowboys and progressive country in the '70s; outsider tapes in the '80s; soft Texas indie today."
+ },
+ {
+  "scene": "Lubbock",
+  "place": "Lubbock, TX",
+  "years": "1972–",
+  "key_labels": "",
+  "key_artists": "The Flatlanders, Joe Ely, Butch Hancock, Jimmie Dale Gilmore, Terry Allen",
+  "note": "West Texas songwriters who fed Austin and the Americana songwriter canon."
+ },
+ {
+  "scene": "Houston folk clubs",
+  "place": "Houston, TX",
+  "years": "1965–1975",
+  "key_labels": "",
+  "key_artists": "Townes Van Zandt, Guy Clark, Lightnin' Hopkins",
+  "note": "The coffeehouse circuit where the Texas songwriter tradition began."
+ },
+ {
+  "scene": "Bakersfield",
+  "place": "Bakersfield, CA",
+  "years": "1958–1975",
+  "key_labels": "Capitol",
+  "key_artists": "Buck Owens, Merle Haggard, Wynn Stewart",
+  "note": "Telecaster-driven honky-tonk that answered Nashville polish; a root of country rock and cowpunk."
+ },
+ {
+  "scene": "Nashville",
+  "place": "Nashville, TN",
+  "years": "1950–",
+  "key_labels": "RCA, Columbia, Hillbilly Central (studio)",
+  "key_artists": "Waylon Jennings, Tompall Glaser, Margo Price, Caitlin Rose, Kelsey Waldon, Styrofoam Winos",
+  "note": "Music Row, the outlaw rebellion at Hillbilly Central, and today's East Nashville DIY country."
+ },
+ {
+  "scene": "LA cowpunk",
+  "place": "Los Angeles, CA",
+  "years": "1978–1988",
+  "key_labels": "Slash, Enigma, Frontier",
+  "key_artists": "X, The Blasters, The Gun Club, Lone Justice, The Knitters, Rank and File",
+  "note": "Punk bands discovering country, rockabilly and blues."
+ },
+ {
+  "scene": "Paisley Underground",
+  "place": "Los Angeles, CA",
+  "years": "1981–1989",
+  "key_labels": "Slash, Enigma, Rough Trade",
+  "key_artists": "The Dream Syndicate, Green on Red, The Long Ryders, Rain Parade, The Three O'Clock, Opal",
+  "note": "Neo-psychedelic '60s revival with a Byrds and Velvets bent."
+ },
+ {
+  "scene": "SST and San Pedro",
+  "place": "Southern California",
+  "years": "1979–1990",
+  "key_labels": "SST",
+  "key_artists": "Minutemen, Black Flag, Meat Puppets, Hüsker Dü, Dinosaur Jr.",
+  "note": "The label and van-tour network at the heart of the '80s underground."
+ },
+ {
+  "scene": "Laurel Canyon",
+  "place": "Los Angeles, CA",
+  "years": "1966–1978",
+  "key_labels": "Asylum, A&M, Reprise",
+  "key_artists": "The Byrds, Gram Parsons, Joni Mitchell, Crosby, Stills & Nash, Neil Young",
+  "note": "Country rock and the LA singer-songwriter scene; revisited by today's cosmic-country revival."
+ },
+ {
+  "scene": "Boston",
+  "place": "Boston, MA",
+  "years": "1978–",
+  "key_labels": "Taang!, Homestead, 4AD (US bands)",
+  "key_artists": "Mission of Burma, Pixies, Galaxie 500, Buffalo Tom, Swirlies, Helium",
+  "note": "College-radio rock from post-punk to dream pop."
+ },
+ {
+  "scene": "Western Mass DIY",
+  "place": "Amherst and Northampton, MA",
+  "years": "1985–2000",
+  "key_labels": "Homestead, Shrimper, Sub Pop",
+  "key_artists": "Dinosaur Jr., Sebadoh, Scud Mountain Boys",
+  "note": "Home-taping and noisy college rock from the Pioneer Valley."
+ },
+ {
+  "scene": "Hoboken",
+  "place": "Hoboken, NJ",
+  "years": "1978–1995",
+  "key_labels": "Coyote, Bar/None",
+  "key_artists": "The Feelies, The dB's, Yo La Tengo, Speed the Plough",
+  "note": "Maxwell's and the jangle and guitar-drone bands around it."
+ },
+ {
+  "scene": "Dayton lo-fi",
+  "place": "Dayton, OH",
+  "years": "1987–",
+  "key_labels": "Scat, Matador",
+  "key_artists": "Guided by Voices",
+  "note": "Basement four-track pop that defined lo-fi."
+ },
+ {
+  "scene": "Olympia and K Records",
+  "place": "Olympia and Anacortes, WA",
+  "years": "1984–2005",
+  "key_labels": "K Records, Kill Rock Stars",
+  "key_artists": "Beat Happening, The Microphones, Mount Eerie, early Modest Mouse (Issaquah)",
+  "note": "Anti-corporate DIY pop and home recording in the Pacific Northwest."
+ },
+ {
+  "scene": "Seattle",
+  "place": "Seattle, WA",
+  "years": "1985–",
+  "key_labels": "Sub Pop, Barsuk, Up",
+  "key_artists": "Mudhoney, Screaming Trees, Built to Spill (Boise), Pedro the Lion, Death Cab for Cutie",
+  "note": "Grunge and its quieter indie aftermath."
+ },
+ {
+  "scene": "Boise",
+  "place": "Boise, ID",
+  "years": "1990–",
+  "key_labels": "Up, Warner Bros.",
+  "key_artists": "Built to Spill, Caustic Resin, The Halo Benders",
+  "note": "Doug Martsch's circle of long-song guitar rock."
+ },
+ {
+  "scene": "Portland",
+  "place": "Portland, OR",
+  "years": "1990–",
+  "key_labels": "Decor, Fluff and Gravy, Kill Rock Stars",
+  "key_artists": "Richmond Fontaine, The Delines, Kassi Valazza, Rose City Band, Elliott Smith, Heatmiser",
+  "note": "Alt-country bars and cosmic-country revival in the Northwest."
+ },
+ {
+  "scene": "San Francisco",
+  "place": "San Francisco Bay Area",
+  "years": "1965–",
+  "key_labels": "Warner Bros. (Dead), Matador, Drag City",
+  "key_artists": "Grateful Dead, New Riders of the Purple Sage, American Music Club, Red House Painters, Thinking Fellers Union Local 282",
+  "note": "From the Dead's country turn to '90s sadcore."
+ },
+ {
+  "scene": "New Orleans",
+  "place": "New Orleans, LA",
+  "years": "1995–",
+  "key_labels": "New West, ATO",
+  "key_artists": "Hurray for the Riff Raff, The Deslondes, Esther Rose, Beulah",
+  "note": "Old-time, folk and honky-tonk revival around the French Quarter busking scene."
+ },
+ {
+  "scene": "Memphis",
+  "place": "Memphis, TN",
+  "years": "1954–",
+  "key_labels": "Sun, Ardent",
+  "key_artists": "Johnny Cash, Big Star, Chris Bell, Lucero, Tav Falco",
+  "note": "Sun's rockabilly, then Ardent studio power pop, then Lucero's punk-country."
+ },
+ {
+  "scene": "Muscle Shoals",
+  "place": "Muscle Shoals and Florence, AL",
+  "years": "1967–",
+  "key_labels": "Fame, Muscle Shoals Sound, Single Lock",
+  "key_artists": "Dan Penn, Drive-By Truckers (Hood, Cooley, Isbell), Jason Isbell, John Paul White",
+  "note": "Country-soul studio town and the Truckers' home ground."
+ },
+ {
+  "scene": "Capricorn and Jacksonville Southern rock",
+  "place": "Macon, GA / Jacksonville, FL",
+  "years": "1969–1980",
+  "key_labels": "Capricorn, MCA",
+  "key_artists": "The Allman Brothers Band, Lynyrd Skynyrd, The Marshall Tucker Band",
+  "note": "The original Southern rock labels and bar circuit."
+ },
+ {
+  "scene": "Woodstock",
+  "place": "Woodstock, NY",
+  "years": "1966–1976",
+  "key_labels": "Capitol, Columbia",
+  "key_artists": "Bob Dylan, The Band",
+  "note": "Big Pink, the basement tapes, and the birth of roots rock."
+ },
+ {
+  "scene": "Greenwich Village folk",
+  "place": "New York, NY",
+  "years": "1958–1970",
+  "key_labels": "Vanguard, Elektra, Folkways",
+  "key_artists": "Bob Dylan, Dave Van Ronk, The New Lost City Ramblers, Karen Dalton",
+  "note": "The folk revival that sent the Anthology repertoire into rock."
+ },
+ {
+  "scene": "New York proto-punk and CBGB",
+  "place": "New York, NY",
+  "years": "1965–1980",
+  "key_labels": "Verve, Sire",
+  "key_artists": "The Velvet Underground, Lou Reed, Television, Patti Smith, Ramones",
+  "note": "Warhol's Factory, then CBGB: the art-rock source of indie."
+ },
+ {
+  "scene": "London folk clubs",
+  "place": "London, UK",
+  "years": "1965–1975",
+  "key_labels": "Island, Witchseason",
+  "key_artists": "Fairport Convention, Sandy Denny, Nick Drake, Bert Jansch, Richard Thompson",
+  "note": "Les Cousins, the Horseshoe and Joe Boyd's Witchseason: British folk rock."
+ },
+ {
+  "scene": "Dunedin",
+  "place": "Dunedin, New Zealand",
+  "years": "1980–1995",
+  "key_labels": "Flying Nun",
+  "key_artists": "The Clean, The Chills, The Verlaines, The Bats, Tall Dwarfs",
+  "note": "The 'Dunedin sound': fuzzy jangle recorded cheaply, a root of slacker rock."
+ },
+ {
+  "scene": "Brisbane",
+  "place": "Brisbane, Australia",
+  "years": "1977–",
+  "key_labels": "Able, Chapter Music",
+  "key_artists": "The Go-Betweens, The Goon Sax",
+  "note": "The Go-Betweens' town, and a generation later the Goon Sax."
+ },
+ {
+  "scene": "Melbourne",
+  "place": "Melbourne, Australia",
+  "years": "2008–",
+  "key_labels": "Chapter Music, Milk!, Sub Pop",
+  "key_artists": "Courtney Barnett, Rolling Blackouts Coastal Fever, Dick Diver, Twerps, Chook Race",
+  "note": "The 2010s jangle revival in the Go-Betweens and Flying Nun line."
+ },
+ {
+  "scene": "Omaha and Saddle Creek",
+  "place": "Omaha, NE",
+  "years": "1995–",
+  "key_labels": "Saddle Creek",
+  "key_artists": "Bright Eyes, Cursive, Big Thief (early), Hop Along",
+  "note": "Saddle Creek's roster, from Conor Oberst to Big Thief's first records."
+ },
+ {
+  "scene": "Takoma",
+  "place": "Takoma Park, MD / Berkeley, CA",
+  "years": "1959–1980",
+  "key_labels": "Takoma",
+  "key_artists": "John Fahey, Robbie Basho, Leo Kottke",
+  "note": "John Fahey's label and the birth of American Primitive guitar."
+ },
+ {
+  "scene": "Glasgow",
+  "place": "Glasgow, Scotland",
+  "years": "1985–1997",
+  "key_labels": "Creation, 53rd & 3rd",
+  "key_artists": "Teenage Fanclub, The Pastels, BMX Bandits",
+  "note": "Big Star-loving guitar pop that fed '90s jangle and power pop."
+ },
+ {
+  "scene": "Leeds",
+  "place": "Leeds, England",
+  "years": "1977–1990",
+  "key_labels": "Fast Product, Sin, Twin/Tone (US)",
+  "key_artists": "Mekons",
+  "note": "Post-punk art-school bands; the Mekons' turn to country fed insurgent country."
+ },
+ {
+  "scene": "Red Dirt",
+  "place": "Stillwater, OK",
+  "years": "1990–",
+  "key_labels": "",
+  "key_artists": "Cross Canadian Ragweed, Jason Boland & the Stragglers, Turnpike Troubadours",
+  "note": "Oklahoma's bar-band country scene."
+ },
+ {
+  "scene": "Columbus",
+  "place": "Columbus, OH",
+  "years": "1995–",
+  "key_labels": "Anyway, Bloodshot",
+  "key_artists": "Lydia Loveless, Saintseneca, Two Cow Garage, Times New Viking",
+  "note": "Ohio's DIY rock and alt-country bars."
+ },
+ {
+  "scene": "Woodsist and Brooklyn",
+  "place": "Brooklyn, NY",
+  "years": "2006–",
+  "key_labels": "Woodsist, Captured Tracks, Exploding in Sound",
+  "key_artists": "Woods, Real Estate, Kurt Vile (Philadelphia), Speedy Ortiz",
+  "note": "Jeremy Earl's label and the Brooklyn DIY rock around it."
+ }
+]
