@@ -163,3 +163,7 @@ no V6 gaps to log this session
 - [QA19] She Returns From War "Ruthless" (row A2649): https://shereturnsfromwar.bandcamp.com/ + /music - album/single not found in catalog | needed for: verifying album exists
 - [QA33] https://www.ebay.com/itm/196386195713 | 404 Not Found | needed for: A0978 Kinky Friedman self-titled tracklist confirmation
 - [QA34] https://en.wikipedia.org/wiki/Powerglide_(album) | ERR_TUNNEL_CONNECTION_FAILED (transient proxy error) | needed for: New Riders of the Purple Sage Powerglide tracklist/label (A1122) -- retried once and succeeded
+- [SPOT2] https://regals.bandcamp.com , https://regalsband.bandcamp.com | no working Bandcamp found for the real NH/Maine alt-country band REGALS ("wallfly") | needed for: REGALS row -> sent to needs_verification
+- [SPOT2] growingboysband.bandcamp.com (wrong band, Boston) | could not find real Chicago Growing Boys' Bandcamp within budget | needed for: Growing Boys row -> sent to needs_verification
+- [SPOT2] https://meandmygrandma.bandcamp.com , https://monarchroad.bandcamp.com | 404, no Bandcamp presence found for either artist | needed for: Me and My Grandma / Monarch Road -> skipped
+- [SPOT2] https://newrose.bandcamp.com/album/crying-eyes | 404 Not Found (no retry) | needed for: possible additional New Rose album -- used Morning Haze instead
