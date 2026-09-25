@@ -9,6 +9,6 @@ For EVERY row, check the description and lineage and fix what is wrong:
 6. Keep the good parts: concrete sound description (instruments, voice, tempo, production), who it is for. Result must still be 2–4 sentences, at least ~120 characters, own words, song titles in single quotes, no quote over 10 words, no double-quoted spans over 60 characters.
 Write one JSON line per row to /home/claude/work/qa/descf_result_{N}.jsonl:
 {"id":"...","verdict":"ok"|"rewrite"|"flag","problems":["short"],"rewrite":{"description":"...","lineage":"...","lineage_basis":"..."}}
-Include in "rewrite" only the fields you change (but always the full text of a changed field). Use "flag" only when the album itself seems wrong (does not exist / wrong artist / wrong year by a lot) — explain in problems.
+Include in "rewrite" only the fields you change (but always the full text of a changed field). Use "flag" only when you have POSITIVE reason to think the album itself is wrong (e.g. you know it is by another artist or from a very different year) — never merely because you do not recognise a recent DIY release; those were verified against Bandcamp/label pages.
 Process the file in chunks of ~25 rows, appending results as you go. At the end verify with python that every input id has exactly one result line and that every rewritten description is 2–4 sentences and ≥120 characters.
 Reply with a SHORT summary: ok/rewrite/flag counts and flagged ids.
