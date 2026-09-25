@@ -151,3 +151,7 @@ no V6 gaps to log this session
 - [QA08] Adrianne Lenker "Stages of the Sun" (A1545) | no independent page found (obscure 2006 release, not on Bandcamp) | needed for: independent label/year check
 - [QA08] Vincent Neil Emerson "Blue Stars" (A1643) | own bandcamp has no releases listed (pre-release), search inconclusive | needed for: independent confirmation of upcoming 2026 album
 - [QA08] Vincent Neil Emerson self-titled (A2134) | search did not surface a clear independent confirming page | needed for: independent label/year check
+- [QA09] https://www.discogs.com/artist/7145328-Bnny | wrong Discogs ID (resolved to Süleyman Biçer, not Bnny) | needed for: Bnny label/year independent check (used Bnny's own Bandcamp instead)
+- [QA09] https://en.wikipedia.org/wiki/Teethe_(band) | 404 Not Found | needed for: Teethe independent check (used Teethe's own Bandcamp album page instead)
+- [QA09] https://katykirby.bandcamp.com/music | page returned no discography text via query extraction | needed for: Katy Kirby independent check (used Wikipedia instead, which flagged A1712 as fail)
+- [QA09] https://spencerhoffman.bandcamp.com/music | page did not list "Cherry Picker" (listed other releases) | needed for: Spencer Hoffman cross-check (resolved via row's own Spill Magazine review, which matched exactly)

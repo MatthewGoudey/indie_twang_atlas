@@ -34,6 +34,12 @@
    "artist": "Gia Margaret",
    "drop": true,
    "reason": "Ambient/instrumental songwriting without roots texture; fails the Core sound test."
+  },
+  {
+   "artist": "Vincent Neil Emerson",
+   "album": "Blue Stars",
+   "drop": true,
+   "reason": "Listed as a 2026 album but its Bandcamp page is empty and QA found no confirming page; moved to Needs Verification until it is out."
   }
  ],
  "notes": [

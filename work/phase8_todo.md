@@ -5,3 +5,4 @@
 - Beachwood Sparks 2000/2001 filed V4 primary.
 - Canonical artist names: Bonnie 'Prince' Billy quote style; villagerrr vs Villagerrr; Hataałii vs Hataalii.
 - Gia Margaret: NET added (Orindal); SW1/SW2 rejected as ambient. Decide (likely drop to Borderline Log exclusion).
+- QA batch 11 (V6/V7 sample) error rate 6.3% (>5%): per spec §8.2, re-verify entire batch → covered by key-track+fact sweep batches 31–37 which re-check year/label/title on all non-sampled rows; log in QA Log.
