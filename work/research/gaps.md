@@ -97,3 +97,37 @@ no V6 gaps to log this session
 - [SW3] https://www.discogs.com/artist/1085148-Chris-Forsyth | wrong artist ID (resolved to Stereobastard) | needed for: Chris Forsyth full discography beyond Solar Motel/Intensity Ghost; later LPs (The Rarity of Experience, Dreaming in the Non-Dream, All Time Present) not verified within budget
 - [SW3] Circles Around the Sun self-titled LP year shows as 2020 per about-page/Facebook mentions but Bandcamp album page metadata shows "released 03 June 2022" (likely a reissue/digital-listing date); used 2020 as original release, confidence Medium
 - [SW3] Jonathan Wilson - Eat the Worm (2023) not independently verified for label within budget; left out of this batch
+- [SW4] https://en.wikipedia.org/wiki/Fred_Thomas_(musician) | 404 not found | needed for: Fred Thomas discography (Bandcamp /music also had no years/labels; logged to needs_verification)
+- [SW4] https://en.wikipedia.org/wiki/Forth_Wanderers | redirected to Forth Wanderers F.C. (disambiguation collision) | needed for: Forth Wanderers discography years/labels (Bandcamp had titles only, no dates)
+- [SW4] https://en.wikipedia.org/wiki/Diners_(band) | 404 not found | needed for: Diners bio (recovered via Bandcamp + No Expectations blurb + janglepophub review instead)
+- [SW4] https://goldenapplesband.bandcamp.com/music, https://goldenapples.bandcamp.com/music | 404 then no year/label data on grid | needed for: Golden Apples fuller discography beyond Bananasugarfire/Shooting Star (already staged in lane_C7a)
+- [SW4] https://hurryphilly.bandcamp.com/music | 404 (wrong subdomain; correct hurry.bandcamp.com found but grid had no years/labels) | needed for: Hurry discography beyond Fake Ideas
+- [SW4] https://theconvenienceband.bandcamp.com/music, https://joeglassmusic.bandcamp.com/album/slither | 404 Not Found | needed for: The Convenience discography; Joe Glass Slither confirmed instead via No Expectations blurb only (Medium confidence)
+- [SW4] https://cashlangdon.bandcamp.com/music, https://gladie.bandcamp.com/music, https://jonathanpersonne.bandcamp.com/music, https://daughterofswords.bandcamp.com/music, https://awningband.bandcamp.com/music | pages loaded but grid shows no year/label text | needed for: multiple leftover artists' extended discographies; sent to needs_verification or single-album rows sourced via No Expectations/Wikipedia instead
+- [SW4] https://bonnydoonband.bandcamp.com/music | 404 (wrong subdomain) | needed for: Bonny Doon label cross-check (resolved via Wikipedia instead)
+- [SW4] Jimmy Montague - Tomorrow's Coffee (2024); The Brights - Oyster Rock! (2023); Dusk - Glass Pastures (2023); Discus - To Relate To (2025); Double Extra Large - Other People (2026); Half Gringa - Cosmovision (2025); Kindsight - No Shame No Fame (2024); Cende - #1 Hit Single (2017); Goon - Dream 3 (2025); Dialup Ghost - Donkey Howdy (2026) | label not confirmed via any scraped page | needed for: staging rows; sent to needs_verification instead of guessing labels
+- [SW4] Hotline TNT - Raspberry Moon (2025); Courtney Barnett - Creature of Habit (2026); Kurt Vile - Philadelphia's Been Good to Me (2026) | year confirmed but label not confirmed via scraped page within budget | needed for: completing full discography rows; sent to needs_verification
+- [V259/V9] https://en.wikipedia.org/wiki/The_Picketts | 404 Not Found | needed for: The Picketts 1990s album (assignment seed) — no page, not retried
+- [V259/V9] https://en.wikipedia.org/wiki/The_Backsliders | label for "Throwin' Rocks at the Moon" (1997) not stated on page | needed for: The Backsliders row — left out rather than guess label
+- [V259/V9] 5 Chinese Brothers, Jolene (Hell's Half Acre), Hazeldine, Moonshine Willy, Grievous Angels, Blue Rodeo, Cowslingers | not attempted | search budget (10) exhausted resolving V2 needs_verification lines before reaching these V9 seeds; scrape budget allowed only direct-URL lookups thereafter
+- [NET] https://dearliferecords.bandcamp.com/music | 404 wrong handle | needed for: Dear Life Records catalog (correct handle: dearliferecs)
+- [NET] https://lameorecords.bandcamp.com/music | 404 wrong handle | needed for: Lame-O Records catalog (correct handle: lame-orecords)
+- [NET] https://explodinginsound.bandcamp.com/music | 404 wrong handle | needed for: Exploding in Sound catalog (correct handle: explodinginsoundrecords)
+- [NET] https://firetalkrecords.bandcamp.com/music | 404 wrong handle | needed for: Fire Talk catalog (correct handle: firetalk)
+- [NET] https://curationrecords.bandcamp.com/music | 404 wrong handle | needed for: Curation Records catalog (correct handle: curation-records)
+- [NET] https://squirrelflower.bandcamp.com/album/tomorrows-fire | 404 wrong slug | needed for: Squirrel Flower - Tomorrow's Fire (verified via Wikipedia instead)
+- [NET] https://uniboysca.bandcamp.com/album/uni-boys | 404 | needed for: Uni Boys (Curation Records) self-titled year/label
+- [NET] https://farmerdaveandthewizardsofthewest.bandcamp.com/album/fdwow | 404 | needed for: Farmer Dave and the Wizards Of The West - FDWOW year/label
+- [SW1] Casual Technicians - Well Once There Was A King (2026) | no bandcamp/wikipedia page located within budget | needed for: year/label confirmation
+- [SW1] Dean Johnson - I Hope We Can Still Be Friends (2025) | no discography source located within budget | needed for: year/label confirmation
+- [SW1] Ellie O'Neill - Time of Fallow (2026) | no discography source located within budget | needed for: year/label confirmation
+- [SW1] Gawshock - Leaves to the Sun (2026) | no discography source located within budget | needed for: year/label confirmation
+- [SW1] h. pruz - Red sky at morning (2025) | no discography source located within budget | needed for: year/label confirmation
+- [SW1] Hut - Hut (2025) | Renny Conti's new band; no dedicated Bandcamp page for the band (distinct from Renny Conti solo) found within budget | needed for: year/label confirmation
+- [SW1] kitship - am i a rock? (2026) | no discography source located within budget | needed for: year/label confirmation
+- [SW1] Ruby of Thanks - Before You Turn Into a Dog (2026) | no discography source located within budget | needed for: year/label confirmation
+- [SW1] She Returns From War - Ruthless (2023) | leftover note says LP was due Nov 10, actual release year uncertain; no source located within budget
+- [SW1] Spencer Hoffman - Apple Core (2024) | prior lane agent (C5b) already found Bandcamp 404 for this artist; not retried per no-retry rule
+- [SW1] Will Hasell - Roadkill Heart (2026) | no discography source located within budget | needed for: year/label confirmation
+- [SW1] Angela Autumn - Believer (2026) | bandcamp.com/music page scraped but showed no release dates/label text | needed for: year/label confirmation
+- [SW1] https://anniewilliamsmusic.bandcamp.com/music | 404 | needed for: Annie Williams - Visitor label/year confirmation
