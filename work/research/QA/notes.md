@@ -27,3 +27,9 @@ Vashti Bunyan | 1970 | Philips | discogs artist/319399 | 1
 Wilco | 1999-2023 | Reprise/Nonesuch/dBpm | discogs artist/102984 | 1
 Jeff Tweedy | 2018/2020/2025 | dBpm | discogs artist/306247 | 1
 Loose Fur | 2003/2006 | Drag City | discogs artist/466436 | 1
+Tweedy(band) | 2014 | dBpm | discogs release/6116624 | 1
+Okkervil River | 2002-2011 | Jagjaguwar | discogs artist/478076 | 1
+Shearwater | 2006/2008 | Misra/Matador | discogs artist/539866 | 1
+My Morning Jacket | 1999-2015 | Darla/ATO | discogs artist/100346 + wiki album pages Circuital, The_Waterfall | 1 (FIX: Tennessee Fire label)
+Band of Horses | 2007/2010 | Sub Pop/Columbia+Fat Possum+Brown | discogs artist/424476 | 1
+Phosphorescent | 2003-2018 | Warm/Misra/Dead Oceans | discogs artist/769729 | 1

@@ -132,3 +132,13 @@ no V6 gaps to log this session
 - [SW1] Angela Autumn - Believer (2026) | bandcamp.com/music page scraped but showed no release dates/label text | needed for: year/label confirmation
 - [SW1] https://anniewilliamsmusic.bandcamp.com/music | 404 | needed for: Annie Williams - Visitor label/year confirmation
 - [QA09] https://www.discogs.com/search/?q=Julia+Jacklin&type=master | Invalid content from server (proxy) | needed for: Julia Jacklin discography
+- [SW5] https://motroper.bandcamp.com/album/svengali | 404 (page moved/renamed) | needed for: Mo Troper - Svengali tracklist/label confirmation
+- [SW5] https://superviolet.bandcamp.com/album/infinite-spring | 404 (wrong subdomain, corrected to supervioletmusic.bandcamp.com) | needed for: initial lookup attempt, resolved
+- [SW5] https://en.wikipedia.org/wiki/Superviolet | 404 (no standalone band Wikipedia page) | needed for: Superviolet bio/discography cross-check
+- [SW5] https://en.wikipedia.org/wiki/Tony_Molina_(musician) | 404 (no such Wikipedia page) | needed for: Tony Molina discography cross-check
+- [SW5] https://sunseekermusic.bandcamp.com/album/house-of-gold | 404 (guessed URL wrong) | needed for: Sun Seeker - House of Gold label (left as needs_verification)
+- [SW5] https://nehimusic.bandcamp.com/music | 404 (wrong subdomain) | needed for: NE-HI cross-check, resolved via Wikipedia instead
+- [SW5] https://twinpeaksband.bandcamp.com/music | 404 (wrong subdomain) | needed for: Twin Peaks post-2019 album check, resolved via Wikipedia instead
+- [SW5] https://rollingblackoutscf.bandcamp.com/music | 404 (wrong subdomain) | needed for: RBCF EP cross-check, resolved via correct subdomain + Wikipedia
+- [SW5] https://sharppins.bandcamp.com/album/balloon-balloon-balloon | 404 (correct slug has -2 suffix) | needed for: Sharp Pins - Balloon Balloon Balloon, resolved
+- [SW5] https://warehouseatl.bandcamp.com/album/tesseract | 404 (delisted/renamed) | needed for: Warehouse - Tesseract direct bandcamp confirmation, resolved via Discogs/BrooklynVegan instead
