@@ -7,3 +7,15 @@
 - [V10] https://en.wikipedia.org/wiki/I_Do_Not_Love_You | 404 not found | needed for: Small Factory tracklist (resolved via search + discogs instead)
 - [V10] https://en.wikipedia.org/wiki/For_a_While,_It_Was_Funny | 404 not found | needed for: Karl Hendricks Trio tracklist (resolved via search + mergerecords.com instead)
 - [V10] https://en.wikipedia.org/wiki/Possum_Trot_Plan | 404 not found | needed for: Number One Cup tracklist (resolved via search instead)
+- [V7] https://en.wikipedia.org/wiki/Zephaniah_OHora | 404 (page doesn't exist under this title) | needed for: Zephaniah OHora discography (used Discogs instead)
+- [V7] https://en.wikipedia.org/wiki/Joshua_Ray_Walker | 404 | needed for: Joshua Ray Walker discography (used Discogs + search instead)
+- [V7] https://en.wikipedia.org/wiki/Emily_Nenni | 404 | needed for: Emily Nenni discography (used Discogs instead)
+- [V7] https://en.wikipedia.org/wiki/Jesse_Daniel | 404 | needed for: Jesse Daniel discography (search snippets only found; logged as needs_verification, budget exhausted before confirming)
+- [V7] https://en.wikipedia.org/wiki/Dee_White | wrong person (Australian children's author, not the country singer) | needed for: Dee White - Southern Gentleman (2019); logged as needs_verification
+- [V7] https://en.wikipedia.org/wiki/The_Local_Honeys | 404 | needed for: The Local Honeys discography (partial data from bandcamp/search; The Gospel and self-titled album logged as needs_verification)
+- [V7] https://en.wikipedia.org/wiki/Brennen_Leigh | 404 | needed for: Brennen Leigh discography (used Discogs/Bandcamp instead)
+- [V7] https://thelocalhoneys.bandcamp.com/album/the-local-honeys | 404 | needed for: The Local Honeys self-titled album year/label; budget exhausted
+- [V7] https://thelocalhoneys.bandcamp.com/album/the-gospel | 404 | needed for: The Gospel year/label; budget exhausted
+- [V7] https://www.discogs.com/artist/6479638-Jesse-Daniel-3 | wrong artist ID (resolved to Henning Kalow) | needed for: Jesse Daniel full discography; ran out of remaining scrape budget to retry
+- [V7] Cole Chaney - Mercy (2022) | not researched | needed for: borderline V7/X2 candidate named in assignment; 0 searches/scrapes remained
+- [V7] Summer Dean - Bad Romantic (2020) | not confirmed via scraped page | needed for: label/year confirmation
