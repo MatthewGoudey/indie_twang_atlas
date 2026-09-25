@@ -1,0 +1,13 @@
+YOUR ASSIGNMENT — description review (spec §8 step 6) for the V Album Atlas. No web access is needed; do not use web tools.
+Input: /home/claude/work/qa/desc_sample.jsonl (a random 10% sample of album rows: id, artist, album, year, label, primary_lane, descriptors, description, lineage, lineage_basis, key_tracks). Lane definitions: /home/claude/work/skeleton/lanes.json.
+For each row judge:
+1. OWN WORDS: reads as original prose, not pasted review text (watch for press-release phrasing, quote marks around long passages).
+2. SPECIFIC: says something concrete about THIS album (instruments, voice, tempo, production, songs) rather than generic praise.
+3. ACCURATE as far as you can tell from general knowledge: no claim that is clearly wrong (wrong instrument/member/genre, wrong era), no invented quotes, chart positions, sales figures, awards or biographical details that the row cannot support. If you are unsure, do not flag it as wrong; flag it only as "unsupported" when it asserts a hard fact (award, chart, sales, quote, personnel) that is not common knowledge.
+4. QUOTES: no quote longer than 10 words; any quote attributed.
+5. LINEAGE: Documented claims should be the kind that an interview/credit/shared member would establish; resemblance-only claims should be phrased as resemblance and marked Inferred.
+Write one JSON line per row to /home/claude/work/qa/desc_result.jsonl: {"id": "...", "verdict": "ok"|"rewrite"|"flag", "problems": ["..."], "rewrite": {"description": "...", "lineage": "...", "lineage_basis": "..."}}
+- "rewrite": you supply corrected text (2–4 sentences, own words; single quotes around song titles; only facts already present in the row or plainly established) — include only the fields you change.
+- "flag": a factual concern you cannot fix without research (explain).
+Then write /home/claude/work/qa/desc_summary.md: counts ok/rewrite/flag, the % of the sample with problems, the most common problem types, and 5 example ids.
+Reply with a SHORT summary of those counts.
