@@ -46,3 +46,23 @@ no V6 gaps to log this session
 - [C5a] https://en.wikipedia.org/wiki/Field_Medic_(musician) | 404 (wrong URL slug) | needed for: Field Medic discography, resolved via Bandcamp instead
 - [C5a] https://en.wikipedia.org/wiki/Kassi_Valazza | 404 (no wiki page exists) | needed for: Kassi Valazza discography, resolved via Bandcamp instead
 - [C5a] Allegra Krieger - Art of the Unseen Infinity Machine (2024) | no scrape reached before budget spent | needed for: label confirmation, sent to needs_verification
+- [C6a] https://echolalianashville.bandcamp.com/music | 404, wrong/no subdomain | needed for: Echolalia label confirmation (resolved via search snippets instead, not directly scraped)
+- [C6a] https://crediteletric.bandcamp.com/music | 404 typo domain (correct creditelectric.bandcamp.com scraped, but no year/label shown on page) | needed for: Credit Electric - Salvation label
+- [C6a] https://en.wikipedia.org/wiki/Chris_Forsyth | 404, no wiki page; bandcamp /music index also gave no dates/labels | needed for: Chris Forsyth discography
+- [C6a] https://en.wikipedia.org/wiki/Arbor_Labor_Union | 404, no wiki page | needed for: Arbor Labor Union label confirmation (used Spotify/bandcamp search snippets only, not scraped -> left as reply note, no row written)
+- [C6a] https://housebandmusic.bandcamp.com/music | 404, guessed subdomain wrong | needed for: House Band - Aventurine
+- [C6a] https://hannahcohen.bandcamp.com/music, https://en.wikipedia.org/wiki/Hannah_Cohen | bandcamp page had no dates; wiki page is a disambiguation page | needed for: Hannah Cohen - Earthstar Mountain label/year confirmation
+- [C6a] https://annastlouis.bandcamp.com/music, https://en.wikipedia.org/wiki/Anna_St._Louis | bandcamp had no dates; wiki 404 | needed for: Anna St. Louis - In the Air
+- [C6a] https://johannasamuels.bandcamp.com/music | no year/label shown | needed for: Johanna Samuels - Sorry, Kid
+- [C6a] https://kaceyjohansing.bandcamp.com/music | no year/label shown | needed for: Kacey Johansing - Year Away
+- [C6a] https://benseretan.bandcamp.com/music | no year/label shown for Allora specifically | needed for: Ben Seretan - Allora
+- [C6a] https://gabrielbirnbaum.bandcamp.com/music | no year/label shown | needed for: Gabriel Birnbaum - Patron Saint of Tireless Losers
+- [C6a] https://colorgreen.bandcamp.com/music | no year/label shown | needed for: Color Green - Fool's Parade / self-titled
+- [C6a] https://farmerdavescher.bandcamp.com/music | no data on page | needed for: Farmer Dave Scher discography
+- [C6a] https://thedeadtongues.bandcamp.com/music | no data on page | needed for: The Dead Tongues discography
+- [C6a] https://www.song-bar.com/album-releases/tag/Full+Time+Hobby | page loaded but query mode found no Echolalia-specific date/label text | needed for: Echolalia label (confirmed instead via search result snippet, not a full scrape)
+- [XA] https://en.wikipedia.org/wiki/JD_Clayton | 404, no dedicated Wikipedia article | needed for: JD Clayton - Long Way From Home (recovered via Discogs search instead)
+- [XA] https://en.wikipedia.org/wiki/Live_Volume_1 | 404, no dedicated Wikipedia article for Billy Strings Live Vol. 1 | needed for: Billy Strings - Live Vol. 1 (excluded from lane_XA; Home used as the Billy Strings landmark instead)
+- [XA] https://en.wikipedia.org/wiki/Wave_on_Wave_(album) | 404, wrong URL slug | needed for: Pat Green - Wave on Wave (recovered via search to correct URL https://en.wikipedia.org/wiki/Wave_on_Wave)
+- [XC] https://en.wikipedia.org/wiki/Protomartyr | 404/wrong page (redirected to List of protomartyrs) | needed for: Protomartyr discography verification, will try band-specific URL or search
+- [XC] https://en.wikipedia.org/wiki/Robber_Robber | 404 Not Found | needed for: Robber Robber discography verification, will try bandcamp
