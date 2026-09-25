@@ -11,3 +11,6 @@ A0786 Fu##in' Up (Discogs) - tracks incl Country Home, Over And Over, Love To Bu
 A0787 Talkin to the Trees - tracks incl Family Life, Big Change, Lets Roll Again. 2025 label "The Other Shoe, Reprise Records". OK
 A0800 Sweetheart of the Rodeo - tracks incl Hickory Wind, You Ain't Goin' Nowhere, I Am a Pilgrim. 1968 Columbia. OK
 A0847 Slippin' Away (AllMusic) - tracks incl Slippin' Away, Take It on the Run, Witching Hour. 1976. Label not stated on AllMusic page (row says Asylum). OK, label unconfirmed independently.
+Dylan block: A0852 BIABH ok(1965 Columbia); A0853 Highway61 ok(1965 Col); A0854 BonB ok(1966 Col); A0855 JWH ok(1967 Col); A0858 NewMorning ok(1970 Col); A0859 PlanetWaves ok(1974 Asylum); A0860 BOTT ok(1975 Col); A0874 Bootleg5 ok(2002 Col); A0861 BasementTapes ok(1975 Col); A0864 BeforeFlood ok(1974 Asylum).
+Band block: A0875 BigPink ok(1968 Cap); A0876 TheBand ok(1969 Cap); A0877 StageFright ok(1970 Cap); A0878 Cahoots ok(1971 Cap); A0879 RockOfAges ok(1972 Cap); A0880 MoondogMatinee ok(1973 Cap); A0882 Islands ok(1977 Cap); A0883 LastWaltz ok(1978 WarnerBros).
+Waylon block: A0889 HonkyTonkHeroes ok(1973 RCA); A0891 DreamingMyDreams ok(1975 RCA); A0893 OlWaylon ok(1977 RCA); A0894 Waylon&Willie ok(1978 RCA); A0937 Wanted!TheOutlaws ok(1976 RCA).
