@@ -30,3 +30,6 @@ no V6 gaps to log this session
 - [C3] https://en.wikipedia.org/wiki/Emily_Nenni | 404 Not Found (no Wikipedia page; used Bandcamp instead) | needed for: Emily Nenni
 - [C3] https://en.wikipedia.org/wiki/Joshua_Ray_Walker | 404 Not Found (no Wikipedia page; used Bandcamp instead) | needed for: Joshua Ray Walker
 - [C3] Kiely Connell "My Own Company" (2024) named by Terry | could not locate on Bandcamp (only Calumet Queen, 2026, listed as her debut) | needed for: terry checklist item
+- [C4C9] https://cusptheband.bandcamp.com/music | 404 Not Found (wrong slug; correct is cusptunes.bandcamp.com) | needed for: Cusp discography
+- [C4C9] https://homeiswhereband.bandcamp.com/music | 404 Not Found (wrong slug; correct is homeiswhere.bandcamp.com) | needed for: Home Is Where discography
+- [C4C9] midwest, post death - "post recovery" | no scrapable Bandcamp/Wikipedia discography page found within budget (only secondhand collection listings and one blog mention) | needed for: field-guide artist year/label/tracks -> sent to needs_verification
